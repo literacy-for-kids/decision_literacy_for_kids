@@ -6,6 +6,9 @@
 
 A curiosity-driven **18-week decision literacy curriculum** that teaches kids (ages 7-11) to **debug the human brain** — replacing gut reactions with clear thinking about probability, cognitive biases, and strategy.
 
+🌐 **View the curriculum website:**  
+https://zcohen-nerd.github.io/decision_literacy_for_kids/
+
 ---
 
 # About the Curriculum
