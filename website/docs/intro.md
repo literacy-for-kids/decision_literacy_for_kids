@@ -62,7 +62,7 @@ This is **one curriculum with built-in differentiation**, not two separate track
 
 An 8-year-old will engage with the games and intuitions, while a 12-year-old will dig into the reasoning and math. Both are learning the same core ideas — just at different depths.
 
-You don't need to choose a track. Read the main lesson, then look for the age-specific guidance boxes within each week.
+You don't need to choose a track. Read the main lesson, then look for the age-specific guidance boxes within each week. In mixed-age groups, run the main activity together and use the age-specific prompts to adjust the depth of your questions and discussion for each learner.
 
 ### Flexibility Is Expected
 
