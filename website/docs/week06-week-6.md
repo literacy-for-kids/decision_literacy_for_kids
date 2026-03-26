@@ -8,36 +8,61 @@ description: "Why losing hurts more than winning feels good, and how advertisers
 # Week 6: The Loss Aversion Lab
 *Why Losing Hurts More Than Winning Feels Good*
 
+Last week you met three of your brain's biggest shortcuts — anchoring, availability, and representativeness. This week we zoom in on one of the most powerful patterns in human decision-making: the brain's tendency to weigh losses more heavily than gains.
+
 Human brains treat gains and losses differently. Losing $10 feels about **twice as bad** as finding $10 feels good. This lopsided wiring — called **loss aversion** — was useful when losing your food meant starving, but today it causes us to make overly cautious decisions, cling to things we don't need, and fall for marketing tricks.
 
 This week we experience loss aversion first-hand and learn to spot it in the wild. Loss aversion is another place where fast brain overrides slow brain — your quick emotional "no!" fires before your reasoning brain can do the math.
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - The trading game works best with real (small) objects the student has a moment to "bond" with.
 - Loss aversion is emotional by definition — the student may feel genuinely reluctant to trade. That's the lesson!
 - Emphasize: loss aversion is not "bad." It is a setting. The goal is to recognize it and decide when to override it.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Trading Game](#guided-session-1)
 - [Guided Session 2: The Framing Effect](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| | |
+|---|---|
+| **Prep time** | ~10 minutes |
+| **Materials** | 6–8 small objects for trading, framing pairs (listed below), coins for coin-flip demo |
+| **Key vocabulary** | loss aversion, endowment effect, framing effect |
+| **Difficulty** | Moderate |
+
+## Facilitator Preparation
 
 :::info Before You Begin
-- Gather 6-8 small objects of roughly equal value (stickers, erasers, small toys, fun pencils, etc.)
+- Gather 6–8 small objects of roughly equal value (stickers, erasers, small toys, fun pencils, etc.)
 - Prepare the framing pairs for Session 2 (listed below)
 - Have coins ready for the coin-flip bet demo
 - Review the Shortcut Poster from last week — loss aversion connects to all three shortcuts
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 Let the student feel the pull of loss aversion before naming it. The "aha" moment is stronger when the concept explains something they just experienced.
+:::
+
+## Age Differentiation
+
+:::info For Ages 8–9
+- Lean into the hands-on trading game and endowment experiment — these are concrete and fun.
+- Keep the framing pairs activity but skip the more abstract framing discussions.
+- Focus on the *feeling* of loss aversion rather than the mathematics behind it.
+:::
+
+:::info For Ages 10–12
+- Dive deeper into the mathematics of loss aversion — explore the roughly 2× multiplier and expected-value calculations.
+- Discuss real-world framing in news headlines and advertising campaigns.
+- Challenge learners to find and reframe loss-framed messages they encounter during the week.
 :::
 
 ---
@@ -164,7 +189,7 @@ Discuss: "Neither frame is 'right' or 'wrong.' The point is to recognize the fra
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -201,3 +226,13 @@ For each, label it as "gain frame" or "loss frame."
 - If losses feel 2x worse than gains feel good, how does that change the way you should think about risky choices?
 - Can you think of a time when someone used loss framing to pressure you into something?
 - Is loss aversion ever useful? When might it actually protect you?
+
+---
+
+:::tip Simplify This Week
+The trading game alone can carry the week. If the framing discussion feels abstract, skip the Reframe Challenge and spend more time on the Loss Aversion Diary in Independent Practice — real-life observation is often the best teacher.
+:::
+
+:::tip Extend for Older Learners
+Introduce the expected-value formula explicitly and have learners calculate the EV of several real-world bets or choices. Discuss how loss aversion interacts with other biases from Week 5 — for example, how availability bias can amplify the feeling of loss when a recent bad outcome is fresh in mind.
+:::
