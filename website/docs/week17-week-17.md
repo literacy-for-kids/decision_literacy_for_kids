@@ -14,7 +14,7 @@ Good scientists don't just "try things and hope." They **measure, record, and an
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - The student has been running their protocol for about a week now. This session is a check-in, not an introduction.
 - If the protocol is working, celebrate and discuss why. If it's struggling, that's equally valuable data.
 - The message is: **imperfect data about a real problem is infinitely more useful than a perfect plan that was never tested.**
@@ -22,13 +22,22 @@ Good scientists don't just "try things and hope." They **measure, record, and an
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Data Collection Plan](#guided-session-1)
 - [Guided Session 2: Mid-Experiment Check-In](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| | |
+|---|---|
+| **Prep time** | ~5 minutes |
+| **Materials** | Protocol from Week 16, tracking data, graph paper or chart template, baseline data from Week 15 |
+| **Key vocabulary** | data collection, baseline comparison, mid-experiment check |
+| **Difficulty** | Moderate |
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Review the student's protocol from Week 16
@@ -38,8 +47,22 @@ Good scientists don't just "try things and hope." They **measure, record, and an
 - Be prepared for two scenarios: the protocol working well or struggling
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 The most important skill this week: **honest self-reporting.** If the student fudges the data to look good, the whole project loses value. Create a safe environment where "my protocol failed 4 out of 5 days" is celebrated as honest, useful data — not criticised as failure.
+:::
+
+## Age Differentiation
+
+:::info For Ages 8–9
+- Use simple daily tracking: checkmarks, smiley faces, or colour-coded stickers rather than detailed numbers.
+- Keep the data review visual and concrete — draw a simple bar chart together instead of discussing percentages.
+- The mid-experiment check-in may need more facilitator involvement to interpret patterns.
+:::
+
+:::info For Ages 10–12
+- Encourage detailed tracking with numbers and percentages. Compare to baseline quantitatively.
+- Have them calculate their own success rate and graph the trend over time.
+- Push toward independent analysis: "What does the data tell you?" before offering your interpretation.
 :::
 
 ---
