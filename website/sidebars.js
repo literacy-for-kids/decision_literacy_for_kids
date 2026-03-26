@@ -1,5 +1,7 @@
 // @ts-check
 
+import {literacyHubUrl, literacyProjects} from './src/data/literacyLinks.js';
+
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   curriculumSidebar: [
@@ -69,6 +71,22 @@ const sidebars = {
       ],
     },
     'curriculum-master',
+    {
+      type: 'category',
+      label: 'Explore Other Literacies',
+      items: [
+        {
+          type: 'link',
+          label: 'Literacy for Kids Hub',
+          href: literacyHubUrl,
+        },
+        ...literacyProjects.map(({label, href}) => ({
+          type: 'link',
+          label,
+          href,
+        })),
+      ],
+    },
   ],
 };
 

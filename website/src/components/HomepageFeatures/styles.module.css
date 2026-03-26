@@ -66,6 +66,22 @@
   margin-bottom: 0.65rem;
 }
 
+.card h4 {
+  margin-bottom: 0.65rem;
+}
+
+.card h4 a {
+  color: inherit;
+}
+
+.card h4 a:hover {
+  text-decoration: underline;
+}
+
+.subsectionHeading {
+  margin: 2rem 0 1rem;
+}
+
 .eyebrow {
   margin: 0 0 0.5rem;
   font-size: 0.8rem;
