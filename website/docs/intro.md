@@ -20,6 +20,7 @@ By the end of the course, students will maintain a **Decision Journal** document
 
 :::tip Use This Page
 - Start with [The Big Idea](#the-big-idea) for the course philosophy.
+- Read [How to Use This Curriculum](#how-to-use-this-curriculum) for setup and pacing guidance.
 - Review [The Five Core Mental Models](#the-five-core-mental-models) to see the ideas that thread through every lesson.
 - Skim [Course at a Glance](#course-at-a-glance) for the full program structure.
 - Jump to [What Each Week Includes](#what-each-week-includes) for session format.
@@ -31,6 +32,52 @@ By the end of the course, students will maintain a **Decision Journal** document
 - Each weekly page is designed to be skimmed quickly: review the caregiver snapshot, teach one session at a time, and come back later for the rest.
 - Use this page when you want the big-picture philosophy, not when you need minute-by-minute teaching directions.
 :::
+
+## How to Use This Curriculum
+
+### Who It's For
+
+This curriculum is designed for **adults working with kids ages 8–12** — whether you're a parent, caregiver, classroom teacher, homeschool family, co-op group, or after-school club leader. No background in math, psychology, or decision science is required. If you can facilitate a conversation and roll a pair of dice, you're qualified.
+
+### What a Typical Week Looks Like
+
+Each week has **three sessions of roughly 30 minutes each**:
+
+1. **Guided Session 1** — You lead. A game or experiment introduces the week's concept.
+2. **Guided Session 2** — You lead. A deeper activity applies the concept to real-world situations.
+3. **Independent Practice** — Student-driven. Practice, observation, and a Decision Journal entry.
+
+A comfortable pace is **two guided sessions plus one independent practice per week**. Some families do all three in one weekend; some spread them across the week. Both work.
+
+### How Much Prep Do You Need?
+
+Minimal. Most activities use household items — coins, dice, cards, paper. Each weekly page includes a facilitator snapshot at the top so you can review the key ideas in under five minutes. There's no separate teacher's manual to study. The lesson page *is* the guide.
+
+### Adapting for Different Ages
+
+This is **one curriculum with built-in differentiation**, not two separate tracks. Every weekly lesson includes tailored guidance:
+
+- **For Ages 8–9:** Focus on games, stories, and intuitive understanding. Math stays light — counting, comparing, simple fractions. The goal is to *feel* the concept before naming it.
+- **For Ages 10–12:** Push into deeper reasoning, more explicit math (percentages, expected value), and richer discussion. These learners can handle abstraction and benefit from it.
+
+An 8-year-old will engage with the games and intuitions, while a 12-year-old will dig into the reasoning and math. Both are learning the same core ideas — just at different depths.
+
+You don't need to choose a track. Read the main lesson, then look for the age-specific guidance boxes within each week. In mixed-age groups, run the main activity together and use the age-specific prompts to adjust the depth of your questions and discussion for each learner.
+
+### Flexibility Is Expected
+
+This is a guide, not a rigid script. Skip an activity that doesn't fit your setting. Spend two weeks on a topic your kids find fascinating. Reorder the optional extension weeks. The structure is here to support you, not constrain you.
+
+### Quick-Start Paths
+
+| If you're a… | Start here |
+|---|---|
+| **Parent or caregiver** | Jump straight to [Week 1](/docs/lessons/week-01). Read each lesson as you go. |
+| **Teacher** | Read this page fully, then skim the [Course at a Glance](#course-at-a-glance) to map lessons to your schedule. |
+| **Homeschool family** | Read this page, then plan your pacing — many families do two weeks of curriculum per calendar week, or one week stretched over two. |
+| **Club or co-op leader** | Focus on Guided Session 1 each week for a great single-session format. |
+
+---
 
 ## The Big Idea
 
@@ -67,13 +114,13 @@ Evolution optimized the human brain for survival, not for modern accuracy. We ex
 
 ### 3. Every "Yes" Is a "No" (Opportunity Cost)
 
-In a world of finite resources — time, money, energy — choosing one path inherently closes others. We treat every decision as a trade-off, bringing the hidden costs of a choice into the open.
+In a world of finite resources — time, money, energy — choosing one path inherently closes others. If you spend Saturday at a birthday party, you can't also spend it at the beach. If you use your allowance on a game today, that money isn't available for something better tomorrow. We treat every decision as a trade-off, training students to ask: *"What am I giving up by choosing this?"* — and to make that hidden cost visible before they commit.
 
 ---
 
 ### 4. Information Has Diminishing Returns
 
-Waiting for 100% certainty leads to "analysis paralysis." Students learn to identify when they have enough signal to act and when gathering more information is just a way of avoiding the decision.
+More information is helpful — up to a point. Reading ten reviews of a product might genuinely improve your choice; reading two hundred more probably won't. Waiting for 100% certainty leads to "analysis paralysis," where the cost of delay outweighs the value of the extra data. Students learn to identify when they have *enough* signal to act and when gathering more information is just a way of avoiding the decision.
 
 ---
 
@@ -132,7 +179,7 @@ Deepens the concept with a more structured activity. Students apply the idea, di
 
 ---
 
-### Independent Session (≈30 minutes)
+### Independent Practice (≈30 minutes)
 
 A student-driven session combining practice, real-world observation, and a **Decision Journal** entry. This is where ideas move from the lesson into the student's actual life.
 
@@ -180,7 +227,7 @@ No special software or expensive materials are required.
 
 ### Who Is This For?
 
-This curriculum is designed for young learners roughly **ages 7–11**, with adult guidance. The concepts scale naturally — a 7-year-old will engage with the games and intuitions, while an 11-year-old will dig into the reasoning and math.
+This curriculum is designed for young learners **ages 8–12**, with adult guidance. The concepts scale naturally with the built-in age differentiation described [above](#adapting-for-different-ages).
 
 Use the sidebar to navigate through the lessons.
 
@@ -188,17 +235,17 @@ Use the sidebar to navigate through the lessons.
 
 ## The Goal
 
-By the end of the program, students should:
+By the end of 18 weeks, students will have internalized a fundamentally different relationship with decision-making. Specifically, they should be able to:
 
-- understand that good decisions and good outcomes are different things
-- recognize common cognitive biases in themselves and the world around them
-- think in probabilities rather than certainties
-- evaluate trade-offs and opportunity costs
-- know when they have enough information to act
-- consider how their choices affect others
-- design, test, and improve their own decision-making systems
-- maintain a Decision Journal as a tool for self-awareness
+- **Separate process from outcome** — evaluate a choice by the reasoning behind it, not just whether it "worked out"
+- **Name their brain's shortcuts** — recognize biases like loss aversion, sunk cost, and anchoring as they happen, not just in hindsight
+- **Think in probabilities** — replace "definitely" and "no way" with calibrated confidence ("I'm about 70% sure")
+- **See the hidden trade-off** — identify what they're giving up every time they choose something
+- **Know when to stop researching and start deciding** — recognize the point of diminishing returns on information
+- **Consider the system** — think about how their choices affect others and how others' choices affect them
+- **Build and improve their own decision systems** — design a protocol, test it against reality, and iterate
+- **Use a Decision Journal as a thinking tool** — not just a record, but a mirror that reveals patterns in their own reasoning
 
-The most important outcome is simple:
+The most important outcome isn't any single skill. It's a shift in identity:
 
-**Students should feel like decisions are something they can get better at — not just something that happens to them.**
+**Students should see themselves as people who *make* decisions — not people decisions *happen to*.**

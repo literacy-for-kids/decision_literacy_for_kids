@@ -8,13 +8,13 @@ description: "Introduction to interconnected decisions — understanding that ev
 # Week 12: Your Choices Affect Others
 *Introduction to Interconnected Decisions*
 
-Welcome to Phase 4: **Game Theory & Social Systems.** Until now, we've treated decisions as solo activities. But in reality, you're making decisions inside a web of other people who are ALSO making decisions. Your choices affect them, and their choices affect you.
+Phase 4 begins. Until now, we've focused on YOU as a solo decision-maker. But real life doesn't work that way. Your choices affect others, and theirs affect you. Welcome to **Game Theory & Social Systems** — where we learn to make decisions inside a web of other people who are ALSO making decisions.
 
 This week we discover **ripple effects** — how a single decision can cascade outward in ways you didn't expect — and begin thinking about decisions as interactions, not just individual acts.
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - This week marks a big shift: from "me" thinking to "us" thinking.
 - The Ripple Effect activity works best when you trace consequences at least 3-4 steps out.
 - The Cooperation Challenge can be done with siblings, friends, or parent-child. Two people minimum.
@@ -22,13 +22,26 @@ This week we discover **ripple effects** — how a single decision can cascade o
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Ripple Effect](#guided-session-1)
 - [Guided Session 2: The Cooperation Challenge](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| Component | Details |
+|---|---|
+| **Key Vocabulary** | ripple effect, second-order effects, interdependence, coordination |
+| **Difficulty** | Moderate |
+| **Prep Time** | ~10 minutes |
+| **Guided Session 1** | The Ripple Effect |
+| **Guided Session 2** | The Cooperation Challenge |
+| **Independent Practice** | Ripple Map Journal + Cooperation Inventory |
+
+---
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare paper for drawing ripple maps (large sheets work best)
@@ -37,9 +50,15 @@ This week we discover **ripple effects** — how a single decision can cascade o
 - Review the student's Decision Journal — have any entries already mentioned other people being affected?
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 The goal is NOT to make the student feel guilty about their choices. It's to expand their mental model from "What's best for me?" to "What happens to the whole system when I make this choice?" Sometimes what's best for you IS best for everyone. Sometimes it isn't. The skill is knowing the difference.
 :::
+
+## Age Differentiation
+
+| Ages 8–9 | Ages 10–12 |
+|---|---|
+| Focus on ripple map drawing — it's visual and accessible. Use family examples (choosing to share a snack → sibling is happier → less arguing → everyone's evening is better). | Push toward mapping longer causal chains. Discuss second-order effects and unintended consequences. |
 
 ---
 
@@ -89,7 +108,7 @@ Now the student draws their own ripple maps for:
 
 Discuss: "How far out did the ripples go? Were any of the later effects surprising?"
 
-:::tip Teacher Note
+:::tip Facilitator Note
 If the student assigns positive/negative/neutral labels to each ripple, they're doing a qualitative version of expected value analysis from Week 9. For advanced students, you could ask: "If you could assign probabilities and values to each ripple, you'd have an EV calculation for your decision's total impact."
 :::
 
@@ -208,13 +227,17 @@ Discuss: "In the 'align' column, cooperation is easy and natural. In the 'confli
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
 Practice seeing the interconnected nature of daily decisions.
 
 ### Activities
+
+:::note Partner Activities
+The Paper Tower Challenge and Resource Dilemma from the guided sessions require partners — keep this in mind if revisiting those activities independently.
+:::
 
 **1. Ripple Map Journal**
 
@@ -241,3 +264,19 @@ For each one:
 - Is it possible to always make choices that are good for you AND good for everyone else?
 - When your interests conflict with someone else's, how do you decide what to do?
 - Can you think of a time when someone else's decision rippled into YOUR life in a way they probably didn't expect?
+
+---
+
+## Tips for Simplifying or Extending
+
+:::tip Simplify (Ages 8–9)
+- Start with just 2-step ripple maps before expanding to 3–4 steps.
+- Use concrete family scenarios (sharing snacks, cleaning up) rather than abstract examples.
+- In the Cooperation Challenge, focus on the fun of building together rather than the strategy.
+:::
+
+:::tip Extend (Ages 10–12)
+- Challenge students to map 5+ step ripple chains and identify where effects become unpredictable.
+- Introduce the concept of second-order effects: "What happens because of what happened?"
+- In the Resource Dilemma, discuss how this scales to real-world problems like shared public spaces.
+:::

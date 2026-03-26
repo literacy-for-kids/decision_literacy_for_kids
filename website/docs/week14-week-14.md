@@ -8,27 +8,40 @@ description: "When individually rational choices lead to group failure — the T
 # Week 14: The Commons Simulation
 *When Individual "Best" Choices Lead to Group Failure*
 
-This week we run the most dramatic simulation in the course: **The Fishing Game.** A shared resource is available to everyone. Each person can take as much as they want. If everyone takes a little, the resource lasts forever. If people get greedy, it collapses — and EVERYONE loses.
+The Prisoner's Dilemma showed the tension between individual and group benefit with TWO players. This week we scale up to see what happens with a shared resource and MULTIPLE players.
 
-This is the **Tragedy of the Commons**, and it explains everything from overfishing to climate change to why the milk in a shared fridge always runs out.
+We run the most dramatic simulation in the course: **The Fishing Game.** A shared resource is available to everyone. Each person can take as much as they want. If everyone takes a little, the resource lasts forever. If people get greedy, it collapses — and EVERYONE loses. This is the **Tragedy of the Commons**, and it explains everything from overfishing to climate change to why the milk in a shared fridge always runs out.
 
 ---
 
-:::info Caregiver Snapshot
-- The Fishing Game needs 2-4 players. Recruit siblings, friends, or family members if possible.
+:::info Facilitator Snapshot
+- The Fishing Game needs 2–4 players. Recruit siblings, friends, or family members if possible.
 - The game is designed to fail in the first round (without communication). That failure IS the lesson.
-- Rounds 2-4 introduce different "solutions." The discussion about which works best is the real learning.
+- Rounds 2–4 introduce different "solutions." The discussion about which works best is the real learning.
 - This is the capstone of Phase 4. It brings together ripple effects, cooperation, and the Prisoner's Dilemma.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Fishing Game](#guided-session-1)
 - [Guided Session 2: Solving the Commons](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| Component | Details |
+|---|---|
+| **Key Vocabulary** | commons, tragedy of the commons, shared resource, sustainability, regulation |
+| **Difficulty** | Advanced |
+| **Prep Time** | ~15 minutes |
+| **Guided Session 1** | The Fishing Game |
+| **Guided Session 2** | Solving the Commons |
+| **Independent Practice** | My Commons + Design a Fair Rule |
+
+---
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Gather 20 tokens (coins, buttons, counters, LEGO bricks — anything countable) as "fish"
@@ -38,11 +51,17 @@ This is the **Tragedy of the Commons**, and it explains everything from overfish
 - Read through the full game rules below before starting
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 Resist the urge to "fix" the first round. Let the commons collapse. The emotional experience of watching a shared resource vanish because everyone took too much is unforgettable. THEN introduce the solutions.
 
 If Round 1 doesn't collapse (cautious players may cooperate naturally), that's a valuable discussion too. Ask why it worked, then play a "maximum catch" round where each player's goal is to maximize their personal haul regardless of the group.
 :::
+
+## Age Differentiation
+
+| Ages 8–9 | Ages 10–12 |
+|---|---|
+| The Fishing Game is physical and fun — lean into it. Use smaller numbers (10 fish instead of 20) and fewer rounds. Focus on the surprise when the pond collapses. | Run full multi-round simulations. Discuss real-world commons problems (oceans, air quality, shared spaces). Have them design rules and compare effectiveness. |
 
 ---
 
@@ -62,7 +81,7 @@ By the end of this session, the student can:
 **1. Game Setup**
 
 - **The Pond:** Place 20 tokens in a bowl. These are fish.
-- **Players:** 2-4 players. Each has a cup for their catch.
+- **Players:** 2–4 players. Each has a cup for their catch.
 - **Goal:** Earn as many fish as possible over multiple rounds.
 
 **Round Rules:**
@@ -75,6 +94,8 @@ By the end of this session, the student can:
 **Key math:**
 - If 4 players each take 2 fish (8 total), and the pond started with 20, it drops to 12. Then 12 doubles to 20 again. **Sustainable!**
 - If 4 players each take 5 fish (20 total), the pond drops to 0. **Game over.**
+
+> **Diminishing returns:** As more fish are taken from the pond, the remaining fish yield less and less — this is diminishing returns at the group level. A pond with 4 fish left can only double to 8, while a pond with 12 left doubles to 20. Every extra fish taken reduces the pond's ability to recover.
 
 ---
 
@@ -91,7 +112,7 @@ Play it out. Track what happens:
 | 3 | | | | | | | | |
 | ... | | | | | | | | |
 
-**What usually happens:** At least one player takes a lot, thinking "If I don't, someone else will." This depletes the pond faster. Within 2-4 rounds, the fish are gone.
+**What usually happens:** At least one player takes a lot, thinking "If I don't, someone else will." This depletes the pond faster. Within 2–4 rounds, the fish are gone.
 
 Debrief:
 - "Why did the pond collapse?"
@@ -200,15 +221,23 @@ Tie together the whole Phase 4 arc:
 
 > "The world's biggest problems — climate change, traffic, pollution — are all commons problems. The solutions all involve the same ingredients: communication, transparency, and fair rules. Now you understand WHY."
 
+:::info Looking Ahead — Phase 5
+This week completes Phase 4: Game Theory & Social Systems. You've learned that your choices ripple outward, that cooperation beats defection in repeated interactions, and that shared resources need communication, transparency, and rules. In Phase 5, we'll take everything you've learned and apply it to the biggest decisions of all — the ones that shape your future.
+:::
+
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
 Identify commons problems in your own life and design simple solutions.
 
 ### Activities
+
+:::note Group Activity
+The Fishing Game requires 2–4 players — recruit family members or friends if revisiting independently.
+:::
 
 **1. My Commons**
 
@@ -241,3 +270,19 @@ Pick one commons problem from your list. Design a simple rule that could help:
 - Why is it harder to solve a commons problem with more people?
 - Is it fair to limit what individuals can do to protect a shared resource?
 - What's the difference between a rule that people follow because they agree with it and a rule they follow because they have to?
+
+---
+
+## Tips for Simplifying or Extending
+
+:::tip Simplify (Ages 8–9)
+- Use 10 fish instead of 20, and play fewer rounds — the collapse happens faster and is easier to grasp.
+- Focus on the physical, hands-on experience of the Fishing Game rather than the math.
+- Keep real-world examples close to home: the family fridge, shared crayons, the playground.
+:::
+
+:::tip Extend (Ages 10–12)
+- Run full multi-round simulations and have students graph the fish population over time.
+- Discuss real-world commons: ocean fisheries, air quality, climate change, shared digital resources.
+- Have students design their own rules, test them in the game, and compare effectiveness across approaches.
+:::

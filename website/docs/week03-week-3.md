@@ -8,7 +8,7 @@ description: "Moving from 'will it happen?' to 'how often does this happen?' —
 # Week 3: Thinking in Probabilities
 *How Often Does This Happen?*
 
-This week we shift from "yes or no" thinking to **probability thinking**:
+In Weeks 1 and 2, we explored randomness and learned that a good decision can still have a bad outcome. This week we go deeper — shifting from "yes or no" thinking to **probability thinking**:
 
 **Instead of asking "will it happen or won't it?", we ask "how often does this happen out of many tries?"**
 
@@ -16,21 +16,30 @@ Students learn that being honest about uncertainty is not weakness — it's a su
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - This week introduces the language of probability without heavy math. Focus on the *feeling* of confidence levels.
 - The key skill is learning to express uncertainty honestly: "I think so, but I'm not sure" becomes "I'm about 60% confident."
 - Don't worry about precise numbers. The goal is the habit of quantifying confidence, not mathematical perfection.
-- Younger learners (7-8) can use a simple scale (very sure / pretty sure / not sure). Older learners can use percentages.
+- Younger learners (ages 8–9) can use a simple scale (very sure / pretty sure / not sure). Learners ages 10–12 can use percentages.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Frequency Game](#guided-session-1)
 - [Guided Session 2: The Confidence Meter](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| | |
+|---|---|
+| **Prep time** | ~5 minutes |
+| **Materials** | 1 standard die, paper and pencil for tallying, confidence rating statements, 2×2 grid from Week 2 |
+| **Key vocabulary** | probability, frequency, confidence, calibration |
+| **Difficulty** | Introductory |
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Gather materials: 1 standard die, paper and pencil for tallying
@@ -39,10 +48,24 @@ Students learn that being honest about uncertainty is not weakness — it's a su
 - Review the student's Decision Journal entry from last week
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 Kids tend to think in absolutes: "it will rain" or "it won't rain." This week gently pushes them toward the in-between — where most of real life actually happens.
 
 The magic moment is when a student voluntarily says something like "I think so, but I'm only like 60% sure." That's probabilistic thinking in action.
+:::
+
+## Age Differentiation
+
+:::info For Ages 8–9
+- Use a simple three-point scale: very sure / pretty sure / not sure.
+- Focus on counting and frequency language ("out of 10 tries…") rather than percentages.
+- Keep the die experiment hands-on; let them physically tally results.
+:::
+
+:::info For Ages 10–12
+- Use percentages and the full 0–100% confidence scale.
+- Push toward precision: "Is that 60% or 80%? What would change your number?"
+- Introduce the calibration challenge and discuss what it means to be well-calibrated.
 :::
 
 ---
@@ -173,7 +196,7 @@ This is about **calibration** — how well your confidence levels match reality:
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -220,3 +243,11 @@ New entry:
 - What's the difference between being "sure" and being "pretty sure"?
 - Is it okay to make a decision when you're only 60% confident? When would you want to be more sure?
 - Can you think of a time someone said they were "100% sure" about something and turned out to be wrong?
+
+:::tip Simplify This Week
+If percentages feel overwhelming, stick to a three-word scale: very sure, pretty sure, not sure. The goal is the habit of pausing to rate confidence, not the precision of the number. You can always add percentages later.
+:::
+
+:::tip Extend for Older Learners
+Challenge well-calibrated learners with a 10-question calibration quiz and track their accuracy over time. Introduce the idea that professional forecasters practice calibration as a measurable skill — and that they can too.
+:::

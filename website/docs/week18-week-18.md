@@ -16,7 +16,7 @@ This cycle — Identify → Design → Test → Iterate — never truly ends. It
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - This is the finale. Make it feel like a celebration, not a final exam.
 - The presentation can be as simple as a 3-minute conversation with a family member or as elaborate as a poster board.
 - The final journal reflection is deeply personal. Give the student time and space for it.
@@ -24,13 +24,22 @@ This cycle — Identify → Design → Test → Iterate — never truly ends. It
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Patch](#guided-session-1)
 - [Guided Session 2: The Showcase](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| | |
+|---|---|
+| **Prep time** | ~10 minutes |
+| **Materials** | All tracking data from Weeks 15–17, Decision Journal, presentation materials (paper, poster board, or slides) |
+| **Key vocabulary** | iteration, patch notes, presentation, reflection |
+| **Difficulty** | Moderate |
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Have all tracking data from Weeks 15-17 ready
@@ -40,8 +49,22 @@ This cycle — Identify → Design → Test → Iterate — never truly ends. It
 - Prepare a small "graduation" moment (certificate, sticker, special treat, etc.)
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 The content of the project matters less than the PROCESS the student went through. Whether their protocol was a stunning success or a flawed experiment, they've done something most adults never do: systematically analyzed a problem, designed a solution, tested it with real data, and iterated. That is extraordinary.
+:::
+
+## Age Differentiation
+
+:::info For Ages 8–9
+- The presentation can be a simple 3-minute show-and-tell conversation — no slides or poster required.
+- For the final journal entry, provide sentence starters: "The most important thing I learned is…" / "My brain's biggest shortcut is…"
+- Keep the celebration warm and low-pressure. The accomplishment is real regardless of how polished the presentation is.
+:::
+
+:::info For Ages 10–12
+- Encourage a structured 5–7 minute presentation covering problem, protocol, data, and lessons learned.
+- The final journal entry should be detailed and reflective — push for specifics rather than generalities.
+- Ask follow-up questions that connect their project to earlier curriculum concepts (biases, EV, opportunity cost).
 :::
 
 ---

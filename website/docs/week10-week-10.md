@@ -8,24 +8,39 @@ description: "Learning to identify what information actually matters and when yo
 # Week 10: Signal vs. Noise
 *What Information Actually Matters?*
 
+Last week you learned to calculate expected value. But EV only works if you have good information. This week: how to find good information — and when to stop looking for more.
+
 More information doesn't always mean better decisions. In fact, too much information can make decisions WORSE by burying the important stuff under a pile of irrelevant details. This week we learn to separate **signal** (information that helps you decide) from **noise** (information that feels relevant but isn't), and we tackle the question every decision-maker faces: **"When do I have enough information to act?"**
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - The "information diet" concept is powerful for kids growing up in an age of information overload.
 - The key takeaway is NOT "ignore everything" — it's "be intentional about what you pay attention to."
 - The When-to-Stop-Looking section introduces the idea that perfect information is impossible AND unnecessary.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Information Diet](#guided-session-1)
 - [Guided Session 2: When to Stop Looking](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| Component | Key Concept | Duration |
+|---|---|---|
+| Guided Session 1 | The Information Diet — signal vs. noise | ~30 min |
+| Guided Session 2 | When to Stop Looking — diminishing returns | ~30 min |
+| Independent Practice | Signal log and speed challenge | ~20 min |
+
+**Key vocabulary:** signal, noise, diminishing returns, information diet
+**Difficulty:** Moderate · **Prep time:** ~5 minutes
+
+---
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare the "fact cards" for the Beach Decision activity (20 cards with facts, only 5 are useful)
@@ -34,9 +49,17 @@ More information doesn't always mean better decisions. In fact, too much informa
 - Review the student's Decision Journal for entries where they mention information gathering
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 The hardest part of signal vs. noise is that noise often FEELS like signal. It's interesting, it's detailed, it's compelling — it's just not relevant. The skill is asking: "Does this information change what I should DO?"
 :::
+
+## Age Differentiation
+
+| | Ages 8–9 | Ages 10–12 |
+|---|---|---|
+| **Beach Decision** | Focus on the sorting activity with physical cards or objects. Skip the more abstract diminishing returns chart. | Full activity plus discussion of information overload in social media and news contexts. |
+| **Information diet** | Emphasize the "Does this change what I do?" test with concrete examples. | Discuss how algorithms exploit our inability to distinguish signal from noise. |
+| **Diminishing returns** | Keep intuitive — "the first scoop of ice cream is the best." | Explore diminishing returns mathematically. Have them graph study time vs. test improvement. |
 
 ---
 
@@ -160,7 +183,7 @@ Discuss:
 - What did you DO with those extra 4.5 minutes?
 - Often, we spend extra time going back and forth rather than actually gathering useful new information.
 
-> "For most everyday decisions, your first instinct plus 30 seconds of thought gets you 90% of the way to the best choice. The last 10% of improvement costs a LOT of extra time."
+> "For many everyday, reversible decisions, your first instinct combined with a moment of reflection is often good enough. Spending ten more minutes agonizing rarely changes the outcome."
 
 This signal-vs-noise insight connects to a bigger pattern about effort and payoff. Try this quick exercise:
 
@@ -175,6 +198,8 @@ This pattern has a name: **diminishing returns**. The first bit of effort gives 
 - The first 3 facts about a decision are crucial. The next 30 facts barely change your choice.
 
 > **"Diminishing returns means knowing when 'good enough' actually IS good enough — and when extra effort is just spinning your wheels."**
+
+**Diminishing returns** is one of the five core mental models in this curriculum — alongside expected value, opportunity cost, reversibility, and process vs. outcome. You'll see it surface again and again: in how much time to spend deciding, how long to study, and how much information to gather.
 
 ---
 
@@ -197,7 +222,7 @@ For quick, reversible decisions, the **100 Times Test** from Week 9 can help: "I
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -233,3 +258,13 @@ Did fast decisions turn out worse than slow ones? (Usually the answer is: not re
 - What's the difference between someone who makes decisions quickly and someone who makes them recklessly?
 - Have you ever spent so long deciding that you missed the opportunity entirely?
 - Where in your life do you tend to over-research? Where do you tend to under-research?
+
+---
+
+:::tip Simplify (Ages 8–9)
+Focus on the Beach Decision activity with physical cards. For diminishing returns, use a concrete analogy: "The first scoop of ice cream is amazing. The fifth scoop? Not so great." Skip the abstract chart and graph.
+:::
+
+:::tip Extend (Ages 10–12)
+Have students graph diminishing returns for a real scenario (e.g., minutes of studying vs. test score improvement). Discuss how social media algorithms exploit our inability to distinguish signal from noise. Connect diminishing returns to the broader set of five core mental models.
+:::

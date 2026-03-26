@@ -8,7 +8,7 @@ description: "Learning to separate the quality of a decision from the quality of
 # Week 2: Process vs. Outcome
 *Why Good Choices Can Have Bad Results*
 
-This week introduces the **most important idea in the entire curriculum**:
+Last week we discovered that some outcomes are genuinely random — even when you make a perfectly good choice, luck can still determine the result. This week we take that insight further and introduce the **most important idea in the entire curriculum**:
 
 **A "good" decision is one made with clear thinking and the best available information — regardless of whether it happened to work out. A "bad" decision can get lucky.**
 
@@ -16,7 +16,7 @@ Students learn to judge decisions by the process used to make them, not by the o
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - This is the conceptual heart of the course. Everything else builds on this idea.
 - The key moment is when a student can look at a bad result and say "but I still made the right call."
 - Use the 2x2 grid from Session 2 as a reference tool you can return to throughout the curriculum.
@@ -24,13 +24,22 @@ Students learn to judge decisions by the process used to make them, not by the o
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Weather Forecaster](#guided-session-1)
 - [Guided Session 2: The Process Detective](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| | |
+|---|---|
+| **Prep time** | ~5 minutes |
+| **Materials** | Weather scenario examples, blank 2×2 grid, 6–8 scenario cards, Decision Journal from Week 1 |
+| **Key vocabulary** | process, outcome, reasoning, decision quality |
+| **Difficulty** | Introductory |
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare the weather scenario examples (see Session 1)
@@ -39,10 +48,24 @@ Students learn to judge decisions by the process used to make them, not by the o
 - Have the student's Decision Journal from Week 1 ready to review
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 This idea will feel counterintuitive at first. Kids (and adults) naturally judge decisions by results.
 
 Be patient. Use lots of examples. The goal is not instant mastery — it's planting a seed that grows over the remaining 16 weeks.
+:::
+
+## Age Differentiation
+
+:::info For Ages 8–9
+- Focus on the stories and the 2×2 grid with simple, relatable examples.
+- Use thumbs-up / thumbs-down voting to sort scenarios — keep it physical and fun.
+- Don't worry about precise language; "good thinking vs. bad thinking" is fine at this age.
+:::
+
+:::info For Ages 10–12
+- Push learners to fill the 2×2 grid with their own real-life examples, not just the provided scenarios.
+- Ask them to analyze decisions they've actually made this week and place each one on the grid.
+- Introduce the phrase "resulting" — judging a decision only by its result — and challenge them to catch themselves doing it.
 :::
 
 ---
@@ -147,7 +170,7 @@ Answer: **Bad Process + Good Outcome**. Because when things work out, we stop th
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -194,3 +217,13 @@ New entry for this week:
 - Can you think of a time an adult told you something was a "bad decision" just because it didn't work out?
 - What would you say to a friend who made a smart choice but got a bad result?
 - Is it possible to make good decisions every day and still have a bad week?
+
+---
+
+:::tip Simplify This Week
+If the learner is younger or struggling, skip the scenario cards and focus on just the Umbrella Problem and the 2×2 grid with two or three familiar examples. The single takeaway — "a good choice can still have a bad result" — is plenty for one week.
+:::
+
+:::tip Extend for Older Learners
+Ask ages 10–12 to keep a "resulting log" for three days: every time they catch someone (including themselves) judging a decision by its outcome alone, they write it down. Discuss the entries together. You can also ask: "Can a doctor make the right call and the patient still not get better? Does that mean the doctor was wrong?"
+:::

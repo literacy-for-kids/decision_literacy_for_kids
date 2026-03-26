@@ -19,7 +19,7 @@ function HomepageHeader() {
           </p>
           <p className={styles.heroLead}>
             18 weeks of hands-on activities covering probability, cognitive biases,
-            game theory, and real-world problem solving — built for ages 7-11 with
+            game theory, and real-world problem solving — built for ages 8–12 with
             caregiver guidance.
           </p>
           <div className={styles.buttons}>

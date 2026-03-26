@@ -8,6 +8,8 @@ description: "Why 'I've already started' is a dangerous reason to keep going, an
 # Week 7: The Sunk Cost Trap
 *Why "I've Already Started" Is a Dangerous Reason*
 
+Last week we felt the pull of loss aversion. This week we meet its close cousin — sunk cost thinking, the voice that says "but I've already started!"
+
 Money, time, or energy you have already spent is **gone forever**. It should NOT affect what you do next. But our brains hate the feeling of "wasting" a past investment, so we keep going even when stopping would be smarter. This is the **sunk cost fallacy**, and it trips up kids, adults, CEOs, and governments alike.
 
 This week we feel the pull of sunk costs, learn to name the trap, and practice asking the only question that matters: **"What is the best use of my time and resources FROM THIS POINT FORWARD?"**
@@ -16,31 +18,52 @@ The sunk cost trap is fast brain whispering "don't waste what you spent" before 
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - The escalation auction (Session 2) is the highlight of this week. It is dramatic and memorable — let it play out.
 - Kids may feel defensive when they recognize sunk costs in their own behavior. Keep it light: "Everybody does this. It's a brain setting, not a character flaw."
 - Connect to loss aversion from last week: sunk cost is partly driven by loss aversion (quitting feels like "losing" the investment).
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Movie Ticket Problem](#guided-session-1)
 - [Guided Session 2: The Escalation Game](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
+- [Age Differentiation](#age-differentiation)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| Component | Duration | Format |
+|---|---|---|
+| **Guided Session 1** – The Movie Ticket Problem | ~30 min | Facilitator + student |
+| **Guided Session 2** – The Escalation Game | ~30 min | Facilitator + student (2+ players ideal) |
+| **Independent Practice** – Sunk Cost Audit | ~20 min | Solo |
+
+- **Key Vocabulary:** sunk cost, sunk cost fallacy, walk-away point, escalation
+- **Difficulty:** Moderate
+- **Prep Time:** ~10 minutes
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare a small prize for the escalation auction (a piece of candy, a sticker, a small toy)
-- Prepare play money or point tokens for bidding (give each player 10-15 tokens)
+- Prepare play money or point tokens for bidding (give each player 10–15 tokens)
 - Print or write the scenario cards for Session 1
 - Review the student's Decision Journal — look for any entries where sunk cost thinking may have appeared
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 The hardest part of sunk cost thinking is that quitting sometimes IS the smart move. Our culture often celebrates "never give up," which is great for perseverance but terrible for sunk costs. Help the student see the difference: **perseverance is continuing because the goal still makes sense. Sunk cost is continuing only because of what you already spent.**
 :::
+
+## Age Differentiation
+
+| Ages 8–9 | Ages 10–12 |
+|---|---|
+| Focus on the movie ticket problem as a story. Walk through scenarios with lots of discussion. | Run the full dollar auction. Discuss real-world escalation (businesses throwing more money at failing projects). |
+| The dollar auction may be too abstract — use simpler escalation examples like continuing to wait in a long line or eating food you don't want just because you ordered it. | Explore how sunk cost thinking affects companies, governments, and large-scale decisions. |
+| Use the scenario cards as read-alouds; help connect each to the student's own life. | Have the student generate their own sunk cost scenarios and quiz a family member. |
 
 ---
 
@@ -74,6 +97,10 @@ Most say "of course not — I'd leave!"
 Key insight:
 
 > "The $15 is gone whether you stay or leave. It's spent. The only question is: do you want to spend the NEXT 90 minutes watching a bad movie, or doing something you'd enjoy more? The ticket price should change nothing about that decision."
+
+Connection to opportunity cost:
+
+> "The sunk cost trap works because we fail to see the **opportunity cost** of continuing. The time and energy you spend finishing a bad movie is time and energy you can't use on something better. Every minute stuck in a bad choice is a minute stolen from a good one."
 
 ---
 
@@ -178,7 +205,7 @@ Practice:
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -208,3 +235,21 @@ For three things you're starting or continuing this week, set a specific walk-aw
 - Why does "I've already invested so much" feel like such a strong argument, even when it shouldn't be?
 - Is there a difference between "not giving up" and "falling for sunk costs"? How do you tell which is which?
 - Can you think of an adult in your life who might be stuck in a sunk cost trap?
+
+---
+
+## Simplify / Extend
+
+:::tip Simplify (Ages 8–9)
+- Use only 2–3 scenario cards and discuss them as stories rather than exercises.
+- Skip the dollar auction; instead, role-play the "waiting in a long line" scenario together.
+- Focus on one walk-away point rather than three.
+:::
+
+:::tip Extend (Ages 10–12)
+- Run the full dollar auction with multiple rounds, varying the prize value.
+- Research a real-world escalation spiral (e.g., the Concorde fallacy) and present findings.
+- Challenge: go one full week noticing sunk cost traps and log every instance in the Decision Journal.
+:::
+
+> **Solo-friendly note:** This week's Independent Practice works well solo. The Sunk Cost Audit and walk-away points are personal reflection activities that don't require a partner.

@@ -8,7 +8,7 @@ description: "The simple math of weighing risks and rewards — how to compare u
 # Week 9: Expected Value
 *The Math of Weighing Risks and Rewards*
 
-Welcome to Phase 3: **Data & Signal Processing.** For the next three weeks, we learn quantitative tools that help us cut through uncertainty.
+Phase 3 begins. In Phases 1 and 2, you built awareness — randomness, process vs. outcome, brain shortcuts. Now we add quantitative tools that help us cut through uncertainty. Welcome to **Data & Signal Processing.**
 
 This week's tool is **expected value (EV)** — a surprisingly simple formula that professional gamblers, investors, and decision scientists use every day:
 
@@ -18,20 +18,33 @@ In plain language: "Imagine doing this a hundred times. On average, how does it 
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - This is the most "mathy" week in the curriculum. Keep it concrete with tokens, coins, and dice.
 - The goal is NOT to turn every decision into a calculation. The goal is to develop the INSTINCT for spotting when one option has better expected value than another.
 - If the student struggles with multiplication, use simpler numbers or skip to the intuitive version: "If you did this 10 times, how many times would you win? How many would you lose?"
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Simple Bet](#guided-session-1)
 - [Guided Session 2: The Real Decision Calculator](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| Component | Key Concept | Duration |
+|---|---|---|
+| Guided Session 1 | The Simple Bet — calculating expected value | ~30 min |
+| Guided Session 2 | The Real Decision Calculator — EV in real life | ~30 min |
+| Independent Practice | Personal EV calculations and the 100 Times Test | ~20 min |
+
+**Key vocabulary:** expected value (EV), positive EV, negative EV, the 100 Times Test
+**Difficulty:** Advanced · **Prep time:** ~10 minutes
+
+---
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Have coins and dice ready
@@ -41,9 +54,19 @@ In plain language: "Imagine doing this a hundred times. On average, how does it 
 - Review the student's Decision Journal — are there any entries where EV thinking would have helped?
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 EV is a tool, not a commandment. It tells you what the math favours, but it doesn't account for how much a loss would hurt or how much a win would mean. We'll address those nuances in Session 2.
 :::
+
+## Age Differentiation
+
+This is the most math-heavy week. Adjust depth by age group:
+
+| | Ages 8–9 | Ages 10–12 |
+|---|---|---|
+| **EV formula** | Skip the formula. Use "the 100 Times Test" and intuitive reasoning: "If you played this game 10 times, would you win or lose overall?" Use physical tokens to count. | Introduce the EV formula explicitly. Have them calculate EV for multiple scenarios. Push toward real-world applications. |
+| **Bet activities** | Fewer bets, simpler numbers (whole-number probabilities). | Full set of bets including fractions and decimals. |
+| **Casino discussion** | Brief and matter-of-fact. | Connect to real-world business models. |
 
 ---
 
@@ -107,6 +130,8 @@ Brief discussion:
 > "Every game in a casino has a negative expected value for the player. The casino doesn't need to win every hand — it just needs the math to be slightly in its favour. Over thousands of games, the casino ALWAYS comes out ahead. That's EV in action."
 
 Connect to real life: "When someone offers you a deal that seems amazing, ask yourself: what's THEIR expected value? If they're making money on average, you're probably losing it."
+
+> **Opportunity cost connection:** "Choosing one bet means choosing NOT to keep your tokens for the next bet. That's opportunity cost — a concept we'll explore fully in Week 11."
 
 ---
 
@@ -184,7 +209,7 @@ Practice the **100 Times Test** with quick-fire scenarios:
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -216,3 +241,13 @@ For 5 decisions you make this week, do a quick mental EV check: "If I did this 1
 - Is a decision with negative EV always a bad decision? Can you think of an exception?
 - Why do people buy lottery tickets even though the EV is very negative?
 - How accurate are your probability estimates? What would make them more accurate?
+
+---
+
+:::tip Simplify (Ages 8–9)
+Skip the EV formula entirely. Focus on the 100 Times Test: "If you played this game 10 times, would you win or lose overall?" Use physical tokens to make bets tangible, and limit scenarios to coin flips (50/50 probabilities).
+:::
+
+:::tip Extend (Ages 10–12)
+Challenge students to calculate EV for real decisions they face (e.g., studying vs. not studying, spending vs. saving). Have them create their own "bet" for a friend to evaluate. Introduce the idea that EV improves with better probability estimates — connecting back to Week 4 (calibration).
+:::

@@ -10,7 +10,7 @@ description: "Introducing heuristics — the brain's fast rules of thumb, and le
 
 Welcome to Phase 2: **Debugging the Hardware.** For the next four weeks we turn the lens inward and study the decision-making machine itself — the human brain.
 
-Last week you met **hindsight bias** — your brain's "I knew it all along" trick. Today we discover that it's part of a much bigger family of brain shortcuts.
+Last week you formalized your Decision Journal and met **hindsight bias** — your brain's "I knew it all along" trick. Now you discover it's part of a much bigger family of brain shortcuts.
 
 The big idea this week: **Your brain takes shortcuts to make decisions faster. Most of the time these shortcuts work great. But sometimes they lead you astray — and knowing WHEN they fail is a superpower.**
 
@@ -18,20 +18,29 @@ Scientists call these shortcuts **heuristics**. We will just call them "brain sh
 
 ---
 
-:::info Caregiver Snapshot
-- This lesson is the foundation for Weeks 6-8. Take time to make the three shortcuts memorable.
+:::info Facilitator Snapshot
+- This lesson is the foundation for Weeks 6–8. Take time to make the three shortcuts memorable.
 - Kids love the "gotcha" feeling of the fast-brain puzzles. Lean into the fun.
 - The message is NOT "your brain is broken." The message is "your brain has default settings, and you can learn to notice them."
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: Fast Brain vs. Slow Brain](#guided-session-1)
 - [Guided Session 2: The Shortcut Tour](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| | |
+|---|---|
+| **Prep time** | ~10 minutes |
+| **Materials** | Three quick-reaction puzzles, shortcut cards (Anchoring, Availability, Representativeness), paper and colored markers |
+| **Key vocabulary** | heuristic, anchoring, availability bias, representativeness |
+| **Difficulty** | Moderate |
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare the three quick-reaction puzzles below (you can read them aloud)
@@ -40,10 +49,24 @@ Scientists call these shortcuts **heuristics**. We will just call them "brain sh
 - Review the student's Decision Journal from last week
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 Frame heuristics as a feature, not a bug. Our brains evolved these shortcuts because they usually work and they save energy. The skill is learning when to **override** the default.
 
-If time is tight or the student is under 9, cover only Anchoring and Availability in Session 2 this week. Save Representativeness for Session 1 of Week 6 as a 10-minute warm-up before the Trading Game.
+If time is tight or the learner is ages 8–9, cover only Anchoring and Availability in Session 2 this week. Save Representativeness for Session 1 of Week 6 as a 10-minute warm-up before the Trading Game.
+:::
+
+## Age Differentiation
+
+:::info For Ages 8–9
+- Focus on anchoring and availability only — save representativeness for a review day or the Week 6 warm-up.
+- Use the quick-fire puzzles and Stroop test to make fast brain vs. slow brain concrete and fun.
+- Keep the Shortcut Poster activity as the main takeaway.
+:::
+
+:::info For Ages 10–12
+- Cover all three heuristics, including representativeness with base-rate reasoning.
+- Push learners to identify examples of each shortcut from their own experience.
+- Encourage them to explain each heuristic in their own words without looking at notes.
 :::
 
 ---
@@ -154,10 +177,10 @@ Real-life examples:
 > "We judge things by how much they LOOK like what we expect, instead of checking the actual numbers."
 
 Demo:
-- "Tom is quiet, wears glasses, and loves puzzles. Is Tom more likely to be a librarian or a salesperson?"
-- Most say librarian. But there are MANY more salespeople than librarians, so statistically, Tom is probably a salesperson who happens to like puzzles.
+- "Sam loves reading and spends a lot of time in the library. Is Sam more likely to be on the school basketball team or the school reading club?"
+- Most say reading club. But there are far more kids on school sports teams than in reading clubs, so even though Sam's description sounds like reading club, the base rates matter — Sam is statistically more likely to be on the basketball team!
 
-The story about Tom fits our mental picture of a librarian, so we ignore the base rates.
+The description of Sam fits our mental picture of a reading-club kid, so we ignore the base rates.
 
 Real-life examples:
 - Seeing someone dressed in a lab coat and assuming they're a doctor
@@ -179,7 +202,7 @@ Hang this somewhere visible for the next 3 weeks.
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -193,7 +216,7 @@ For each scenario below, write which shortcut is involved and why:
 
 1. A toy store puts a $100 price tag on a toy, then crosses it out and writes $40. You think: "What a deal!" → ________
 2. After watching a movie about tornadoes, you worry about tornadoes even though you live in an area that never gets them. → ________
-3. Your new neighbour has a British accent, so you assume they drink tea all the time. → ________
+3. Your new classmate says they just moved from a beach town, so you assume they love surfing. → ________
 4. You see that a game has 4.9 stars from 10,000 reviews. Another game has 5 stars from 3 reviews. Which feels more impressive? → ________
 5. Your friend tells you their math test was "impossible" before you take it. You feel nervous even though you studied. → ________
 
@@ -210,3 +233,13 @@ Over the next three days, try to catch ONE real example of each shortcut happeni
 - Which of the three shortcuts do you think affects you the most? Why?
 - Can you think of a time when a shortcut actually HELPED you make a good decision?
 - Why would it be exhausting to use slow brain for everything?
+
+---
+
+:::tip Simplify This Week
+If three heuristics feel like too much, cover only anchoring and availability this week. The anchoring demo and shark-vs.-coconut question are self-contained and memorable. Representativeness can become a 10-minute warm-up at the start of Week 6.
+:::
+
+:::tip Extend for Older Learners
+Ask learners to research one cognitive bias not covered this week (e.g., confirmation bias, sunk cost fallacy) and present a two-minute explanation to the family. Alternatively, have them redesign the Shortcut Spotter Worksheet with original scenarios drawn from their own life.
+:::

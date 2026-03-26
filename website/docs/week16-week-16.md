@@ -14,7 +14,7 @@ This week we take the Problem Map from Week 15 and build a **Decision Protocol**
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - The protocol should be simple enough to actually follow. If it has more than 3-4 steps, it's too complex.
 - Help the student be realistic. A protocol that requires superhuman willpower will fail.
 - The "stress test" in Session 2 is where partners poke holes in the plan. This is valuable, not discouraging.
@@ -22,13 +22,22 @@ This week we take the Problem Map from Week 15 and build a **Decision Protocol**
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: Protocol Design Workshop](#guided-session-1)
 - [Guided Session 2: Stress-Test Your Protocol](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| | |
+|---|---|
+| **Prep time** | ~5 minutes |
+| **Materials** | Problem Map from Week 15, index cards or sticky notes, pencil |
+| **Key vocabulary** | protocol, trigger, default action, pre-mortem |
+| **Difficulty** | Advanced |
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Have the student's Problem Map from Week 15 ready
@@ -37,8 +46,22 @@ This week we take the Problem Map from Week 15 and build a **Decision Protocol**
 - Prepare "stress test" scenarios based on the student's specific friction point
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 The best protocols feel almost too simple. That's the point. A protocol needs to work when you're tired, rushed, or not thinking clearly. Complexity is the enemy of follow-through.
+:::
+
+## Age Differentiation
+
+:::info For Ages 8–9
+- Keep the protocol very simple: one trigger, one action, one check. More steps will overwhelm.
+- Simplify the pre-mortem to a single question: "What might go wrong?"
+- The facilitator may need to help write the protocol card — focus on the learner's IDEAS, not their writing speed.
+:::
+
+:::info For Ages 10–12
+- Encourage a fuller protocol with multiple triggers, backup plans, and 2–3 edge cases.
+- Run the full pre-mortem exercise — older learners can think through failure modes in detail.
+- Push them to stress-test their own protocol before the facilitator does.
 :::
 
 ---

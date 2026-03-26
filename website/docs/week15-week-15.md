@@ -8,9 +8,7 @@ description: "Choose a real recurring problem and dig to its root cause using th
 # Week 15: Identify Your Friction Point
 *Choose a Real Problem to Optimize*
 
-Welcome to Phase 5: **The Optimization Project.** Everything learned in Weeks 1-14 has been training. Now we apply it all to a **real problem in the student's own life.**
-
-Over the next four weeks, the student will:
+Phase 5 begins: the Optimization Project. Everything you've learned — probability, biases, expected value, game theory — now gets applied to a REAL problem in your life. Over the next four weeks, you will:
 1. **Identify** a recurring frustration (this week)
 2. **Design** a decision protocol to fix it (Week 16)
 3. **Test** the protocol and collect data (Week 17)
@@ -20,7 +18,7 @@ This week we brainstorm, pick a target, and dig down to the real root cause.
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - The friction point should be a decision-related problem the student faces repeatedly (not a one-time thing).
 - Good examples: always late for school, runs out of allowance, forgets homework, fights with sibling over screen time, can't decide what to do and wastes free time, etc.
 - Let the student pick their own problem. Ownership is critical for motivation.
@@ -28,13 +26,22 @@ This week we brainstorm, pick a target, and dig down to the real root cause.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Friction Finder](#guided-session-1)
 - [Guided Session 2: Root Cause Analysis](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| Component | Details |
+|---|---|
+| **Key Vocabulary** | friction point, root cause, 5 Whys, baseline, hypothesis |
+| **Difficulty** | Moderate |
+| **Prep Time** | ~5 minutes |
+| **Key Connection** | Opportunity cost — every friction point wastes something (time, energy, peace of mind). Fixing it frees up those resources for something better. |
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Have large paper and markers for brainstorming
@@ -43,9 +50,15 @@ This week we brainstorm, pick a target, and dig down to the real root cause.
 - Think of a personal friction point of your own to model the process
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 This is where the curriculum goes from theory to practice. Your role shifts from teacher to coach. Ask questions, guide the process, but let the student drive the choices. Their investment in their own problem is what makes this project real.
 :::
+
+## Age Differentiation
+
+| Ages 8–9 | Ages 10–12 |
+|---|---|
+| Help them choose a simple, concrete friction point (e.g., "I forget to bring my lunch," "I can never find my shoes"). The 5 Whys may need to be limited to 3 Whys. The facilitator may need to co-facilitate the brainstorm. | Encourage more complex friction points. Full 5 Whys analysis. Have them map which curriculum tools apply to their chosen problem. |
 
 ---
 
@@ -224,7 +237,7 @@ Write down which tools might help:
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -262,3 +275,13 @@ This "before" data will help you measure improvement later.
 - Were you surprised by what the 5 Whys revealed? Was the root cause different from the surface problem?
 - Which decision point in the chain feels most "fixable"?
 - On a scale of 1-10, how motivated are you to solve this problem? (If it's below 6, consider picking a different friction point!)
+
+---
+
+:::tip Simplify It (Ages 8–9)
+Help the child choose a simple, concrete friction point. Limit the 5 Whys to 3 Whys if needed. The facilitator may need to co-facilitate the brainstorm and help write the Problem Map.
+:::
+
+:::tip Extend It (Ages 10–12)
+Encourage more complex friction points that involve multiple decision points. Full 5 Whys analysis. Have them map which curriculum tools apply to their chosen problem — and explain why each tool is relevant.
+:::

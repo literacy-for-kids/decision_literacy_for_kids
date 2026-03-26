@@ -8,6 +8,8 @@ description: "Introduction to randomness, uncertainty, and the idea that perfect
 # Week 1: The Coin Flip Lab
 *Randomness and Uncertainty*
 
+Welcome to Decision Literacy! Over the coming weeks, you'll build the thinking tools that help you make smarter choices — even when the world is uncertain.
+
 This week we explore a foundational idea:
 
 **The world contains genuine randomness. Not everything that happens was "meant to be." Sometimes perfectly reasonable choices lead to bad results because of factors outside your control.**
@@ -16,7 +18,7 @@ Just like flipping a coin, many real-life outcomes involve luck — and understa
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - This week is all about *experiencing* randomness through games. Keep it light and fun.
 - The key insight is simple: you can do everything right and still lose. That doesn't mean you did something wrong.
 - Don't rush to explain — let the games create the "aha" moment.
@@ -24,13 +26,22 @@ Just like flipping a coin, many real-life outcomes involve luck — and understa
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: Is That Fair?](#guided-session-1)
 - [Guided Session 2: The Lucky Game](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| | |
+|---|---|
+| **Prep time** | ~10 minutes |
+| **Materials** | 1 coin, 2 standard dice, a deck of playing cards, paper and pencil, notebook for Decision Journal |
+| **Key vocabulary** | randomness, uncertainty, prediction, luck vs. skill |
+| **Difficulty** | Introductory |
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Gather materials: 1 coin, 2 standard dice, a deck of playing cards
@@ -39,10 +50,24 @@ Just like flipping a coin, many real-life outcomes involve luck — and understa
 - Set up a visual timer for sessions
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 This week is about **wonder and surprise**, not math.
 
 Don't lecture about probability. Instead, let students make predictions and then be surprised when reality doesn't cooperate. That feeling of surprise IS the lesson.
+:::
+
+## Age Differentiation
+
+:::info For Ages 8–9
+- Keep this week as a fun game. Focus on surprise and prediction.
+- Let learners guess and react — don't push for mathematical understanding.
+- Celebrate the "I didn't expect that!" moments as the real learning.
+:::
+
+:::info For Ages 10–12
+- Have learners calculate expected frequencies (e.g., "If a coin is fair, how many heads should you expect in 10 flips?").
+- Introduce the idea of sample size: "Would 100 flips tell you more than 10?"
+- Encourage them to look for patterns in the dice data and explain why some totals appear more often.
 :::
 
 ---
@@ -170,7 +195,7 @@ Discussion:
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -180,7 +205,7 @@ Explore the luck-skill spectrum through direct experience and make the first Dec
 
 **1. Game Sort**
 
-Play three different short games (suggestions: coin flips, Go Fish, and a simple puzzle). After each one, place it on the Luck-Skill spectrum and write one sentence explaining why.
+Play three different short games (suggestions: coin flips, a card-matching memory game, and a simple puzzle — or Go Fish if a partner is available). After each one, place it on the Luck-Skill spectrum and write one sentence explaining why.
 
 **2. Real Life Luck vs. Skill**
 
@@ -207,3 +232,13 @@ We'll come back to this entry next week to see what actually happened.
 - Was there anything this week where you got a result you didn't expect?
 - Can you think of a time someone got lucky and people called it "skill"?
 - Can you think of a time someone was skillful but got unlucky?
+
+---
+
+:::tip Simplify This Week
+If the learner is younger or attention is limited, skip the dice activity and focus only on coin flips and predictions. The single key takeaway — "you can't predict a coin flip, and that's fine" — is enough for one week.
+:::
+
+:::tip Extend for Older Learners
+Challenge ages 10–12 to predict how many 7s they'd expect in 36 dice rolls, then test it. Discuss why more rolls give a clearer picture (introducing the concept of sample size). Ask: "How many flips would you need to be confident a coin is fair?"
+:::

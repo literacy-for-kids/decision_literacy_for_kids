@@ -8,26 +8,39 @@ description: "Win-win vs. zero-sum thinking — exploring the most famous game i
 # Week 13: The Prisoner's Dilemma
 *Win-Win vs. Zero-Sum*
 
-This week we play one of the most famous thought experiments in all of decision science: **The Prisoner's Dilemma.** It reveals a deep truth about human cooperation: **what's best for each individual, if everyone does it, is worst for everyone.**
+Last week we saw how choices create ripples. This week we explore the most famous puzzle in game theory: what happens when two people must decide WITHOUT knowing what the other will do?
 
-We also learn the crucial distinction between **zero-sum** situations (one person's gain is another's loss) and **positive-sum** situations (everyone can gain if they cooperate). Knowing which kind of situation you're in changes everything about how you should decide.
+We play one of the most famous thought experiments in all of decision science: **The Prisoner's Dilemma.** It reveals a deep truth about human cooperation: **what's best for each individual, if everyone does it, is worst for everyone.** We also learn the crucial distinction between **zero-sum** situations (one person's gain is another's loss) and **positive-sum** situations (everyone can gain if they cooperate). Knowing which kind of situation you're in changes everything about how you should decide.
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - The Prisoner's Dilemma is best played with 2+ people. If you're one-on-one, you play against the student.
 - Let the game unfold naturally — resist the urge to coach cooperation. The learning comes from experiencing the tension.
 - The zero-sum / positive-sum distinction is one of the most useful frameworks in the whole course. It applies to sibling conflicts, friendships, classroom dynamics, and eventually to business, politics, and international relations.
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Prisoner's Dilemma](#guided-session-1)
 - [Guided Session 2: Fixed Pie vs. Growing Pie](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| Component | Details |
+|---|---|
+| **Key Vocabulary** | prisoner's dilemma, cooperate, defect, zero-sum, positive-sum |
+| **Difficulty** | Advanced |
+| **Prep Time** | ~15 minutes |
+| **Guided Session 1** | The Prisoner's Dilemma |
+| **Guided Session 2** | Fixed Pie vs. Growing Pie |
+| **Independent Practice** | Conflict Analyzer + Mini Prisoner's Dilemma |
+
+---
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare score cards and tokens for the Prisoner's Dilemma (details below)
@@ -37,9 +50,15 @@ We also learn the crucial distinction between **zero-sum** situations (one perso
 - Think of real examples of zero-sum and positive-sum situations from your family
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 The Prisoner's Dilemma feels unfair — that's the point. It demonstrates a real tension in human interaction. Don't resolve the tension too quickly. Let the student sit with the frustrating insight that rational individual behavior can lead to collectively terrible outcomes.
 :::
+
+## Age Differentiation
+
+| Ages 8–9 | Ages 10–12 |
+|---|---|
+| Play the basic game with simplified scoring. Focus on the FEELING of wanting to cooperate vs. wanting to win. The zero-sum/positive-sum distinction might be too abstract — use pizza vs. chore trading as concrete examples. | Full game theory analysis. Calculate total scores under different strategy combinations. Discuss real-world applications (trade, environmental agreements). |
 
 ---
 
@@ -119,7 +138,7 @@ Key insights:
 
 Share what decades of research have found:
 
-The most successful strategy in repeated Prisoner's Dilemma tournaments is called **Tit for Tat:**
+One of the most historically influential strategies in repeated Prisoner's Dilemma tournaments is called **Tit for Tat.** In Robert Axelrod's famous computer tournaments in the 1980s, this simple strategy beat far more complex ones:
 
 1. Start by cooperating.
 2. After that, do whatever your partner did last round.
@@ -134,7 +153,7 @@ Why it works:
 
 This maps to real life: "Be kind by default. Stand up for yourself if someone takes advantage. But always be willing to rebuild trust."
 
-Later researchers found small improvements — like forgiving an occasional defection twice before retaliating — but the core idea holds: be kind, be retaliatory, be forgiving, and be clear.
+Later research found that slight variations — like occasionally forgiving an extra defection — can do even better. But the core principles remain powerful: be kind by default, stand up for yourself if someone takes advantage, and always be willing to rebuild trust.
 
 ---
 
@@ -209,13 +228,17 @@ Take a recent conflict or disagreement the student experienced (or a hypothetica
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
 Apply the Prisoner's Dilemma and zero-sum/positive-sum thinking to real relationships.
 
 ### Activities
+
+:::note Partner Activity
+The Mini Prisoner's Dilemma requires a partner — play with a family member, friend, or classmate.
+:::
 
 **1. Conflict Analyzer**
 
@@ -240,3 +263,19 @@ Play a simplified version with a family member at least 5 times this week (can u
 - Is it ever right to defect? When?
 - Think about your closest friendship. Is it mostly zero-sum or positive-sum? What makes it that way?
 - What would the world look like if everyone played Tit-for-Tat?
+
+---
+
+## Tips for Simplifying or Extending
+
+:::tip Simplify (Ages 8–9)
+- Use simplified scoring (cooperate = 2 pts each, defect vs. cooperate = 3 pts / 0 pts, both defect = 1 pt each).
+- Focus on the FEELING: "Did it feel good to cooperate? Did it feel bad when someone defected?"
+- For zero-sum vs. positive-sum, stick to concrete examples: pizza slices (zero-sum) vs. trading chores (positive-sum).
+:::
+
+:::tip Extend (Ages 10–12)
+- Calculate total scores under every possible strategy combination for 10 rounds.
+- Discuss real-world applications: international trade agreements, environmental treaties, arms races.
+- Research Axelrod's tournaments and why simple strategies outperformed complex ones.
+:::
