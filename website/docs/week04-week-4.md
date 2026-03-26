@@ -8,7 +8,7 @@ description: "Formalizing the Decision Journal as a thinking tool, meeting hinds
 # Week 4: The Decision Journal
 *Building Your Thinking Record*
 
-This week we formalize the most important tool in the curriculum:
+For three weeks you've been making predictions and noting surprises. Now it's time to formalize your thinking tool — the **Decision Journal**.
 
 **Writing down your reasoning BEFORE you see the result is the most powerful technique for becoming a better decision-maker.** The Decision Journal prevents your brain from rewriting history and forces you to be honest about what you actually knew and thought at the time.
 
@@ -16,7 +16,7 @@ We also meet our first named cognitive bias: **hindsight bias** — the "I knew 
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - This week is half practical (setting up the journal) and half conceptual (hindsight bias).
 - The journal template should feel easy to use, not burdensome. If the student seems overwhelmed, simplify it.
 - Hindsight bias is the first "named" brain shortcut. Frame it as a discovery, not a criticism — "Isn't it cool that our brains do this?"
@@ -24,13 +24,22 @@ We also meet our first named cognitive bias: **hindsight bias** — the "I knew 
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Journal Deep Dive](#guided-session-1)
 - [Guided Session 2: The Hindsight Trap](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Week at a Glance
+
+| | |
+|---|---|
+| **Prep time** | ~10 minutes |
+| **Materials** | Decision Journal notebook (or digital document), journal template card, a short story with a surprise ending |
+| **Key vocabulary** | hindsight bias, prediction, confidence level, reflection |
+| **Difficulty** | Introductory |
+
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare a clean Decision Journal notebook (or set up a simple digital document)
@@ -39,8 +48,22 @@ We also meet our first named cognitive bias: **hindsight bias** — the "I knew 
 - Review previous journal entries with the student
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 The journal should feel like a **thinking companion**, not homework. If it starts feeling like a chore, it is too complicated. Simplify ruthlessly. Even one sentence of reasoning before a decision is infinitely better than nothing.
+:::
+
+## Age Differentiation
+
+:::info For Ages 8–9
+- Use a simpler journal template with sentence starters: "I chose ___ because ___."
+- Focus on two fields: "What I chose" and "What happened."
+- Keep confidence ratings as Low / Medium / High rather than percentages.
+:::
+
+:::info For Ages 10–12
+- Use the full journal template with all seven fields, including confidence levels and probability estimates.
+- Push for detailed reasoning: "Why did you lean toward that option? What evidence did you consider?"
+- Encourage reviewing past entries and looking for patterns in their thinking.
 :::
 
 ---
@@ -183,7 +206,7 @@ Discussion:
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -220,3 +243,15 @@ Make your first "official" full entry using the complete template:
 - Why is it so hard to remember what we actually thought before we learned the answer?
 - If someone says "I knew that would happen," what question could you ask them?
 - How many weeks of journal entries do you think you'll need before you start seeing patterns in your thinking?
+
+---
+
+*This week completes **Phase 1: Foundations**. You now have the core toolkit — randomness, process vs. outcome thinking, probability, and the Decision Journal. Starting in Week 5, we build on these foundations to explore the mental shortcuts (biases and heuristics) that shape every decision we make.*
+
+:::tip Simplify This Week
+If the full seven-field journal template feels like too much, start with just three fields: "What I chose," "Why I chose it," and "What happened." Build up to the full template over the next few weeks as the habit takes hold.
+:::
+
+:::tip Extend for Older Learners
+Have learners review all their journal entries from Weeks 1–3, score their predictions for accuracy, and calculate a simple calibration rate. Challenge them to write a "Letter to Future Me" explaining their reasoning on a current decision, to be opened in four weeks.
+:::
