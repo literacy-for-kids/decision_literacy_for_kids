@@ -103,7 +103,7 @@ The curriculum works across the full 8–12 range, but emphasis shifts:
 - **Ages 8–9:** Lean heavily on the games and physical activities. Keep math light — use "more likely / less likely" language before introducing numbers. Expect shorter journal entries and provide sentence starters. The guided sessions may need to be shorter (20 minutes) with more movement breaks.
 - **Ages 10–12:** Push the quantitative reasoning further. These learners can handle percentages, simple expected value calculations, and more abstract "what if" scenarios. Encourage longer journal reflections and independent research during the practice sessions.
 
-See the [Introduction](/intro) page for the full age-adaptation guide.
+See the [Introduction](./intro) page for the full age-adaptation guide.
 
 #### When Content Is Too Easy or Too Hard
 

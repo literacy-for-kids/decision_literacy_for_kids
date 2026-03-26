@@ -72,7 +72,7 @@ This is a guide, not a rigid script. Skip an activity that doesn't fit your sett
 
 | If you're a… | Start here |
 |---|---|
-| **Parent or caregiver** | Jump straight to [Week 1](/docs/lessons/week-01). Read each lesson as you go. |
+| **Parent or caregiver** | Jump straight to [Week 1](./week01-week-1). Read each lesson as you go. |
 | **Teacher** | Read this page fully, then skim the [Course at a Glance](#course-at-a-glance) to map lessons to your schedule. |
 | **Homeschool family** | Read this page, then plan your pacing — many families do two weeks of curriculum per calendar week, or one week stretched over two. |
 | **Club or co-op leader** | Focus on Guided Session 1 each week for a great single-session format. |
