@@ -51,7 +51,7 @@ A comfortable pace is **two guided sessions plus one independent practice per we
 
 ### How Much Prep Do You Need?
 
-Minimal. Most activities use household items — coins, dice, cards, paper. Each weekly page includes a caregiver snapshot at the top so you can review the key ideas in under five minutes. There's no separate teacher's manual to study. The lesson page *is* the guide.
+Minimal. Most activities use household items — coins, dice, cards, paper. Each weekly page includes a facilitator snapshot at the top so you can review the key ideas in under five minutes. There's no separate teacher's manual to study. The lesson page *is* the guide.
 
 ### Adapting for Different Ages
 
