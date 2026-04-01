@@ -26,13 +26,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://zcohen-nerd.github.io',
+  url: 'https://literacy-for-kids.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it should match your repo name
   baseUrl: '/decision_literacy_for_kids/',
 
   // GitHub pages deployment config.
-  organizationName: 'zcohen-nerd',
+  organizationName: 'literacy-for-kids',
   projectName: 'decision_literacy_for_kids',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -90,20 +90,9 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/zcohen-nerd/decision_literacy_for_kids/tree/main/website/',
+            'https://github.com/literacy-for-kids/decision_literacy_for_kids/tree/main/website/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          editUrl:
-            'https://github.com/zcohen-nerd/decision_literacy_for_kids/tree/main/website/',
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -128,10 +117,9 @@ const config = {
             position: 'left',
             label: 'Curriculum',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           ...navbarItems,
           {
-            href: 'https://github.com/zcohen-nerd/decision_literacy_for_kids',
+            href: 'https://github.com/literacy-for-kids/decision_literacy_for_kids',
             label: 'GitHub',
             position: 'right',
           },

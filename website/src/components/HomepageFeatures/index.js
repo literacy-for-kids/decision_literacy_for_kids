@@ -1,5 +1,6 @@
 import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
+import EcosystemLinks from '@theme/EcosystemLinks';
 import styles from './styles.module.css';
 
 const features = [
@@ -97,6 +98,8 @@ export default function HomepageFeatures() {
         </div>
       </section>
 
+      <EcosystemLinks />
+
       <section className={styles.sectionAlt}>
         <div className="container">
           <Heading as="h2">Core Concepts</Heading>
@@ -141,7 +144,7 @@ export default function HomepageFeatures() {
           </div>
           <p className={styles.feedbackPrompt}>
             Found a mistake or have a suggestion?{' '}
-            <Link to="https://github.com/zcohen-nerd/decision_literacy_for_kids/issues">
+            <Link to="https://github.com/literacy-for-kids/decision_literacy_for_kids/issues">
               Open an issue on GitHub.
             </Link>
           </p>
