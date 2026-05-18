@@ -1,6 +1,24 @@
 // @ts-check
 
-import {literacyHubUrl, literacyProjects} from './src/data/literacyLinks.js';
+import {createRequire} from 'module';
+
+const require = createRequire(import.meta.url);
+const currentSiteHref =
+  'https://literacy-for-kids.github.io/decision_literacy_for_kids/';
+const {hub, curricula} = (() => {
+  try {
+    return require('literacy-site-theme/ecosystem');
+  } catch {
+    const [ecosystemHub, ...ecosystemCurricula] = require(
+      'literacy-site-theme/ecosystemLinks',
+    );
+
+    return {
+      hub: ecosystemHub,
+      curricula: ecosystemCurricula,
+    };
+  }
+})();
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
@@ -75,15 +93,11 @@ const sidebars = {
       type: 'category',
       label: 'Explore Other Literacies',
       items: [
-        {
+        {type: 'link', label: hub.label, href: hub.href},
+        ...curricula.filter((c) => c.href !== currentSiteHref).map((c) => ({
           type: 'link',
-          label: 'Literacy for Kids Hub',
-          href: literacyHubUrl,
-        },
-        ...literacyProjects.map(({label, href}) => ({
-          type: 'link',
-          label,
-          href,
+          label: c.label,
+          href: c.href,
         })),
       ],
     },
