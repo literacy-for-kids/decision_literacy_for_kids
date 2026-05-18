@@ -9,8 +9,21 @@ import {createRequire} from 'node:module';
 import {dirname, resolve} from 'node:path';
 
 const require = createRequire(import.meta.url);
-const navbarItems = require('literacy-site-theme/navbarItems');
 const footerConfig = require('literacy-site-theme/footerConfig');
+const {hub, curricula} = (() => {
+  try {
+    return require('literacy-site-theme/ecosystem');
+  } catch {
+    const [ecosystemHub, ...ecosystemCurricula] = require(
+      'literacy-site-theme/ecosystemLinks',
+    );
+
+    return {
+      hub: ecosystemHub,
+      curricula: ecosystemCurricula,
+    };
+  }
+})();
 
 // Resolve the theme's source directory so we can tell webpack to transpile it.
 // Docusaurus only auto-transpiles packages whose names contain "docusaurus".
@@ -121,7 +134,18 @@ const config = {
             position: 'left',
             label: 'Curriculum',
           },
-          ...navbarItems,
+          {
+            type: 'dropdown',
+            label: 'Literacy for Kids',
+            position: 'left',
+            items: [
+              {label: 'Hub', href: hub.href},
+              ...curricula.map((c) => ({
+                label: c.label.replace(' Literacy', ''),
+                href: c.href,
+              })),
+            ],
+          },
           {
             href: 'https://github.com/literacy-for-kids/decision_literacy_for_kids',
             label: 'GitHub',
