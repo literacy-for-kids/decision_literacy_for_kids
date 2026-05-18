@@ -88,7 +88,7 @@ const sidebars = {
         'week-extension-2',
       ],
     },
-    'curriculum-master',
+    'curriculum-overview',
     {
       type: 'category',
       label: 'Explore Other Literacies',
