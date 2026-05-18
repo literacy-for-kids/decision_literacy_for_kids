@@ -1,5 +1,4 @@
 ---
-id: curriculum-master
 slug: /curriculum-overview
 title: 18-Week Decision Literacy Curriculum
 description: >
