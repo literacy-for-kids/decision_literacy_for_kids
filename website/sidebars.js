@@ -11,7 +11,6 @@ const {hub, curricula} = require('literacy-site-theme/ecosystem');
 const sidebars = {
   curriculumSidebar: [
     'intro',
-    'license',
     {
       type: 'category',
       label: 'Probability & The Physics of Choice',
@@ -88,6 +87,7 @@ const sidebars = {
         })),
       ],
     },
+    'license',
   ],
 };
 
