@@ -1,7 +1,7 @@
 ---
 sidebar_position: 19
-sidebar_label: "Extension: Bayesian Updating"
-title: "Extension Week 1: Bayesian Updating"
+sidebar_label: "Optional: Bayesian Updating"
+title: "Optional Week 1: Bayesian Updating"
 description: "How new evidence should change your beliefs — the art and math of updating what you think is true."
 ---
 

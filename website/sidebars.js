@@ -67,7 +67,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Advanced Topics',
+      label: 'Optional: Advanced Topics',
       description: 'Bonus weeks: Bayesian updating and multi-step decision trees',
       items: [
         'week-extension-1',
