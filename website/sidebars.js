@@ -75,6 +75,7 @@ const sidebars = {
       ],
     },
     'curriculum-overview',
+    'glossary',
     {
       type: 'category',
       label: 'Explore Other Literacies',
