@@ -133,7 +133,7 @@ Each week below links to a detailed lesson page containing learning objectives, 
 
 | Week | Theme | Focus Highlights |
 |---|---|---|
-| [Week 1](./week01-week-1) | 🎲 The Coin Flip Lab | Randomness, uncertainty, and why perfectly good choices can lead to bad results |
+| [Week 1](/docs/week1) | 🎲 The Coin Flip Lab | Randomness, uncertainty, and why perfectly good choices can lead to bad results |
 | [Week 2](./week02-week-2) | 🔍 Process vs. Outcome | Separating the quality of the decision from the quality of the result |
 | [Week 3](./week03-week-3) | 📊 Thinking in Probabilities | Frequency, confidence levels, and learning to say "I'm about 70% sure" |
 | [Week 4](./week04-week-4) | 📓 The Decision Journal | Formalizing the journal, meeting hindsight bias, and building the recording habit |
