@@ -255,7 +255,7 @@ This activity works great for a single learner. You can also turn it into a fami
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

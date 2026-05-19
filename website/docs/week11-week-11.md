@@ -304,7 +304,7 @@ At the end of the week: how did those quick decisions turn out? Were they any wo
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

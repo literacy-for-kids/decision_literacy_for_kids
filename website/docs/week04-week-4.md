@@ -261,7 +261,7 @@ Make your first "official" full entry using the complete template:
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

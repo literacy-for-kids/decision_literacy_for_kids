@@ -254,7 +254,7 @@ We'll come back to this entry next week to see what actually happened.
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

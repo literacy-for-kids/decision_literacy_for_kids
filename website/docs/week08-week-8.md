@@ -289,7 +289,7 @@ Pick your 3 most interesting findings from the bingo card. For each one, write:
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

@@ -310,7 +310,7 @@ Examples:
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 This is the final check for the entire curriculum. After the presentation and reflections, confirm:
 

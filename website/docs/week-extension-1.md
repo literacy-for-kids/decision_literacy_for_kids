@@ -271,7 +271,7 @@ Write about a belief you held strongly that changed over the course of this curr
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 
