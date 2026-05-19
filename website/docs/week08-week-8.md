@@ -330,3 +330,7 @@ This week is about empowerment, not paranoia. Knowing about bias doesn't mean di
 :::info Phase 2 → Phase 3 Transition
 Congratulations — you have completed **Phase 2: Brain Shortcuts**! The student now has a powerful toolkit of 9 cognitive biases they can name and spot in the wild. In **Phase 3**, we shift from *recognizing* biases to *building decision frameworks* — structured ways to make better choices even when biases are pulling at us.
 :::
+
+## Preview of Next Week
+
+Next week, Phase 3 begins with expected value — the simple math that professionals use to compare uncertain choices — and students will use coins, dice, and a real-decision calculator to start thinking in averages rather than single outcomes.

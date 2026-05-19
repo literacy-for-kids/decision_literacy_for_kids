@@ -275,3 +275,7 @@ If the learner is younger or struggling, skip the scenario cards and focus on ju
 :::tip Extend (Ages 10–12)
 Ask ages 10–12 to keep a "resulting log" for three days: every time they catch someone (including themselves) judging a decision by its outcome alone, they write it down. Discuss the entries together. You can also ask: "Can a doctor make the right call and the patient still not get better? Does that mean the doctor was wrong?"
 :::
+
+## Preview of Next Week
+
+Next week, we shift from yes-or-no thinking to probability thinking, learning to express confidence levels with numbers — and students will make predictions, rate how sure they are, and test their calibration with a fun die-rolling experiment.

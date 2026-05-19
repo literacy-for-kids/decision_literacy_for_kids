@@ -356,3 +356,7 @@ Use only the two-door metaphor and a simplified 1–3 speed scale (fast / medium
 :::tip Extend (Ages 10–12)
 Have students create their own decision classification system beyond the two-door model. Discuss real-world irreversible decisions (e.g., environmental choices, digital footprint). Challenge them to identify decisions that start as two-way doors but become one-way if you wait too long.
 :::
+
+## Preview of Next Week
+
+Next week, Phase 4 begins and the focus shifts from solo decision-making to how our choices affect others — students will trace ripple effects through a Ripple Map and play a Cooperation Challenge to see what happens when people's decisions are interconnected.

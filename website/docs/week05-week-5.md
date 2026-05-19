@@ -300,3 +300,7 @@ If three heuristics feel like too much, cover only anchoring and availability th
 :::tip Extend (Ages 10–12)
 Ask learners to research one cognitive bias not covered this week (e.g., confirmation bias, sunk cost fallacy) and present a two-minute explanation to the family. Alternatively, have them redesign the Shortcut Spotter Worksheet with original scenarios drawn from their own life.
 :::
+
+## Preview of Next Week
+
+Next week, we explore one of the most powerful patterns in human decision-making: why losing something feels about twice as bad as gaining the same thing, and students will experience this first-hand in a trading game and learn to spot it in advertising.

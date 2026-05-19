@@ -303,3 +303,7 @@ If percentages feel overwhelming, stick to a three-word scale: very sure, pretty
 :::tip Extend (Ages 10–12)
 Challenge well-calibrated learners with a 10-question calibration quiz and track their accuracy over time. Introduce the idea that professional forecasters practice calibration as a measurable skill — and that they can too.
 :::
+
+## Preview of Next Week
+
+Next week, we formalize the Decision Journal as a permanent thinking tool and meet hindsight bias — the brain's 'I knew it all along' trick — and students will practice writing down their reasoning before they see what happens.

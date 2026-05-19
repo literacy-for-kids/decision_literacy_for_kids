@@ -352,3 +352,7 @@ This week is really about the tension between self-interest and community. There
 - Discuss real-world commons: ocean fisheries, air quality, climate change, shared digital resources.
 - Have students design their own rules, test them in the game, and compare effectiveness across approaches.
 :::
+
+## Preview of Next Week
+
+Next week, Phase 5 begins: students choose a real recurring problem in their own life, dig to its root cause using the 5 Whys technique, and build a Problem Map that will drive a four-week optimization project.

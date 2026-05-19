@@ -293,3 +293,7 @@ The trading game alone can carry the week. If the framing discussion feels abstr
 :::tip Extend (Ages 10–12)
 Introduce the expected-value formula explicitly and have learners calculate the EV of several real-world bets or choices. Discuss how loss aversion interacts with other biases from Week 5 — for example, how availability bias can amplify the feeling of loss when a recent bad outcome is fresh in mind.
 :::
+
+## Preview of Next Week
+
+Next week, we meet the sunk cost fallacy — the 'but I've already started!' trap — and students will play a dramatic escalation auction that makes it viscerally clear why money already spent should never drive a future decision.

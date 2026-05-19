@@ -289,3 +289,7 @@ If the learner is younger or attention is limited, skip the dice activity and fo
 :::tip Extend (Ages 10–12)
 Challenge ages 10–12 to predict how many 7s they'd expect in 36 dice rolls, then test it. Discuss why more rolls give a clearer picture (introducing the concept of sample size). Ask: "How many flips would you need to be confident a coin is fair?"
 :::
+
+## Preview of Next Week
+
+Next week, we go beyond luck to examine the most important idea in the entire course: that a good decision and a good outcome are not the same thing — and students will use a 2×2 grid to sort real scenarios by process quality versus result.
