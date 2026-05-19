@@ -1,7 +1,7 @@
 ---
 sidebar_position: 20
-sidebar_label: "Extension: Decision Trees"
-title: "Extension Week 2: Decision Trees"
+sidebar_label: "Optional: Decision Trees"
+title: "Optional Week 2: Decision Trees"
 description: "Mapping complex, multi-step decisions with branching paths, probabilities, and working backwards."
 ---
 
