@@ -224,7 +224,7 @@ Format can be:
 **2. Present!**
 
 The student presents to:
-- The caregiver/teacher
+- The facilitator/teacher
 - Family members (invited for this session)
 - Siblings or friends
 - Even just a stuffed animal audience is fine!

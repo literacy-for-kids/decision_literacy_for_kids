@@ -22,7 +22,7 @@ Lessons are intentionally **hands-on, curiosity-driven, and flexible**, allowing
 - Use [Program at a Glance](#program-at-a-glance) to jump to a specific week quickly.
 - Check [Advanced Topics](#advanced-topics-optional-extension) for the bonus extension weeks.
 - Open [How Skills Build Over Time](#how-skills-build-over-time) to see how the course connects.
-- Save [Independent Practice Setup Tips](#independent-practice-setup-tips) for caregiver logistics.
+- Save [Independent Practice Setup Tips](#independent-practice-setup-tips) for facilitator logistics.
 :::
 
 :::info Planning Help

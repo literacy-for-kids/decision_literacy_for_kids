@@ -221,7 +221,7 @@ By the end of this session, the student can:
 
 **1. The Stress Test**
 
-The caregiver (or a sibling/friend) plays the role of "stress tester." Their job is to find holes:
+The facilitator (or a sibling/friend) plays the role of "stress tester." Their job is to find holes:
 
 > "I'm going to throw scenarios at you. For each one, tell me: does your protocol still work?"
 
