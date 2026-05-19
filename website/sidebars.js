@@ -24,7 +24,6 @@ const {hub, curricula} = (() => {
 const sidebars = {
   curriculumSidebar: [
     'intro',
-    'license',
     {
       type: 'category',
       label: 'Probability & The Physics of Choice',
@@ -101,6 +100,7 @@ const sidebars = {
         })),
       ],
     },
+    'license',
   ],
 };
 
