@@ -3,6 +3,7 @@ sidebar_position: 1
 sidebar_label: "Week 1: The Coin Flip Lab"
 title: "Week 1: The Coin Flip Lab"
 description: "Introduction to randomness, uncertainty, and the idea that perfectly good choices can lead to bad results."
+slug: /week1
 ---
 
 # Week 1: The Coin Flip Lab
