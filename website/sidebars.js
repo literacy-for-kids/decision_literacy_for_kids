@@ -5,20 +5,7 @@ import {createRequire} from 'module';
 const require = createRequire(import.meta.url);
 const currentSiteHref =
   'https://literacy-for-kids.github.io/decision_literacy_for_kids/';
-const {hub, curricula} = (() => {
-  try {
-    return require('literacy-site-theme/ecosystem');
-  } catch {
-    const [ecosystemHub, ...ecosystemCurricula] = require(
-      'literacy-site-theme/ecosystemLinks',
-    );
-
-    return {
-      hub: ecosystemHub,
-      curricula: ecosystemCurricula,
-    };
-  }
-})();
+const {hub, curricula} = require('literacy-site-theme/ecosystem');
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {

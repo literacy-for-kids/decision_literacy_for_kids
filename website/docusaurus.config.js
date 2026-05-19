@@ -10,20 +10,7 @@ import {dirname, resolve} from 'node:path';
 
 const require = createRequire(import.meta.url);
 const footerConfig = require('literacy-site-theme/footerConfig');
-const {hub, curricula} = (() => {
-  try {
-    return require('literacy-site-theme/ecosystem');
-  } catch {
-    const [ecosystemHub, ...ecosystemCurricula] = require(
-      'literacy-site-theme/ecosystemLinks',
-    );
-
-    return {
-      hub: ecosystemHub,
-      curricula: ecosystemCurricula,
-    };
-  }
-})();
+const {hub, curricula} = require('literacy-site-theme/ecosystem');
 
 // Resolve the theme's source directory so we can tell webpack to transpile it.
 // Docusaurus only auto-transpiles packages whose names contain "docusaurus".
