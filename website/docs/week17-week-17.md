@@ -290,3 +290,7 @@ After reviewing the mid-experiment data, ask:
 - **From Week 3:** "How well-calibrated was your confidence? Before testing, did you predict how likely the protocol was to work? Compare that prediction to the data."
 - **From Week 9:** "You can calculate a rough success rate from your data. If you followed the protocol 4 out of 5 days, your compliance rate is 80%. Is that good enough, or does it need to be higher to solve the friction point?"
 :::
+
+## Preview of Next Week
+
+Next week is the finale: students patch what didn't work in their protocol, present their findings in a mini-showcase, and reflect on 18 weeks of decision literacy — celebrating how much their thinking has grown.

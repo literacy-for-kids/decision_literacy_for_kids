@@ -315,3 +315,7 @@ Sunk cost thinking is powered by emotions — the discomfort of "wasting" effort
 :::
 
 > **Solo-friendly note:** This week's Independent Practice works well solo. The Sunk Cost Audit and walk-away points are personal reflection activities that don't require a partner.
+
+## Preview of Next Week
+
+Next week, we go on a Bias Safari — taking everything learned in Weeks 5–7 and hunting for real-world examples of cognitive biases in ads, apps, games, and everyday conversations.

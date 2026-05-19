@@ -346,3 +346,7 @@ Trust, fairness, and loyalty all live inside these games. When someone cooperate
 - Discuss real-world applications: international trade agreements, environmental treaties, arms races.
 - Research Axelrod's tournaments and why simple strategies outperformed complex ones.
 :::
+
+## Preview of Next Week
+
+Next week, we scale up to the Tragedy of the Commons — running a dramatic Fishing Game simulation where students manage a shared resource, watch it collapse if everyone takes too much, and then design rules to prevent the same collapse from happening again.

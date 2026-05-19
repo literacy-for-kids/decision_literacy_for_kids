@@ -307,3 +307,7 @@ Skip the EV formula entirely. Focus on the 100 Times Test: "If you played this g
 :::tip Extend (Ages 10–12)
 Challenge students to calculate EV for real decisions they face (e.g., studying vs. not studying, spending vs. saving). Have them create their own "bet" for a friend to evaluate. Introduce the idea that EV improves with better probability estimates — connecting back to Week 4 (calibration).
 :::
+
+## Preview of Next Week
+
+Next week, we tackle signal vs. noise: how to figure out which information actually matters when making a decision, and when you have enough information to act — even without perfect data.

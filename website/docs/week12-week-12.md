@@ -329,3 +329,7 @@ After the Ripple Map or Cooperation Challenge, ask:
 - **From Week 11:** "Is the ripple reversible? If you take the last slice of pizza, your sibling misses out — but it's a two-way door (you can share next time). If you say something cruel, the ripple is much harder to undo."
 - **From Week 7:** "Are you creating ripples because of sunk cost? ('I already started this argument, so I have to win it!') Sometimes the best ripple is the one you DON'T create — by walking away."
 :::
+
+## Preview of Next Week
+
+Next week, we play the most famous thought experiment in decision science: the Prisoner's Dilemma, where students discover why individual 'best' choices can lead to group failure — and learn the crucial difference between zero-sum and positive-sum situations.

@@ -356,3 +356,7 @@ After the protocol design session, ask:
 - **From Week 5:** "Your protocol should guard against the biases you've learned about. If your friction point involves impulsive decisions, build in a delay: 'Wait 5 minutes before deciding.'"
 - **From Week 15:** "The root cause you found last week is the TARGET. Your protocol is the TOOL. Make sure the protocol actually addresses the root cause, not just the surface symptom."
 :::
+
+## Preview of Next Week
+
+Next week, the protocol becomes a real experiment: students run it, track whether they follow it, collect honest data on what's working and what isn't, and check in with a mid-experiment review.

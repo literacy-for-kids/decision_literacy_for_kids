@@ -347,3 +347,7 @@ Help the child choose a simple, concrete friction point. Limit the 5 Whys to 3 W
 :::tip Extend (Ages 10–12)
 Encourage more complex friction points that involve multiple decision points. Full 5 Whys analysis. Have them map which curriculum tools apply to their chosen problem — and explain why each tool is relevant.
 :::
+
+## Preview of Next Week
+
+Next week, students take the Problem Map from this week and design a Decision Protocol — a simple system that tells them what to do before they have to think about it — and then stress-test it for weaknesses.

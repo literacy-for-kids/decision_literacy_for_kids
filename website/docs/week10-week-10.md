@@ -333,3 +333,7 @@ Focus on the Beach Decision activity with physical cards. For diminishing return
 :::tip Extend (Ages 10–12)
 Have students graph diminishing returns for a real scenario (e.g., minutes of studying vs. test score improvement). Discuss how social media algorithms exploit our inability to distinguish signal from noise. Connect diminishing returns to the broader set of five core mental models.
 :::
+
+## Preview of Next Week
+
+Next week, we explore how to match the effort of a decision to its stakes, using the powerful metaphor of Two-Way Doors (reversible choices) and One-Way Doors (irreversible ones) to decide when to decide quickly and when to slow down.

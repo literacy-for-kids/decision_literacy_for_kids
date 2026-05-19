@@ -308,3 +308,7 @@ If the full seven-field journal template feels like too much, start with just th
 :::tip Extend (Ages 10–12)
 Have learners review all their journal entries from Weeks 1–3, score their predictions for accuracy, and calculate a simple calibration rate. Challenge them to write a "Letter to Future Me" explaining their reasoning on a current decision, to be opened in four weeks.
 :::
+
+## Preview of Next Week
+
+Next week, we zoom out to discover that the brain is full of mental shortcuts called heuristics — and students will be surprised by fast-brain puzzles and learn to name three common shortcuts: anchoring, availability, and representativeness.
