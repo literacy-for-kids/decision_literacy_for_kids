@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "@mdx-js/react": "^3.0.0",
-    "caniuse-lite": "^1.0.30001784",
     "clsx": "^2.0.0",
     "literacy-site-theme": "github:literacy-for-kids/literacy_site_template",
     "prism-react-renderer": "^2.3.0",
@@ -28,8 +27,7 @@
     "@docusaurus/module-type-aliases": "^3.9.2",
     "@docusaurus/preset-classic": "^3.9.2",
     "@docusaurus/tsconfig": "^3.9.2",
-    "@docusaurus/types": "^3.9.2",
-    "baseline-browser-mapping": "^2.10.13"
+    "@docusaurus/types": "^3.9.2"
   },
   "browserslist": {
     "production": [
