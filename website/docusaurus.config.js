@@ -6,7 +6,6 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 import {createRequire} from 'node:module';
-import {dirname, resolve} from 'node:path';
 
 const require = createRequire(import.meta.url);
 const footerConfig = require('literacy-site-theme/footerConfig');
@@ -24,13 +23,6 @@ const {hub, curricula} = (() => {
     };
   }
 })();
-
-// Resolve the theme's source directory so we can tell webpack to transpile it.
-// Docusaurus only auto-transpiles packages whose names contain "docusaurus".
-const themeSrcDir = resolve(
-  dirname(require.resolve('literacy-site-theme')),
-  'theme',
-);
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -63,41 +55,6 @@ const config = {
   },
 
   themes: ['literacy-site-theme'],
-
-  plugins: [
-    function transpileLiteracyTheme() {
-      return {
-        name: 'transpile-literacy-theme',
-        configureWebpack() {
-          return {
-            module: {
-              rules: [
-                {
-                  test: /\.[jt]sx?$/i,
-                  include: [themeSrcDir],
-                  type: 'javascript/auto',
-                  use: [
-                    {
-                      loader: require.resolve('babel-loader'),
-                      options: {
-                        presets: [
-                          require.resolve(
-                            '@docusaurus/core/lib/babel/preset',
-                          ),
-                        ],
-                        babelrc: false,
-                        configFile: false,
-                      },
-                    },
-                  ],
-                },
-              ],
-            },
-          };
-        },
-      };
-    },
-  ],
 
   presets: [
     [
