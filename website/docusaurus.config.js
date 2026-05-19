@@ -30,11 +30,7 @@ const config = {
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
-  markdown: {
-    hooks: {
-      onBrokenMarkdownLinks: 'warn',
-    },
-  },
+  onBrokenMarkdownLinks: 'warn',
 
   i18n: {
     defaultLocale: 'en',
@@ -42,6 +38,27 @@ const config = {
   },
 
   themes: ['literacy-site-theme'],
+
+  plugins: [
+    function transpileLiteracyTheme() {
+      const themePath = require.resolve('literacy-site-theme');
+      const themeDir = require('path').dirname(themePath);
+      return {
+        name: 'transpile-literacy-theme',
+        configureWebpack(config) {
+          config.module.rules.push({
+            test: /\.[jt]sx?$/i,
+            include: [themeDir],
+            type: 'javascript/auto',
+            use: config.module.rules
+              .find((rule) => String(rule.test) === '/\\.[jt]sx?$/i')
+              ?.use ?? [],
+          });
+          return {};
+        },
+      };
+    },
+  ],
 
   presets: [
     [
