@@ -9,20 +9,7 @@ import {createRequire} from 'node:module';
 
 const require = createRequire(import.meta.url);
 const footerConfig = require('literacy-site-theme/footerConfig');
-const {hub, curricula} = (() => {
-  try {
-    return require('literacy-site-theme/ecosystem');
-  } catch {
-    const [ecosystemHub, ...ecosystemCurricula] = require(
-      'literacy-site-theme/ecosystemLinks',
-    );
-
-    return {
-      hub: ecosystemHub,
-      curricula: ecosystemCurricula,
-    };
-  }
-})();
+const {hub, curricula} = require('literacy-site-theme/ecosystem');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
