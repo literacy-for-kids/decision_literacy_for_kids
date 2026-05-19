@@ -261,7 +261,7 @@ New entry:
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

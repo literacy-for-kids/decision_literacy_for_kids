@@ -256,7 +256,7 @@ Begin drafting the experiment summary. You'll present this in Week 18:
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

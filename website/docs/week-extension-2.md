@@ -319,7 +319,7 @@ Pick a goal you want to achieve in the next month. Work backwards from the goal 
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

@@ -303,7 +303,7 @@ Pick one commons problem from your list. Design a simple rule that could help:
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

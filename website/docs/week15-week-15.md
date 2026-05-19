@@ -303,7 +303,7 @@ This "before" data will help you measure improvement later.
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

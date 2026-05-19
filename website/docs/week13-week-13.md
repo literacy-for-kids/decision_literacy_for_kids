@@ -296,7 +296,7 @@ Play a simplified version with a family member at least 5 times this week (can u
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

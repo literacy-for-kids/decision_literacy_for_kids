@@ -240,7 +240,7 @@ New entry for this week:
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

@@ -264,7 +264,7 @@ For three things you're starting or continuing this week, set a specific walk-aw
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

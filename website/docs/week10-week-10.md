@@ -287,7 +287,7 @@ Did fast decisions turn out worse than slow ones? (Usually the answer is: not re
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 

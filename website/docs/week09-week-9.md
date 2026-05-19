@@ -262,7 +262,7 @@ For 5 decisions you make this week, do a quick mental EV check: "If I did this 1
 
 ---
 
-## Quick Mastery Check
+## Check for Understanding
 
 After this week, check whether the learner can:
 
