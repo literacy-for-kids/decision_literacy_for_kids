@@ -172,7 +172,7 @@ Real-life examples:
 > "We think things are more common if we can easily picture them."
 
 Demo:
-- Ask: "What's more dangerous — shark attacks or falling coconuts?" (Coconuts injure far more people, but shark attacks are in the news.)
+- Ask: "What's more dangerous — shark attacks or falling coconuts?" (Studies suggest coconuts cause more deaths annually than shark attacks in some regions, but shark attacks dominate the news.)
 - Ask: "Are there more words that START with the letter R, or words that have R as the THIRD letter?" (More R-as-third-letter words, but starting letters are easier to think of.)
 
 The easier something is to recall, the more common or likely it FEELS — even if the numbers say otherwise.
