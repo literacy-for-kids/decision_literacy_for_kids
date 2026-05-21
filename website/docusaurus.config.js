@@ -5,11 +5,10 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
-import {createRequire} from 'node:module';
-
+import {createRequire} from 'module';
 const require = createRequire(import.meta.url);
-const footerConfig = require('literacy-site-theme/footerConfig');
 const {hub, curricula} = require('literacy-site-theme/ecosystem');
+const footerConfig = require('literacy-site-theme/footerConfig');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -38,27 +37,6 @@ const config = {
   },
 
   themes: ['literacy-site-theme'],
-
-  plugins: [
-    function transpileLiteracyTheme() {
-      const themePath = require.resolve('literacy-site-theme');
-      const themeDir = require('path').dirname(themePath);
-      return {
-        name: 'transpile-literacy-theme',
-        configureWebpack(config) {
-          config.module.rules.push({
-            test: /\.[jt]sx?$/i,
-            include: [themeDir],
-            type: 'javascript/auto',
-            use: config.module.rules
-              .find((rule) => String(rule.test) === '/\\.[jt]sx?$/i')
-              ?.use ?? [],
-          });
-          return {};
-        },
-      };
-    },
-  ],
 
   presets: [
     [
