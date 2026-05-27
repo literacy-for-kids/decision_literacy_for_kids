@@ -114,7 +114,7 @@ Additionally, every weekly lesson page features:
 - **Pause and Notice** — a short values-and-feelings reflection tied to that week's concept
 - **Spiral Review** — brief connections back to earlier weeks so concepts reinforce over time
 
-See the [Introduction](./intro) page for the full age-adaptation guide.
+See the [Introduction](/docs/intro) page for the full age-adaptation guide.
 
 #### When Content Is Too Easy or Too Hard
 
@@ -134,9 +134,9 @@ Each week below links to a detailed lesson page containing learning objectives, 
 | Week | Theme | Focus Highlights |
 |---|---|---|
 | [Week 1](/docs/week1) | 🎲 The Coin Flip Lab | Randomness, uncertainty, and why perfectly good choices can lead to bad results |
-| [Week 2](./week02-week-2) | 🔍 Process vs. Outcome | Separating the quality of the decision from the quality of the result |
-| [Week 3](./week03-week-3) | 📊 Thinking in Probabilities | Frequency, confidence levels, and learning to say "I'm about 70% sure" |
-| [Week 4](./week04-week-4) | 📓 The Decision Journal | Formalizing the journal, meeting hindsight bias, and building the recording habit |
+| [Week 2](/docs/week02-week-2) | 🔍 Process vs. Outcome | Separating the quality of the decision from the quality of the result |
+| [Week 3](/docs/week03-week-3) | 📊 Thinking in Probabilities | Frequency, confidence levels, and learning to say "I'm about 70% sure" |
+| [Week 4](/docs/week04-week-4) | 📓 The Decision Journal | Formalizing the journal, meeting hindsight bias, and building the recording habit |
 
 :::info What Success Looks Like — End of Phase 1
 - The learner can explain that a good process doesn't guarantee a good outcome (and vice versa).
@@ -151,10 +151,10 @@ Each week below links to a detailed lesson page containing learning objectives, 
 
 | Week | Theme | Focus Highlights |
 |---|---|---|
-| [Week 5](./week05-week-5) | 🧠 Meet Your Brain's Shortcuts | Fast vs. slow thinking, anchoring, availability, and representativeness |
-| [Week 6](./week06-week-6) | 💔 The Loss Aversion Lab | Why losing feels worse than winning feels good, and how this distorts choices |
-| [Week 7](./week07-week-7) | 🪤 The Sunk Cost Trap | Why "I've already started" is a dangerous reason to keep going |
-| [Week 8](./week08-week-8) | 🔎 Bias Hunters | Spotting cognitive biases in advertisements, apps, social media, and daily life |
+| [Week 5](/docs/week05-week-5) | 🧠 Meet Your Brain's Shortcuts | Fast vs. slow thinking, anchoring, availability, and representativeness |
+| [Week 6](/docs/week06-week-6) | 💔 The Loss Aversion Lab | Why losing feels worse than winning feels good, and how this distorts choices |
+| [Week 7](/docs/week07-week-7) | 🪤 The Sunk Cost Trap | Why "I've already started" is a dangerous reason to keep going |
+| [Week 8](/docs/week08-week-8) | 🔎 Bias Hunters | Spotting cognitive biases in advertisements, apps, social media, and daily life |
 
 :::info What Success Looks Like — End of Phase 2
 - The learner can name at least three cognitive biases and spot one in a real-world ad or conversation.
@@ -169,9 +169,9 @@ Each week below links to a detailed lesson page containing learning objectives, 
 
 | Week | Theme | Focus Highlights |
 |---|---|---|
-| [Week 9](./week09-week-9) | ⚖️ Expected Value | A simple math tool for weighing risks and rewards across uncertain options |
-| [Week 10](./week10-week-10) | 📡 Signal vs. Noise | What information actually matters, and when you have "enough" to decide |
-| [Week 11](./week11-week-11) | 🚪 Reversible vs. Irreversible | Not all decisions deserve the same effort — matching speed to stakes |
+| [Week 9](/docs/week09-week-9) | ⚖️ Expected Value | A simple math tool for weighing risks and rewards across uncertain options |
+| [Week 10](/docs/week10-week-10) | 📡 Signal vs. Noise | What information actually matters, and when you have "enough" to decide |
+| [Week 11](/docs/week11-week-11) | 🚪 Reversible vs. Irreversible | Not all decisions deserve the same effort — matching speed to stakes |
 
 :::info What Success Looks Like — End of Phase 3
 - The learner can do a rough expected value comparison for a simple bet or choice (e.g., "Option A has a higher expected value because…").
@@ -186,9 +186,9 @@ Each week below links to a detailed lesson page containing learning objectives, 
 
 | Week | Theme | Focus Highlights |
 |---|---|---|
-| [Week 12](./week12-week-12) | 🌊 The Ripple Effect | How your choices affect others and theirs affect you |
-| [Week 13](./week13-week-13) | 🤝 The Prisoner's Dilemma | Win-win vs. zero-sum thinking and the power of cooperation |
-| [Week 14](./week14-week-14) | 🐟 The Commons Simulation | When individual "best" choices lead to group failure |
+| [Week 12](/docs/week12-week-12) | 🌊 The Ripple Effect | How your choices affect others and theirs affect you |
+| [Week 13](/docs/week13-week-13) | 🤝 The Prisoner's Dilemma | Win-win vs. zero-sum thinking and the power of cooperation |
+| [Week 14](/docs/week14-week-14) | 🐟 The Commons Simulation | When individual "best" choices lead to group failure |
 
 :::info What Success Looks Like — End of Phase 4
 - The learner can explain why individual "best" choices sometimes make everyone worse off (tragedy of the commons).
@@ -203,10 +203,10 @@ Each week below links to a detailed lesson page containing learning objectives, 
 
 | Week | Theme | Focus Highlights |
 |---|---|---|
-| [Week 15](./week15-week-15) | 🔧 Identify Your Friction Point | Choosing a recurring real-life problem and mapping its root causes |
-| [Week 16](./week16-week-16) | 📋 Design Your Protocol | Building a systematic decision process with triggers, defaults, and checks |
-| [Week 17](./week17-week-17) | 📈 Test and Collect Data | Running the protocol, tracking results, and learning from what happens |
-| [Week 18](./week18-week-18) | 🔄 Patch, Present, Reflect | Iterating on the protocol, presenting results, and reflecting on the full journey |
+| [Week 15](/docs/week15-week-15) | 🔧 Identify Your Friction Point | Choosing a recurring real-life problem and mapping its root causes |
+| [Week 16](/docs/week16-week-16) | 📋 Design Your Protocol | Building a systematic decision process with triggers, defaults, and checks |
+| [Week 17](/docs/week17-week-17) | 📈 Test and Collect Data | Running the protocol, tracking results, and learning from what happens |
+| [Week 18](/docs/week18-week-18) | 🔄 Patch, Present, Reflect | Iterating on the protocol, presenting results, and reflecting on the full journey |
 
 :::info What Success Looks Like — End of Phase 5
 - The learner has designed, tested, and iterated on a personal decision protocol for a real problem in their life.
@@ -224,8 +224,8 @@ For learners who want to go further, two bonus weeks introduce more advanced dec
 
 | Week | Theme | Focus Highlights |
 |---|---|---|
-| [Extension 1](./week-extension-1) | 📐 Bayesian Updating | How new evidence should change your beliefs — and by how much |
-| [Extension 2](./week-extension-2) | 🌳 Decision Trees | Mapping complex, multi-step decisions with branching paths and probabilities |
+| [Extension 1](/docs/week-extension-1) | 📐 Bayesian Updating | How new evidence should change your beliefs — and by how much |
+| [Extension 2](/docs/week-extension-2) | 🌳 Decision Trees | Mapping complex, multi-step decisions with branching paths and probabilities |
 
 :::info Extension Week Readiness
 - **Extension 1 (Bayesian Updating):** Best attempted after the learner is comfortable with confidence levels (Week 3) and expected value (Week 9). Recommended for ages 9+ or advanced younger learners. The learner should be able to assign and update percentage-based confidence ratings before starting.
