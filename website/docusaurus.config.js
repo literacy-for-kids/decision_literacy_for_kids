@@ -26,7 +26,7 @@ const config = {
   organizationName: 'literacy-for-kids',
   projectName: 'decision_literacy_for_kids',
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
