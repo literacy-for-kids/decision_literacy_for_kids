@@ -37,6 +37,20 @@ Good scientists don't just "try things and hope." They **measure, record, and an
 | **Key vocabulary** | data collection, baseline comparison, mid-experiment check |
 | **Difficulty** | Moderate |
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same project structure, then add more independent analysis, confidence updating, and interpretation of messy data.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- track whether the protocol was followed using honest, consistent data
+- identify at least one pattern in the results so far
+- record or discuss one Decision Journal reflection at their level
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -143,6 +157,15 @@ Mon |       Y           |       Y            |      7        | Almost forgot but
 Tue |       Y           |       N            |      3        | Rushed and skipped it
 Wed |       Y           |       Y            |      8        | Worked great!
 ...
+```
+
+Simplified tracker option:
+
+```
+Day | Trigger? | Followed? | One note
+Mon |    Y     |     Y     | Worked
+Tue |    Y     |     N     | Forgot
+Wed |    N     |     -     | No trigger
 ```
 
 Discuss: "Is this system easy enough that you'll actually do it every day? If not, simplify it."
@@ -253,6 +276,28 @@ Begin drafting the experiment summary. You'll present this in Week 18:
 - Is there a difference between a protocol that "failed" and a protocol that taught you something?
 - What would happen if you skipped the data collection and just relied on your gut feeling about how it's going?
 - Professional scientists run experiments for months or years. Do you think 1-2 weeks is enough to really know if your protocol works?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "What would honest tracking look like in your setting? Would another family, school, or community count success in the same way?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You recorded the data honestly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed a pattern. Now say what probably caused it."
+- "Try again and separate what the data says from what the bad day felt like."
 
 ---
 

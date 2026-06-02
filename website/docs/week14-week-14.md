@@ -39,6 +39,22 @@ We run the most dramatic simulation in the course: **The Fishing Game.** A share
 | **Guided Session 2** | Solving the Commons |
 | **Independent Practice** | My Commons + Design a Fair Rule |
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same lesson, then add more discussion of unequal needs, enforcement, and why real commons are more complex than the game.
+
+---
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- explain why individually attractive choices can damage a shared resource
+- suggest at least one fair rule, norm, or transparency tool that could protect a commons
+- record or discuss one Decision Journal reflection at their level
+
 ---
 
 ## Facilitator Preparation
@@ -118,6 +134,8 @@ By the end of this session, the student can:
 - If 4 players each take 5 fish (20 total), the pond drops to 0. **Game over.**
 
 > **Diminishing returns:** As more fish are taken from the pond, the remaining fish yield less and less — this is diminishing returns at the group level. A pond with 4 fish left can only double to 8, while a pond with 12 left doubles to 20. Every extra fish taken reduces the pond's ability to recover.
+
+*Source note for facilitators: Real-world commons involve unequal power, different needs, history, and imperfect enforcement. The Fishing Game is a simplified model that makes one important pattern visible; it is not a full picture of every commons problem.*
 
 :::note Solo/Small-Group Fallback
 **If only 2 players (learner + facilitator):** The Fishing Game works great with 2. Each round, each player secretly writes how many fish to take (1–3), then reveal simultaneously. Add half the remaining fish back each round.
@@ -300,6 +318,28 @@ Pick one commons problem from your list. Design a simple rule that could help:
 - Why is it harder to solve a commons problem with more people?
 - Is it fair to limit what individuals can do to protect a shared resource?
 - What's the difference between a rule that people follow because they agree with it and a rule they follow because they have to?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "What counts as a shared resource in your setting: time, space, attention, bandwidth, reputation, money, or something else? Who gets left out if the rules are unfair?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You explained the commons problem clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the shared resource. Now explain what rule or norm protects it."
+- "Try again and describe how real life might be more complex than the game."
 
 ---
 

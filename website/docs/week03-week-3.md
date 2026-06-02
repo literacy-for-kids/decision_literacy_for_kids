@@ -39,6 +39,20 @@ Students learn that being honest about uncertainty is not weakness — it's a su
 | **Key vocabulary** | probability, frequency, confidence, calibration |
 | **Difficulty** | Introductory |
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same lesson, then add stronger discussion of evidence quality, rumors, online claims, and how certainty can be amplified by emotion.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- express uncertainty using confidence language that fits the evidence available
+- distinguish between evidence-based confidence and emotion-based certainty in at least one example
+- record or discuss one Decision Journal reflection at their level
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -166,6 +180,8 @@ Explain:
 
 From now on, whenever you catch yourself thinking "it will happen" or "it won't happen," switch to **probability mode**: "How likely is this, on a scale from 0% to 100%?" We call this wearing your **Probability Glasses** — looking at the world through percentages instead of yes-or-no.
 
+Add this distinction explicitly: **evidence-based confidence** comes from reasons you can name, such as data, direct observation, or a reliable forecast. **Emotion-based certainty** feels strong because you are excited, scared, embarrassed, loyal, or hopeful. Strong feelings matter, but they are not the same as strong evidence.
+
 ---
 
 **2. Rate These Predictions**
@@ -258,6 +274,28 @@ New entry:
 - What's the difference between being "sure" and being "pretty sure"?
 - Is it okay to make a decision when you're only 60% confident? When would you want to be more sure?
 - Can you think of a time someone said they were "100% sure" about something and turned out to be wrong?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "In your community, when do people sound certain because they have evidence, and when do they sound certain because the feeling is strong?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You matched your confidence level to the evidence clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the feeling. Now separate that feeling from your evidence."
+- "Try again and explain what would change your confidence number."
 
 ---
 

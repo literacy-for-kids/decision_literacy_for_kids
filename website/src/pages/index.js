@@ -15,12 +15,12 @@ function HomepageHeader() {
           <p className={styles.kicker}>Free and open educational curriculum</p>
           <h1 className="hero__title">Decision Literacy for Kids</h1>
           <p className="hero__subtitle">
-            A free, open curriculum that teaches kids to debug the human brain.
+            A free, open curriculum for helping learners make wiser choices under uncertainty.
           </p>
           <p className={styles.heroLead}>
-            18 weeks of hands-on activities covering probability, cognitive biases,
-            game theory, and real-world problem solving — built for ages 8–12 with
-            caregiver guidance.
+            18 weeks of hands-on activities in probability, cognitive shortcuts,
+            game theory, and reflective problem solving. Strongest for ages 10–12,
+            with a simplified path for ages 8–9 and extension prompts for ages 12–15.
           </p>
           <div className={styles.buttons}>
             <Link
@@ -39,7 +39,7 @@ function HomepageHeader() {
           <img
             className={styles.heroImage}
             src={heroImageUrl}
-            alt="Hero image for the decision literacy curriculum"
+            alt="Illustration of three children using coins, charts, a decision journal, and choice symbols to practice probability, reflection, and decision-making tools"
           />
         </div>
       </div>
@@ -51,7 +51,7 @@ export default function Home() {
   return (
     <Layout
       title="Welcome"
-      description="A curriculum website for teaching kids decision-making skills.">
+      description="A curriculum website for teaching young learners how to reflect on choices, weigh uncertainty, and build stronger decision habits.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

@@ -10,7 +10,7 @@ description: "Formalizing the Decision Journal as a thinking tool, meeting hinds
 
 For three weeks you've been making predictions and noting surprises. Now it's time to formalize your thinking tool — the **Decision Journal**.
 
-**Writing down your reasoning BEFORE you see the result is the most powerful technique for becoming a better decision-maker.** The Decision Journal prevents your brain from rewriting history and forces you to be honest about what you actually knew and thought at the time.
+**Writing down your reasoning BEFORE you see the result is one of the most useful techniques for becoming a better decision-maker.** The Decision Journal can reduce hindsight drift and helps you stay honest about what you actually knew and thought at the time.
 
 We also meet our first named cognitive bias: **hindsight bias** — the "I knew it all along" feeling that makes us think past events were more predictable than they actually were.
 
@@ -39,6 +39,20 @@ We also meet our first named cognitive bias: **hindsight bias** — the "I knew 
 | **Key vocabulary** | hindsight bias, prediction, confidence level, reflection |
 | **Difficulty** | Introductory |
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same journal routine, then add stronger reflection on evidence quality, privacy, and digital permanence.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- explain hindsight bias in their own words
+- complete a Decision Journal entry before the outcome is known, using an age-appropriate format
+- describe one privacy or safety choice that makes the journal more useful and more respectful
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -50,6 +64,8 @@ We also meet our first named cognitive bias: **hindsight bias** — the "I knew 
 
 :::tip Facilitation Mindset
 The journal should feel like a **thinking companion**, not homework. If it starts feeling like a chore, it is too complicated. Simplify ruthlessly. Even one sentence of reasoning before a decision is infinitely better than nothing.
+
+**Privacy and safety note:** Learners should never be required to record private family conflict, medical details, passwords, account information, or anything that feels unsafe to share. They can anonymize names, keep selected entries private, or choose a lower-stakes example instead.
 :::
 
 ## For Younger Learners (Ages 8–9)
@@ -102,7 +118,9 @@ Discussion:
 
 - Our memories play tricks on us. Once we know what happened, it FEELS like we always knew it would happen.
 - The journal fixes this. It's a snapshot of what you actually thought at the time.
-- Professional poker players, athletes, and scientists all keep journals for exactly this reason.
+- Many poker players, athletes, scientists, and other professionals use journals or logs for similar reasons: to compare what they thought before an outcome with what they think afterward.
+
+*Source note for facilitators: Writing and reflecting can support metacognition, but the journal works best when it feels safe, brief, and useful rather than performative.*
 
 ---
 
@@ -232,6 +250,7 @@ If not already done, set up the permanent Decision Journal:
 - Dedicate a notebook (or create a digital document)
 - Copy the template onto the first page or inside front cover for quick reference
 - Number the pages (optional but helpful for looking back later)
+- Let learners keep selected entries private or use initials and general labels instead of full names when the topic involves other people
 
 **Quick-start version (younger learners):** A simple notebook with the 3-field template ("What I chose / Why / What happened") written or taped on the inside cover is enough. Don't worry about numbering pages or creating a complex system — keeping it simple makes it more likely to get used.
 
@@ -258,6 +277,28 @@ Make your first "official" full entry using the complete template:
 - Why is it so hard to remember what we actually thought before we learned the answer?
 - If someone says "I knew that would happen," what question could you ask them?
 - How many weeks of journal entries do you think you'll need before you start seeing patterns in your thinking?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "Would someone in another family, school, or community choose a different example to journal? What should stay private across all of those settings?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You recorded what you thought before the outcome clearly."
+- "Your example fits, but tell me what evidence you used at the time."
+- "You noticed the hindsight feeling. Now show me what your earlier notes say."
+- "Try again and choose a version of the entry that still feels safe to keep."
 
 ---
 

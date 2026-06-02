@@ -11,6 +11,8 @@ const {hub, curricula} = require('literacy-site-theme/ecosystem');
 const sidebars = {
   curriculumSidebar: [
     'intro',
+    'curriculum-overview',
+    'glossary',
     {
       type: 'category',
       label: 'Probability & The Physics of Choice',
@@ -74,8 +76,6 @@ const sidebars = {
         'week-extension-2',
       ],
     },
-    'curriculum-overview',
-    'glossary',
     {
       type: 'category',
       label: 'Explore Other Literacies',

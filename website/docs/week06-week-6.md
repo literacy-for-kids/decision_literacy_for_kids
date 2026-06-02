@@ -10,7 +10,9 @@ description: "Why losing hurts more than winning feels good, and how advertisers
 
 Last week you met three of your brain's biggest shortcuts — anchoring, availability, and representativeness. This week we zoom in on one of the most powerful patterns in human decision-making: the brain's tendency to weigh losses more heavily than gains.
 
-Human brains treat gains and losses differently. Losing $10 feels about **twice as bad** as finding $10 feels good. This lopsided wiring — called **loss aversion** — was useful when losing your food meant starving, but today it causes us to make overly cautious decisions, cling to things we don't need, and fall for marketing tricks.
+Many people feel losses more strongly than equal gains, although the size of that feeling varies by person and context. This pattern — called **loss aversion** — can make us overly cautious, cling to things we do not need, and fall for marketing tricks.
+
+*Source note for facilitators: Research often finds that losses loom larger than gains, but the exact size of the effect varies across studies, tasks, and people.*
 
 This week we experience loss aversion first-hand and learn to spot it in the wild. Loss aversion is another place where fast brain overrides slow brain — your quick emotional "no!" fires before your reasoning brain can do the math.
 
@@ -37,6 +39,20 @@ This week we experience loss aversion first-hand and learn to spot it in the wil
 | **Materials** | 6–8 small objects for trading, framing pairs (listed below), coins for coin-flip demo |
 | **Key vocabulary** | loss aversion, endowment effect, framing effect |
 | **Difficulty** | Moderate |
+
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same lesson, then add digital, social, and status-based examples of what people fear losing.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- explain how loss aversion or framing can change a choice
+- apply the idea to one real or realistic example from possessions, apps, friendships, or online spaces
+- record or discuss one reflection using the Decision Journal at their level
 
 ## Facilitator Preparation
 
@@ -136,6 +152,8 @@ Discuss together:
 - Have you ever kept a toy or game you never play, just because it's yours?
 - Have you ever felt terrible about losing a game, even though you had fun playing?
 - Have you ever chosen NOT to try something new because you were afraid of losing what you already have?
+- Have you ever kept an app streak going even when you were tired because losing the streak felt awful?
+- Have you ever stayed in a group chat, trend, or ranking system you did not enjoy because leaving felt like losing status or connection?
 
 These are all loss aversion. It's your brain's alarm system overreacting to potential losses.
 
@@ -247,6 +265,29 @@ For each, label it as "gain frame" or "loss frame."
 - If losses feel 2x worse than gains feel good, how does that change the way you should think about risky choices?
 - Can you think of a time when someone used loss framing to pressure you into something?
 - Is loss aversion ever useful? When might it actually protect you?
+- Can you think of a time a streak, rank, follower count, or social status made a possible loss feel much bigger?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "What kinds of losses feel biggest in your setting: money, time, reputation, belonging, safety, or something else?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You named the loss clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the feeling. Now connect it to the decision."
+- "Try again and separate the size of the feeling from the size of the actual loss."
 
 ---
 

@@ -12,6 +12,8 @@ Most of the decisions in this course have been single-step: "Should I do X or Y?
 
 This is the tool of choice for strategists, doctors making treatment plans, and anyone facing a sequence of interconnected choices.
 
+*Source note for facilitators: The probabilities and scores in these trees are modeled estimates used to compare paths. They are not guarantees or exact forecasts of what real life will do.*
+
 :::warning Extension Week Readiness
 **Use this extension if:**
 - The learner has completed **at least Weeks 1–11** of the core curriculum (through Phase 3).
@@ -38,6 +40,20 @@ This is the tool of choice for strategists, doctors making treatment plans, and 
 - [Guided Session 2: Working Backwards](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
+
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, large drawings, and oral or drawn responses.
+- **Ages 10–12:** Use the core extension path with simple trees, estimated probabilities, and rough scores.
+- **Ages 12–15:** Add deeper analysis of branching assumptions, model limits, and alternative scenarios.
+
+## Success Criteria
+
+By the end of this extension week, the learner can:
+
+- draw a simple decision tree with choice points and chance points
+- explain that the scores and probabilities are modeled estimates for comparison
+- record or discuss one reflection about tree-based planning at their level
 
 ## Facilitator Preparation
 
@@ -316,6 +332,28 @@ Pick a goal you want to achieve in the next month. Work backwards from the goal 
 - When is a decision tree overkill? When is it worth the effort to draw one?
 - Is it better to plan every step in advance, or to figure things out as you go? When does each approach work best?
 - Can you think of a game (board game, video game, or sport) where "working backwards" would help you win?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "Which decisions in your setting are worth modeling, and which ones would change too fast or depend on too many people to map in detail?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You mapped the branches clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the possible outcomes. Now explain how rough or exact those estimates really are."
+- "Try again and identify which branch deserves the most attention first."
 
 ---
 

@@ -42,6 +42,20 @@ In plain language: "Imagine doing this a hundred times. On average, how does it 
 **Key vocabulary:** expected value (EV), positive EV, negative EV, the 100 Times Test
 **Difficulty:** Advanced · **Prep time:** ~10 minutes
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same lesson, then add more discussion of one-time high-downside risks, social trade-offs, and modeled estimates.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- compare simple options using expected value or the 100 Times Test
+- explain why one-shot, high-downside decisions need more than a positive EV number
+- record or discuss one Decision Journal reflection at their level
+
 ---
 
 ## Facilitator Preparation
@@ -55,7 +69,7 @@ In plain language: "Imagine doing this a hundred times. On average, how does it 
 :::
 
 :::tip Facilitation Mindset
-EV is a tool, not a commandment. It tells you what the math favours, but it doesn't account for how much a loss would hurt or how much a win would mean. We'll address those nuances in Session 2.
+EV is a tool, not a commandment. It tells you what the math favours, but it doesn't account for how much a loss would hurt or how much a win would mean. It is strongest when a choice repeats and the downside is survivable. We'll address those nuances in Session 2.
 :::
 
 ## For Younger Learners (Ages 8–9)
@@ -209,6 +223,8 @@ Discuss:
   - **How many times can you play?** (EV works best over many repetitions)
   - **Is this a one-time or repeat situation?**
 
+For one-shot, high-downside decisions, a small positive EV may still be a poor choice if the worst case harms health, safety, trust, or resources you cannot easily replace.
+
 Key insight: "Use EV for decisions you'll face many times. For big, one-time decisions, also ask: 'Can I handle the downside?'"
 
 ---
@@ -259,6 +275,28 @@ For 5 decisions you make this week, do a quick mental EV check: "If I did this 1
 - Is a decision with negative EV always a bad decision? Can you think of an exception?
 - Why do people buy lottery tickets even though the EV is very negative?
 - How accurate are your probability estimates? What would make them more accurate?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "Where do people in your community already use rough cost-benefit thinking, and where would a safety or fairness check matter more than the math alone?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You showed the math clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the downside. Now explain whether the risk is survivable."
+- "Try again and separate repeatable bets from one-shot high-stakes choices."
 
 ---
 

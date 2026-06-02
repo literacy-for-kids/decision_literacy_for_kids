@@ -17,7 +17,7 @@ More information doesn't always mean better decisions. In fact, too much informa
 :::info Facilitator Snapshot
 - The "information diet" concept is powerful for kids growing up in an age of information overload.
 - The key takeaway is NOT "ignore everything" — it's "be intentional about what you pay attention to."
-- The When-to-Stop-Looking section introduces the idea that perfect information is impossible AND unnecessary.
+- The When-to-Stop-Looking section introduces the idea that perfect information is impossible AND unnecessary. The goal is "enough," not careless guessing.
 :::
 
 :::tip Quick Navigation
@@ -37,6 +37,20 @@ More information doesn't always mean better decisions. In fact, too much informa
 
 **Key vocabulary:** signal, noise, diminishing returns, information diet
 **Difficulty:** Moderate · **Prep time:** ~5 minutes
+
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same lesson, then add more complex examples involving privacy, online claims, and choices where extra research is genuinely justified.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- sort information into signal and noise for a real or realistic decision
+- explain what would count as enough information for one decision and when more information is justified
+- record or discuss one Decision Journal reflection at their level
 
 ---
 
@@ -193,6 +207,8 @@ Play several rounds. Discuss:
 
 Key insight: **There's a sweet spot between "not enough information" and "too much searching." Good decision-makers learn to feel where that spot is.**
 
+Good enough does not mean careless. It means you have enough signal for this level of risk and you know what extra information would or would not change.
+
 ---
 
 **2. The Timed Decision**
@@ -240,6 +256,8 @@ Not all decisions deserve the same amount of research:
 | Important, hard to reverse | Thorough — gather key signals | Whether to sign up for a sport |
 | Life-changing, irreversible | Deep — take your time | (Mostly adult decisions) |
 
+Some cases justify more information even if they are not "life-changing": choices involving safety, consent, private information, or money you cannot easily replace deserve a slower check for reliable signal.
+
 > "Spending 30 minutes deciding what to have for lunch is just as much a mistake as spending 30 seconds deciding to quit a team."
 
 For quick, reversible decisions, the **100 Times Test** from Week 9 can help: "If I picked randomly 100 times, would the results really differ?" If not, just pick and move on.
@@ -284,6 +302,28 @@ Did fast decisions turn out worse than slow ones? (Usually the answer is: not re
 - What's the difference between someone who makes decisions quickly and someone who makes them recklessly?
 - Have you ever spent so long deciding that you missed the opportunity entirely?
 - Where in your life do you tend to over-research? Where do you tend to under-research?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "What counts as 'enough information' in your setting? Would another family, school, or community want more signal before acting?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You sorted the signal from the noise clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the urge to keep searching. Now say what extra fact would truly change your action."
+- "Try again and explain why 'enough' is different from careless."
 
 ---
 

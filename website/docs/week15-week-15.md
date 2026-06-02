@@ -20,8 +20,9 @@ This week we brainstorm, pick a target, and dig down to the real root cause.
 
 :::info Facilitator Snapshot
 - The friction point should be a decision-related problem the student faces repeatedly (not a one-time thing).
-- Good examples: always late for school, runs out of allowance, forgets homework, fights with sibling over screen time, can't decide what to do and wastes free time, etc.
+- Good examples: always late for school, runs out of money too quickly, forgets homework or equipment, fights with sibling over screen time, loses time in a group chat, puts off practice, or can't decide what to do and wastes free time.
 - Let the student pick their own problem. Ownership is critical for motivation.
+- Do **not** turn this project into adult behavior correction. If the adult wants the change more than the learner does, reset and choose a friction point the learner actually owns.
 - The 5 Whys technique is simple but powerful. Help the student go deep enough to find the real root cause.
 :::
 
@@ -40,6 +41,20 @@ This week we brainstorm, pick a target, and dig down to the real root cause.
 | **Difficulty** | Moderate |
 | **Prep Time** | ~5 minutes |
 | **Key Connection** | Opportunity cost — every friction point wastes something (time, energy, peace of mind). Fixing it frees up those resources for something better. |
+
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same project structure, then add more ownership, privacy, identity, and systems thinking when choosing the friction point.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- define a recurring friction point in specific, observable terms
+- identify at least one likely root cause or decision point that could be changed
+- record or discuss one Decision Journal reflection at their level
 
 ## Facilitator Preparation
 
@@ -300,6 +315,28 @@ This "before" data will help you measure improvement later.
 - Were you surprised by what the 5 Whys revealed? Was the root cause different from the surface problem?
 - Which decision point in the chain feels most "fixable"?
 - On a scale of 1-10, how motivated are you to solve this problem? (If it's below 6, consider picking a different friction point!)
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "Which friction points matter most in your setting, and which ones are actually yours to own versus problems another person is trying to hand you?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You named the friction point clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the surface problem. Now dig one level deeper."
+- "Try again and choose a problem the learner actually owns, not one an adult is assigning."
 
 ---
 

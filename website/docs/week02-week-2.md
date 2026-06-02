@@ -12,6 +12,8 @@ Last week we discovered that some outcomes are genuinely random — even when yo
 
 **A "good" decision is one made with clear thinking and the best available information — regardless of whether it happened to work out. A "bad" decision can get lucky.**
 
+For this course, a good process also includes attention to **ethics, care, and safety** when those factors matter. A choice is not "good" just because it was clever or lucky if it ignored harm, fairness, or obvious risk.
+
 Students learn to judge decisions by the process used to make them, not by the outcome alone.
 
 ---
@@ -38,6 +40,20 @@ Students learn to judge decisions by the process used to make them, not by the o
 | **Materials** | Weather scenario examples, blank 2×2 grid, 6–8 scenario cards, Decision Journal from Week 1 |
 | **Key vocabulary** | process, outcome, reasoning, decision quality |
 | **Difficulty** | Introductory |
+
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same structure, then add more nuanced examples involving safety, fairness, peer pressure, and digital choices.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- explain the difference between process quality and outcome quality
+- evaluate one choice by considering evidence, ethics, care, and safety as well as the final result
+- record or discuss one Decision Journal reflection at their level
 
 ## Facilitator Preparation
 
@@ -127,6 +143,8 @@ Work through several more quick scenarios together:
 - **You run across without looking and nothing happens.** Good process? (No!)
 
 For each one, ask: "Was the *decision* good? Was the *outcome* good? Are those the same question?"
+
+Add this reminder as needed: a strong process is not only about being accurate. It also asks whether the choice was safe, fair, and considerate of other people.
 
 ---
 
@@ -237,6 +255,28 @@ New entry for this week:
 - Can you think of a time an adult told you something was a "bad decision" just because it didn't work out?
 - What would you say to a friend who made a smart choice but got a bad result?
 - Is it possible to make good decisions every day and still have a bad week?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "Would a 'good process' look the same in another family, team, or community, or would care and safety change what the best choice is?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You explained the process more clearly than the result."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the outcome. Now tell me whether the process was safe and fair."
+- "Try again and separate what happened from how you decided."
 
 ---
 

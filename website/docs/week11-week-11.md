@@ -10,7 +10,7 @@ description: "Not all decisions are created equal — learning to match decision
 
 You now know how to calculate expected value and filter signal from noise. But there's one more tool: how much effort should you spend deciding? The answer depends on whether the decision is reversible.
 
-Choosing what to have for lunch and choosing to say something hurtful to a friend are very different kinds of decisions. One you can undo in an hour; the other may echo for years. This week we build a framework for **matching decision effort to decision stakes**, using the metaphor of **Two-Way Doors** (walk through, walk back if you don't like it) and **One-Way Doors** (once you're through, you can't go back).
+Choosing what to have for lunch and choosing to post something hurtful or private online are very different kinds of decisions. One you can undo in an hour; the other may echo for years. This week we build a framework for **matching decision effort to decision stakes**, using the metaphor of **Two-Way Doors** (walk through, walk back if you don't like it) and **One-Way Doors** (once you're through, you can't go back).
 
 The payoff: spend less time on decisions that don't matter, and more time on the ones that do.
 
@@ -40,6 +40,20 @@ The payoff: spend less time on decisions that don't matter, and more time on the
 **Key vocabulary:** reversible decision, irreversible decision, two-way door, one-way door, opportunity cost, speed dial
 **Difficulty:** Moderate · **Prep time:** ~5 minutes
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same lesson, then add stronger examples from digital permanence, identity, privacy, and community consequences.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- classify a decision as more reversible or more irreversible
+- match decision effort to stakes, permanence, and potential harm
+- record or discuss one Decision Journal reflection at their level
+
 ---
 
 ## Facilitator Preparation
@@ -63,7 +77,7 @@ The message is NOT "some decisions don't matter." Everything affects your life e
 **What to shorten or skip:**
 - Focus on the Two-Way Door / One-Way Door metaphor and the sorting activity. These are concrete and visual.
 - Use a simplified 1–3 speed scale: **Fast / Medium / Slow** instead of the full 1–5 Speed Dial.
-- Skip the Bezos Rule framing and the detailed Opportunity Cost section. Keep opportunity cost brief and intuitive: "When you pick one thing, you miss out on the other."
+- Skip the named-rule framing and the detailed Opportunity Cost section. Keep opportunity cost brief and intuitive: "When you pick one thing, you miss out on the other."
 - Keep sessions to 20 minutes.
 
 **Adapting the activities:**
@@ -131,7 +145,7 @@ Sort these decisions along the spectrum:
 | Which after-school activity to join | Middle (can quit, but you lose some time) |
 | How to spend your birthday money | Middle-right (money is gone, but it's a contained amount) |
 | Whether to cheat on a test | Far right (consequences are lasting) |
-| What to post on the internet | Right (very hard to fully delete) |
+| What to post online, send in a group chat, or share as a screenshot | Right (very hard to fully delete) |
 | Whether to try a new food | Left (one meal, easily reversed) |
 | Whether to learn an instrument | Middle (can stop, but time invested is gone) |
 | Saying something mean about someone behind their back | Right (word spreads, trust is damaged) |
@@ -141,9 +155,9 @@ Discussion: "Notice that most everyday kid decisions are two-way doors. That mea
 
 ---
 
-**3. The Jeff Bezos Rule**
+**3. The Reversibility Rule**
 
-Share this simplified idea (used at Amazon):
+Share this simplified rule:
 
 > "If a decision is reversible, make it fast. Don't wait for perfect information. If a decision is irreversible, slow down and think carefully."
 
@@ -304,11 +318,33 @@ At the end of the week: how did those quick decisions turn out? Were they any wo
 
 ---
 
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "Which choices feel most permanent in your setting? Would another family, school, or community classify the same decision differently?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You matched the decision speed to the stakes clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the emotion. Now connect it to the actual level of permanence."
+- "Try again and explain what makes this more reversible or less reversible."
+
+---
+
 ## Check for Understanding
 
 After this week, check whether the learner can:
 
-1. **Classify a decision:** "Choosing what game to play — two-way door or one-way door?" (Two-way.) "Posting a photo online?" (Closer to one-way — hard to fully delete.)
+1. **Classify a decision:** "Choosing what game to play — two-way door or one-way door?" (Two-way.) "Posting a photo, screenshot, or angry message online?" (Closer to one-way — hard to fully delete.)
 2. **Match speed to stakes:** "Should you spend a lot of time deciding what color pen to use?" (No — it's a speed 1, fully reversible.) "What about whether to say something mean to a friend?" (Yes — words can't be unsaid.)
 3. **Explain opportunity cost:** "If you spend 20 minutes deciding what to watch, what's the cost?" (Looking for: "I lost 20 minutes I could have been watching" or "I wasted time I could have used for something else.")
 
@@ -350,7 +386,7 @@ Congratulations — you've finished Phase 3: Data & Signal Processing! You now h
 ---
 
 :::tip Simplify (Ages 8–9)
-Use only the two-door metaphor and a simplified 1–3 speed scale (fast / medium / slow). Focus on concrete, kid-friendly examples. Skip the Bezos Rule framing and keep the opportunity cost discussion brief and intuitive.
+Use only the two-door metaphor and a simplified 1–3 speed scale (fast / medium / slow). Focus on concrete, kid-friendly examples. Skip the named-rule framing and keep the opportunity cost discussion brief and intuitive.
 :::
 
 :::tip Extend (Ages 10–12)

@@ -7,27 +7,27 @@ const features = [
   {
     title: 'Probabilistic Outcomes',
     description:
-      'The world runs on likelihoods, not certainties. Kids learn to think in probabilities instead of "yes or no," building comfort with uncertainty.',
+      'Many outcomes are shaped by likelihoods rather than guarantees. Learners practice using probability language instead of treating every choice as certain or impossible.',
   },
   {
     title: 'Brain Shortcuts (Heuristics)',
     description:
-      'Our brains take mental shortcuts that usually help but sometimes mislead. Knowing your defaults is the first step to overriding them.',
+      'Our brains use mental shortcuts that often help but can mislead in some situations. Noticing those default patterns is the first step toward checking them.',
   },
   {
     title: 'Opportunity Cost',
     description:
-      'Every choice carries a hidden price tag — the next-best option you didn\'t pick. Seeing these invisible trade-offs transforms decision-making.',
+      'Every choice carries a hidden price tag: the next-best option you did not pick. Learners make those invisible trade-offs easier to discuss.',
   },
   {
     title: 'Diminishing Returns',
     description:
-      'More isn\'t always better. The 10th hour of practice helps less than the 1st. Knowing when to stop optimizing is itself an optimization.',
+      'More is not always better. Students learn that extra effort or extra research can help at first, then help less, and sometimes delay action without adding much value.',
   },
   {
     title: 'Iterative Decisions',
     description:
-      'Few choices are permanent. Most can be tested, measured, and improved. Design → Test → Measure → Patch → Repeat.',
+      'Many choices can be tested, measured, and improved. The course ends by helping learners design a protocol, try it, gather data, and revise it.',
   },
 ];
 
@@ -90,10 +90,19 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Introduction</Heading>
           <p className={styles.sectionLead}>
-            Decision Literacy for Kids is designed to help educators and families teach
-            young learners how to think through choices, evaluate options, and reflect on
-            outcomes. The lessons push students to analyze, evaluate, and create as they
-            move through the course.
+            Decision Literacy for Kids helps educators and families teach learners how to
+            think through choices, weigh evidence, notice trade-offs, and reflect on
+            outcomes. The strongest fit is ages 10–12, with simpler supports for ages 8–9
+            and extension prompts for ages 12–15.
+          </p>
+          <p>
+            Plain-language summary: learners practice noticing choices, making predictions,
+            checking what evidence they used, and reflecting on what happened.
+          </p>
+          <p>
+            Source note for facilitators: the curriculum uses widely taught ideas from
+            probability, heuristics, metacognition, and reflective practice. These are
+            presented as common patterns that often show up in real decisions.
           </p>
         </div>
       </section>
@@ -119,8 +128,13 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Curriculum Roadmap</Heading>
           <p className={styles.sectionLead}>
-            The learning progression moves from foundational decision-making concepts
-            into increasingly complex and creative applications.
+            The learning progression moves from foundational ideas about luck and process
+            into increasingly complex applications involving evidence, systems, and
+            self-designed protocols.
+          </p>
+          <p>
+            This roadmap is presented as text so the full sequence stays readable with a
+            screen reader or without relying on image text.
           </p>
           <div className={styles.roadmapGrid}>
             {roadmapSections.map((section) => (
@@ -134,8 +148,8 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Start Teaching Decision Literacy</Heading>
           <p className={styles.sectionLead}>
-            Begin with Week 1 and give students a clearer understanding of how
-            to think through decisions thoughtfully.
+            Begin with Week 1 and help learners build a repeatable process for making,
+            discussing, and revising decisions thoughtfully.
           </p>
           <div className={styles.ctaButtons}>
             <Link className="button button--primary button--lg" to="/docs/week1">

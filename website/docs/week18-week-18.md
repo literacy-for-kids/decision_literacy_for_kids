@@ -39,6 +39,20 @@ This cycle — Identify → Design → Test → Iterate — never truly ends. It
 | **Key vocabulary** | iteration, patch notes, presentation, reflection |
 | **Difficulty** | Moderate |
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same project structure, then add deeper reflection on transfer, evidence limits, and how the protocol would change across settings.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- explain what was tested, what the data showed, and what changed in the patched protocol
+- present the project with a focus on process, evidence, and revision rather than polish alone
+- record or discuss one final Decision Journal reflection at their level
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -217,6 +231,19 @@ Format can be:
 - A verbal walkthrough with the data sheet
 - A digital slide deck (if the student prefers)
 
+### Process-Focused Showcase Rubric
+
+Use the showcase to assess process, not presentation polish:
+
+| Look For | Emerging | Secure | Strong |
+|---|---|---|---|
+| Problem definition | Problem is vague or mostly adult-chosen | Problem is clear and learner-owned | Problem is precise, learner-owned, and tied to real stakes |
+| Evidence use | Mentions data loosely | Shows some concrete data and examples | Uses concrete data, compares baseline to test results, and explains limits |
+| Revision thinking | Names a change without much reason | Explains at least one patch based on evidence | Connects multiple patches directly to patterns in the data |
+| Reflection | Shares a takeaway | Explains how thinking changed | Explains how the learning transfers to future decisions or new settings |
+
+Presentation style, writing length, and production value are secondary. A simple, honest explanation can score strongly.
+
 **Simplified presentation option (younger learners):** The learner answers 4 questions with the facilitator's help: (1) "What was my question?" (2) "What did I do?" (3) "What happened?" (4) "What did I learn?" They can draw, speak, or act it out. Take a photo of their work to mark the occasion.
 
 ---
@@ -242,6 +269,8 @@ After the presentation, the audience asks questions:
 This is a genuine accomplishment. Celebrate it:
 
 > "Over 18 weeks, you learned about probability, cognitive biases, expected value, game theory, and systems thinking. You applied those tools to a real problem in your life. You designed an experiment, collected data, and iterated. You now understand decision-making better than most adults. That is remarkable."
+
+> "Over 18 weeks, you practiced tools that many adults never study directly. You applied those tools to a real problem in your life, collected honest data, and revised your plan. That is real intellectual work."
 
 Optional: Create a simple "certificate of completion" or award.
 
@@ -307,6 +336,28 @@ Examples:
 - Do you think you'll keep using your Decision Journal? Why or why not?
 - What's the next friction point you'd like to optimize?
 - In 5 years, which lesson from this course do you think will matter the most?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "How might your protocol or showcase look different in another family, school, team, or community? Which parts of the process would stay the same?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You explained the process clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed what changed. Now connect that change to the data."
+- "Try again and describe what you would keep, change, or test next."
 
 ---
 

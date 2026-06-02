@@ -2,19 +2,29 @@
 sidebar_position: 0
 sidebar_label: "Welcome"
 title: "Decision Literacy for Kids"
-description: "An 18-week curriculum for debugging the human brain and navigating uncertainty — teaching young learners to recognize cognitive shortcuts, weigh probabilities, and build better decision processes"
+description: "An 18-week curriculum for helping young learners notice cognitive shortcuts, weigh probabilities, and build stronger decision processes under uncertainty"
 slug: /intro
 ---
 
 # Decision Literacy for Kids
 
-**A curriculum for debugging the human brain and navigating uncertainty.**
+**A curriculum for building better decision habits under uncertainty.**
 
-Most people — kids and adults alike — make decisions based on "gut feel," which is often just a collection of unexamined shortcuts. This 18-week curriculum teaches students how to **recognize those shortcuts, weigh probabilities, and understand that a "good" decision is defined by the process used to make it, not just the eventual outcome.**
+Most people — kids and adults alike — rely on gut feel and fast mental shortcuts when making decisions. Those shortcuts often help in everyday life, but they can mislead us in some situations. This 18-week curriculum helps students **recognize those patterns, weigh probabilities, and understand that a "good" decision is judged by the process used at the time, not only by the eventual outcome.**
 
-The goal is not to turn kids into robots who calculate everything. It's to give them a **toolkit for thinking clearly** when the stakes matter — and the self-awareness to notice when their brain is cutting corners.
+The goal is not to turn kids into robots who calculate everything. It is to give them a **toolkit for thinking clearly** when the stakes matter, plus language for talking about uncertainty, trade-offs, evidence, and values.
 
 By the end of the course, students will maintain a **Decision Journal** documenting their growth from reactive thinkers into intentional decision-makers.
+
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, more oral or drawn responses, and lighter math.
+- **Ages 10–12:** Use the core path. This is the strongest fit for the full weekly sequence.
+- **Ages 12–15:** Add extension prompts, deeper analysis, and more peer, digital, civic, and identity-based scenarios where appropriate.
+
+## Plain-Language Summary
+
+Learners practice four repeatable moves: pause, notice the choices, make a prediction, and reflect on what happened. Over time, they build a habit of asking what evidence they used, what trade-off they made, and what they might revise next time.
 
 ---
 
@@ -37,7 +47,7 @@ By the end of the course, students will maintain a **Decision Journal** document
 
 ### Who It's For
 
-This curriculum is designed for **adults working with kids ages 8–12** — whether you're a parent, caregiver, classroom teacher, homeschool family, co-op group, or after-school club leader. No background in math, psychology, or decision science is required. If you can facilitate a conversation and roll a pair of dice, you're qualified.
+This curriculum is designed for **adults working with learners ages 8–12** — whether you're a parent, caregiver, classroom teacher, homeschool family, co-op group, or after-school club leader. It is strongest for ages 10–12, includes a simplified path for ages 8–9, and can be extended for ages 12–15 by using more peer, digital, and identity-based scenarios. No background in math, psychology, or decision science is required. If you can facilitate a conversation and roll a pair of dice, you're qualified.
 
 ### What a Typical Week Looks Like
 
@@ -59,8 +69,9 @@ This is **one curriculum with built-in differentiation**, not two separate track
 
 - **For Ages 8–9:** Focus on games, stories, and intuitive understanding. Math stays light — counting, comparing, simple fractions. The goal is to *feel* the concept before naming it. Every weekly lesson includes specific "For Younger Learners" guidance, oral and drawn responses are always acceptable alternatives to written work, and sentence starters are provided for journal entries. An 8-year-old has a fully supported path through every lesson.
 - **For Ages 10–12:** Push into deeper reasoning, more explicit math (percentages, expected value), and richer discussion. These learners can handle abstraction and benefit from it.
+- **For Ages 12–15:** Keep the core lesson flow, then add one deeper prompt. Good extensions include social media examples, identity and belonging pressures, community trade-offs, stronger evidence checks, and short written defenses of a choice.
 
-An 8-year-old will engage with the games and intuitions, while a 12-year-old will dig into the reasoning and math. Both are learning the same core ideas — just at different depths.
+An 8-year-old can engage with the games and intuitions, while a 12-year-old may dig into the reasoning and math. A 14-year-old can often go further by comparing perspectives, questioning assumptions, and applying the ideas to online, peer, and future-oriented decisions. They are learning the same core ideas at different depths.
 
 Each weekly lesson also includes:
 - A **Quick Mastery Check** — three quick questions so you can see whether the concept landed.
@@ -98,7 +109,7 @@ This curriculum takes a fundamentally different approach. We teach students that
 
 A poker player who goes all-in with a 95% chance of winning and loses to a lucky draw didn't make a "bad decision." They made a great decision that had a bad *outcome*. Understanding the difference between process quality and outcome quality is the single most important idea in this curriculum.
 
-We also teach students that their brains — as powerful as they are — come with **built-in shortcuts** that evolved for a very different world. These shortcuts help us make hundreds of small decisions every day without exhausting ourselves, but they also trip us up in predictable ways. Learning to spot those patterns is a genuine superpower.
+We also teach students that their brains — as powerful as they are — come with **built-in shortcuts** that developed for speed and efficiency in everyday life. These shortcuts can help us make many small decisions without exhausting ourselves, but they can also trip us up in predictable ways. Learning to spot those patterns is a useful skill.
 
 ---
 
@@ -114,7 +125,9 @@ A "good" decision can lead to a "bad" result — and vice versa — due to luck 
 
 ### 2. Your Brain Has Built-In Shortcuts
 
-Evolution optimized the human brain for survival, not for modern accuracy. We explore common cognitive biases — like loss aversion and the sunk cost fallacy — as mental shortcuts that work most of the time but fail in predictable ways. Noticing when a shortcut is firing is the first step to deciding whether to trust it.
+Human thinking relies on fast, efficient shortcuts that often help in everyday life but can mislead us in some situations. We explore common cognitive biases — like loss aversion and the sunk cost fallacy — as mental shortcuts that tend to be useful in many contexts but fail in predictable ways. Noticing when a shortcut is firing is the first step to deciding whether to trust it.
+
+*Source note for facilitators: This curriculum draws on broad research traditions in heuristics, probabilistic reasoning, metacognition, and decision analysis. These patterns are common, not universal, and context matters.*
 
 ---
 
@@ -126,7 +139,7 @@ In a world of finite resources — time, money, energy — choosing one path inh
 
 ### 4. Information Has Diminishing Returns
 
-More information is helpful — up to a point. Reading ten reviews of a product might genuinely improve your choice; reading two hundred more probably won't. Waiting for 100% certainty leads to "analysis paralysis," where the cost of delay outweighs the value of the extra data. Students learn to identify when they have *enough* signal to act and when gathering more information is just a way of avoiding the decision.
+More information is often helpful — up to a point. Reading ten reviews of a product might genuinely improve your choice; reading two hundred more probably will not. Waiting for 100% certainty can lead to "analysis paralysis," where the cost of delay outweighs the value of the extra data. Students learn to identify when they have *enough* signal to act and when gathering more information is mostly a way of avoiding the decision.
 
 ---
 
@@ -230,6 +243,18 @@ Most activities use simple, accessible materials:
 - Occasional use of simple digital tools (online dice rollers, basic spreadsheets)
 
 No special software or expensive materials are required.
+
+## The Goal
+
+## Course Success Criteria
+
+By the end of the full curriculum, the learner can:
+
+- explain why a strong process can still lead to a disappointing outcome
+- use a Decision Journal to record reasoning, confidence, and reflection at an age-appropriate level
+- apply at least one decision tool to a real or realistic school, family, peer, or online scenario
+- discuss how evidence, feelings, ethics, care, and safety shape a decision
+- revise a plan after seeing new information or results
 
 ## The Goal
 

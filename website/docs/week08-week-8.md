@@ -43,6 +43,20 @@ By the end of this week, students should feel a satisfying "click" of recognitio
 - **Difficulty:** Moderate
 - **Prep Time:** ~10 minutes
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same lesson, then add more examples from social media, creator culture, online shopping, and peer influence.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- identify one or more biases in an ad, app prompt, or social message
+- explain how a combination of cues can push a choice in a particular direction
+- record or discuss one reflection using the Decision Journal at their level
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -90,7 +104,7 @@ This week is about transferring knowledge from the classroom to the real world. 
 #### Learning Goal
 By the end of this session, the student can:
 
-- analyze an advertisement or notification and identify which bias it targets
+- analyze an advertisement or notification and identify which bias or combination of biases it targets
 - explain how the bias is being used to influence behavior
 - suggest what a "bias-aware" response would be
 
@@ -137,9 +151,11 @@ If the student can explain all 9, they have a powerful toolkit.
 Look at each ad/screenshot together. For each one, fill in:
 
 1. **What is it selling?**
-2. **What bias is it using?** (can be more than one)
+2. **What bias or biases is it using?** (code one or more, then decide which cue feels strongest)
 3. **How does the bias make you feel?**
 4. **What would a "bias-aware" response be?**
+
+Many ads trigger more than one bias at the same time. It is fine to code an ad with multiple labels and then talk about which cue seems to be doing the most work.
 
 Example ads to decode:
 
@@ -151,7 +167,7 @@ Example ads to decode:
 | "Don't miss this weekend's sale!" | Loss aversion (framed as missing out) |
 | "You've earned 450 points! Only 50 more for a reward!" | Sunk cost (keep going to not "waste" 450) |
 | "Limited edition — once they're gone, they're gone!" | Loss aversion + Scarcity |
-| "9 out of 10 dentists recommend…" | Representativeness (authority + numbers) |
+| "9 out of 10 dentists recommend…" | Social proof + authority cue; may also trigger representativeness if students overgeneralize from the expert image |
 
 Discuss: "None of these ads are lying. But they're choosing which facts to highlight and how to frame them. Knowing the playbook lets you press pause and ask: 'Do I actually want this, or is my brain just reacting to the trigger?'"
 
@@ -286,6 +302,28 @@ Pick your 3 most interesting findings from the bingo card. For each one, write:
 
 **For the guided sessions:** The Ad Decoder and Influence Map work perfectly with one learner and one adult. No group needed — the adult plays the discussion partner role.
 :::
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "Which influence tricks show up most in your community, and which ones work differently across families, schools, teams, or online spaces?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You named more than one cue clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the feeling. Now connect it to the decision."
+- "Try again and explain which cue seemed strongest and why."
 
 ---
 

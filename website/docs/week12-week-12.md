@@ -18,7 +18,7 @@ This week we discover **ripple effects** — how a single decision can cascade o
 - This week marks a big shift: from "me" thinking to "us" thinking.
 - The Ripple Effect activity works best when you trace consequences at least 3-4 steps out.
 - The Cooperation Challenge can be done with siblings, friends, or parent-child. Two people minimum.
-- This is a great week to discuss family decisions and how they affect everyone in the household.
+- This is a great week to discuss family, community, and online decisions and how they affect everyone involved.
 :::
 
 :::tip Quick Navigation
@@ -39,6 +39,20 @@ This week we discover **ripple effects** — how a single decision can cascade o
 | **Guided Session 2** | The Cooperation Challenge |
 | **Independent Practice** | Ripple Map Journal + Cooperation Inventory |
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same lesson, then add stronger community, civic, and digital examples when tracing ripples.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- trace the ripple effects of one decision several steps beyond the immediate result
+- apply ripple thinking to one real or realistic family, community, or online scenario
+- record or discuss one Decision Journal reflection at their level
+
 ---
 
 ## Facilitator Preparation
@@ -46,7 +60,7 @@ This week we discover **ripple effects** — how a single decision can cascade o
 :::info Before You Begin
 - Prepare paper for drawing ripple maps (large sheets work best)
 - Gather materials for the Cooperation Challenge: paper, tape, scissors (one set per team)
-- Think of 3-4 family or household decisions to use as examples
+- Think of 3-4 family, community, or digital decisions to use as examples
 - Review the student's Decision Journal — have any entries already mentioned other people being affected?
 :::
 
@@ -123,7 +137,8 @@ Center: "I help set the table without being asked"
 Now the student draws their own ripple maps for:
 - "I share my snack with a classmate who forgot theirs"
 - "I break a promise to a friend"
-- "I clean up after myself in the kitchen"
+- "I repost an unkind screenshot in a group chat"
+- "I help at a neighborhood or community event"
 
 Discuss: "How far out did the ripples go? Were any of the later effects surprising?"
 
@@ -293,6 +308,28 @@ For each one:
 - Is it possible to always make choices that are good for you AND good for everyone else?
 - When your interests conflict with someone else's, how do you decide what to do?
 - Can you think of a time when someone else's decision rippled into YOUR life in a way they probably didn't expect?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "Which ripples matter most in your setting: family peace, fairness, safety, reputation, shared resources, or something else?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You traced the ripple clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed another person in the system. Now trace one step farther."
+- "Try again and include a community or online ripple, not just the immediate one."
 
 ---
 

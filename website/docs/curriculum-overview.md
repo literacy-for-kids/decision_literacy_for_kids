@@ -15,6 +15,22 @@ The program progresses from the **"hardware" of the brain** (probability and bia
 
 Lessons are intentionally **hands-on, curiosity-driven, and flexible**, allowing the instructor to adapt activities based on the learner's engagement and pace.
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, more oral practice, and more concrete examples.
+- **Ages 10–12:** Use the core path. This is the strongest fit for the full sequence.
+- **Ages 12–15:** Keep the sequence, then add extension prompts that involve peer dynamics, digital spaces, identity, evidence quality, and longer reflections.
+
+## Plain-Language Summary
+
+This course starts with luck and probability, then studies brain shortcuts, then introduces practical decision tools, then explores social systems, and ends with a student-designed protocol project.
+
+## Research Basis
+
+The curriculum is informed by widely used ideas from probabilistic reasoning, heuristics and biases research, metacognition, and reflective practice. Lessons simplify these ideas for teaching, so claims are framed as common patterns that often appear in many contexts rather than universal laws.
+
+*Source note for facilitators: The goal is not to train students into one "correct" style of thinking. It is to help them notice trade-offs, check evidence, and reflect more intentionally.*
+
 ---
 
 :::tip Use This Page
@@ -33,8 +49,10 @@ Lessons are intentionally **hands-on, curiosity-driven, and flexible**, allowing
 ## Curriculum Overview
 
 ### Target Audience
+
 Young learners roughly ages 8–12.
-Basic reading ability is helpful, but adult guidance is expected. The concepts scale naturally — younger learners engage through games and intuition, while older learners dig into the reasoning and math. Every weekly lesson includes a dedicated 'For Younger Learners (Ages 8–9)' section with concrete guidance on simplifying activities, reducing writing burden, and adapting the session length.
+
+Basic reading ability is helpful, but adult guidance is expected. The concepts scale naturally — younger learners engage through games and intuition, while older learners dig into the reasoning and math. Every weekly lesson includes a dedicated 'For Younger Learners (Ages 8–9)' section with concrete guidance on simplifying activities, reducing writing burden, and adapting the session length. Older learners can often extend the same activities through deeper evidence checks, peer-centered discussion, and more independent writing.
 
 ### Weekly Structure
 Each week contains:
@@ -49,7 +67,7 @@ Independent practice sessions reinforce skills through real-world observation, p
 
 Beginning **Week 1**, students maintain a **Decision Journal** — a running record of their choices, reasoning, predictions, and reflections.
 
-The journal is the single most important artifact. It teaches students to write down their thinking *before* seeing the result, which prevents hindsight bias and builds genuine self-awareness over time.
+The journal is the single most important artifact. It teaches students to write down their thinking *before* seeing the result, which can reduce hindsight bias and build self-awareness over time.
 
 Each week includes a specific journal prompt that builds on previous entries. For younger learners, journal entries can be oral (dictated to a facilitator), drawn, or completed using the sentence starters provided in each lesson. The journal should never feel like a writing assignment — it's a thinking tool.
 
@@ -138,11 +156,11 @@ Each week below links to a detailed lesson page containing learning objectives, 
 | [Week 3](/docs/week03-week-3) | 📊 Thinking in Probabilities | Frequency, confidence levels, and learning to say "I'm about 70% sure" |
 | [Week 4](/docs/week04-week-4) | 📓 The Decision Journal | Formalizing the journal, meeting hindsight bias, and building the recording habit |
 
-:::info What Success Looks Like — End of Phase 1
-- The learner can explain that a good process doesn't guarantee a good outcome (and vice versa).
-- They use their Decision Journal without prompting.
-- They're comfortable saying "I don't know" or "I'm about 70% sure" instead of treating everything as certain or impossible.
-- They can give an example of a time someone got lucky vs. a time someone made a genuinely good decision.
+:::info Observable Outcomes — End of Phase 1
+- In discussion or journal work, the learner can explain that a good process does not guarantee a good outcome, and vice versa.
+- The learner can use the Decision Journal with light prompting or independently, depending on age.
+- The learner can use uncertainty language such as "I don't know yet" or "I'm about 70% sure."
+- The learner can describe one example of luck and one example of skill affecting a result.
 :::
 
 ### Phase 2: Debugging the Hardware
@@ -156,11 +174,11 @@ Each week below links to a detailed lesson page containing learning objectives, 
 | [Week 7](/docs/week07-week-7) | 🪤 The Sunk Cost Trap | Why "I've already started" is a dangerous reason to keep going |
 | [Week 8](/docs/week08-week-8) | 🔎 Bias Hunters | Spotting cognitive biases in advertisements, apps, social media, and daily life |
 
-:::info What Success Looks Like — End of Phase 2
-- The learner can name at least three cognitive biases and spot one in a real-world ad or conversation.
-- They recognize when loss aversion or sunk cost thinking is affecting their own choices (even if they can't always override it yet).
-- They understand that "shortcuts" aren't always bad — they're fast but predictably wrong in specific situations.
-- Their journal entries start referencing biases by name when reflecting on past decisions.
+:::info Observable Outcomes — End of Phase 2
+- The learner can name at least three cognitive biases and identify one in an ad, app prompt, game, or conversation.
+- The learner can describe when loss aversion or sunk cost thinking may be affecting one of their own choices.
+- The learner can explain that shortcuts can be helpful in many contexts but unreliable in specific situations.
+- In reflection, the learner can connect a recent decision to at least one bias by name.
 :::
 
 ### Phase 3: Data & Signal Processing
@@ -173,11 +191,11 @@ Each week below links to a detailed lesson page containing learning objectives, 
 | [Week 10](/docs/week10-week-10) | 📡 Signal vs. Noise | What information actually matters, and when you have "enough" to decide |
 | [Week 11](/docs/week11-week-11) | 🚪 Reversible vs. Irreversible | Not all decisions deserve the same effort — matching speed to stakes |
 
-:::info What Success Looks Like — End of Phase 3
-- The learner can do a rough expected value comparison for a simple bet or choice (e.g., "Option A has a higher expected value because…").
-- They can identify whether a decision is reversible or irreversible and explain why that matters for how much time to spend deciding.
-- They understand opportunity cost: choosing one thing means giving up another, and they can name what they're giving up.
-- They're getting better at filtering — they can explain why some information matters for a decision and some is just noise.
+:::info Observable Outcomes — End of Phase 3
+- The learner can do a rough expected value comparison for a simple bet or choice.
+- The learner can classify a decision as more reversible or more irreversible and explain why that changes the level of effort it deserves.
+- The learner can name the opportunity cost of a choice in plain language.
+- The learner can explain why some information matters for a decision and some information is mostly noise.
 :::
 
 ### Phase 4: Game Theory & Social Systems
@@ -190,11 +208,11 @@ Each week below links to a detailed lesson page containing learning objectives, 
 | [Week 13](/docs/week13-week-13) | 🤝 The Prisoner's Dilemma | Win-win vs. zero-sum thinking and the power of cooperation |
 | [Week 14](/docs/week14-week-14) | 🐟 The Commons Simulation | When individual "best" choices lead to group failure |
 
-:::info What Success Looks Like — End of Phase 4
-- The learner can explain why individual "best" choices sometimes make everyone worse off (tragedy of the commons).
-- They can identify a real situation in their life where cooperation helps more than competition.
-- They understand that decisions don't happen in isolation — other people are making choices too, and those interact with yours.
-- They can spot diminishing returns in a real scenario (e.g., "practicing piano 4 hours isn't twice as useful as 2 hours").
+:::info Observable Outcomes — End of Phase 4
+- The learner can explain why an individually attractive choice can sometimes make a group outcome worse.
+- The learner can identify one real situation in family, school, online, or community life where cooperation helps more than competition.
+- The learner can describe how another person's decision affects their own choices.
+- The learner can identify one case where doing more of something stops helping as much.
 :::
 
 ### Phase 5: The Optimization Project
@@ -208,12 +226,12 @@ Each week below links to a detailed lesson page containing learning objectives, 
 | [Week 17](/docs/week17-week-17) | 📈 Test and Collect Data | Running the protocol, tracking results, and learning from what happens |
 | [Week 18](/docs/week18-week-18) | 🔄 Patch, Present, Reflect | Iterating on the protocol, presenting results, and reflecting on the full journey |
 
-:::info What Success Looks Like — End of Phase 5
-- The learner has designed, tested, and iterated on a personal decision protocol for a real problem in their life.
-- Their journal entries show richer reasoning than Week 1 — they reference trade-offs, biases, probabilities, and opportunity costs.
-- They can walk someone else through their protocol and explain *why* each step is there.
-- They treat "it didn't work perfectly" as useful data, not failure.
-- They can articulate at least one way their thinking about decisions has changed since the start of the course.
+:::info Observable Outcomes — End of Phase 5
+- The learner has designed, tested, and revised a personal decision protocol for a real problem in their life.
+- In journal entries or discussion, the learner uses richer reasoning than in Week 1 by referencing trade-offs, biases, probabilities, or opportunity costs.
+- The learner can explain their protocol to someone else and justify the main steps.
+- The learner can treat an imperfect result as data for revision rather than only as failure.
+- The learner can describe at least one way their thinking about decisions has changed since the start of the course.
 :::
 
 ---

@@ -12,6 +12,8 @@ A **protocol** is a plan that tells you what to do before you have to think abou
 
 This week we take the Problem Map from Week 15 and build a **Decision Protocol** — a simple system designed to override the problematic default behavior at the key decision points.
 
+The strongest protocols do not rely on willpower alone. They change cues, defaults, and environments so the easier action is more often the better action.
+
 ---
 
 :::info Facilitator Snapshot
@@ -36,6 +38,20 @@ This week we take the Problem Map from Week 15 and build a **Decision Protocol**
 | **Materials** | Problem Map from Week 15, index cards or sticky notes, pencil |
 | **Key vocabulary** | protocol, trigger, default action, pre-mortem |
 | **Difficulty** | Advanced |
+
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same project structure, then add more environment design, identity, and long-term planning to the protocol.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- design a protocol with a trigger, a default action, and a simple check
+- explain how the protocol changes the environment or default, not just the learner's willpower
+- record or discuss one Decision Journal reflection at their level
 
 ## Facilitator Preparation
 
@@ -202,6 +218,8 @@ Review the protocol with this question:
 
 If the answer is "probably not," simplify. Cut steps. Reduce decisions. Make the default action as automatic as possible.
 
+If the protocol still depends mostly on "trying harder," redesign the environment: move supplies, set reminders, change the default location, reduce choices, or add a visible cue at the decision point.
+
 > "The best protocol is the one you'll actually use, not the one that looks impressive on paper."
 
 ---
@@ -319,6 +337,28 @@ Design how you'll collect data next week:
 - Why is a protocol more powerful than just "trying harder"?
 - What's the difference between a protocol and a rule someone else gives you?
 - If you could install one automatic protocol in your brain right now (like an app update), what would it be?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "What parts of your environment help or block this protocol? Would another home, school, team, or community need a different default?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You made the trigger clear."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the friction. Now explain how the environment will help, not just your willpower."
+- "Try again and make the default action easier to follow on a hard day."
 
 ---
 

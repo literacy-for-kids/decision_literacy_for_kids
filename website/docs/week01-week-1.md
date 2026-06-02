@@ -42,6 +42,20 @@ Just like flipping a coin, many real-life outcomes involve luck — and understa
 | **Key vocabulary** | randomness, uncertainty, prediction, luck vs. skill |
 | **Difficulty** | Introductory |
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same activities, then add deeper peer, digital, and future-oriented examples when discussing luck, skill, and uncertainty.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- explain that luck and skill can both affect a result
+- apply the idea to one real or realistic scenario from school, friendship, sports, arts, or online life
+- start a Decision Journal entry with a choice, a prediction, and a reason at their level
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -232,7 +246,7 @@ Think about three things that happened this week. For each one, was the outcome 
 
 Start your Decision Journal with this first entry:
 
-> **My Decision:** Write about one choice you need to make this week (what to do after school, what to eat, how to spend your free time — anything).
+> **My Decision:** Write about one choice you need to make this week (what to do after school, whether to sit with someone new at lunch, how to reply in a group chat, what to eat, how to spend your free time — anything).
 >
 > **What I Think Will Happen:** What do you predict?
 >
@@ -251,6 +265,28 @@ We'll come back to this entry next week to see what actually happened.
 - Was there anything this week where you got a result you didn't expect?
 - Can you think of a time someone got lucky and people called it "skill"?
 - Can you think of a time someone was skillful but got unlucky?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "Would luck and skill show up differently in another family, school, team, or community?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You separated luck from skill clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the surprise. Now connect it to the decision."
+- "Try again and separate what happened from how you decided."
 
 ---
 

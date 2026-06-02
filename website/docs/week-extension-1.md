@@ -41,6 +41,20 @@ This is one of the most powerful ideas in all of science. And it's simpler than 
 - [Independent Practice](#independent-practice)
 :::
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, concrete mystery-bag examples, and oral or drawn responses.
+- **Ages 10–12:** Use the core extension path with confidence updates and simple evidence comparisons.
+- **Ages 12–15:** Add deeper analysis of evidence quality, competing explanations, and why people update too much or too little.
+
+## Success Criteria
+
+By the end of this extension week, the learner can:
+
+- explain how new evidence should change a belief in degree, not just direction
+- compare stronger and weaker evidence in one real or realistic example
+- record or discuss one reflection about belief updating at their level
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -197,7 +211,7 @@ Not all evidence is created equal. Rate these on a 1-5 scale:
 | Evidence | Strength | Why |
 |---|---|---|
 | One person's opinion | 1-2 | People can be wrong or biased |
-| A scientific study with 10,000 people | 5 | Large, systematic, controlled |
+| A large, well-designed study | Often strong evidence | Strong evidence depends on method quality, not only on size |
 | "I saw it on social media" | 1 | Unverified, could be anything |
 | You personally experienced it 3 times | 3 | Real but small sample |
 | An expert in the field says so | 4 | Knowledgeable but not infallible |
@@ -268,6 +282,28 @@ Write about a belief you held strongly that changed over the course of this curr
 - Is it a sign of strength or weakness to change your mind when you see good evidence?
 - What's the difference between being "open-minded" and being "wishy-washy"?
 - Can you think of a time when you should have updated your belief but didn't? What stopped you?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "What kinds of evidence are trusted most in your setting? Would another family, school, or community rank the same evidence differently?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You explained the update clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the new clue. Now explain how strongly it should change the belief."
+- "Try again and separate strong evidence from vivid but weak evidence."
 
 ---
 

@@ -10,7 +10,7 @@ description: "Win-win vs. zero-sum thinking — exploring the most famous game i
 
 Last week we saw how choices create ripples. This week we explore the most famous puzzle in game theory: what happens when two people must decide WITHOUT knowing what the other will do?
 
-We play one of the most famous thought experiments in all of decision science: **The Prisoner's Dilemma.** It reveals a deep truth about human cooperation: **what's best for each individual, if everyone does it, is worst for everyone.** We also learn the crucial distinction between **zero-sum** situations (one person's gain is another's loss) and **positive-sum** situations (everyone can gain if they cooperate). Knowing which kind of situation you're in changes everything about how you should decide.
+We play one of the most famous thought experiments in all of decision science: **The Prisoner's Dilemma.** It can reveal a deep truth about human cooperation: **what looks best for each individual, if everyone does it, can leave everyone worse off.** We also learn the crucial distinction between **zero-sum** situations (one person's gain is another's loss) and **positive-sum** situations (everyone can gain if they cooperate). Knowing which kind of situation you're in changes how you should decide.
 
 ---
 
@@ -37,6 +37,20 @@ We play one of the most famous thought experiments in all of decision science: *
 | **Guided Session 1** | The Prisoner's Dilemma |
 | **Guided Session 2** | Fixed Pie vs. Growing Pie |
 | **Independent Practice** | Conflict Analyzer + Mini Prisoner's Dilemma |
+
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same lesson, then add stronger discussion of trust, reputation, negotiation, and when real life differs from the game.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- explain why mutual cooperation can outperform short-term selfishness in some repeated situations
+- identify whether a real or realistic conflict is closer to zero-sum or positive-sum
+- record or discuss one Decision Journal reflection at their level
 
 ---
 
@@ -164,9 +178,7 @@ Key insights:
 
 **4. The Winning Strategy**
 
-Share what decades of research have found:
-
-One of the most historically influential strategies in repeated Prisoner's Dilemma tournaments is called **Tit for Tat.** In Robert Axelrod's famous computer tournaments in the 1980s, this simple strategy beat far more complex ones:
+Share a careful historical note: In classic iterated Prisoner's Dilemma tournaments, one influential strategy was **Tit for Tat.** It is important because it starts cooperative, responds clearly, and is easy to understand. It is not the best response in every real-life situation.
 
 1. Start by cooperating.
 2. After that, do whatever your partner did last round.
@@ -181,7 +193,9 @@ Why it works:
 
 This maps to real life: "Be kind by default. Stand up for yourself if someone takes advantage. But always be willing to rebuild trust."
 
-Later research found that slight variations — like occasionally forgiving an extra defection — can do even better. But the core principles remain powerful: be kind by default, stand up for yourself if someone takes advantage, and always be willing to rebuild trust.
+Later research found that slight variations — like occasionally forgiving an extra defection — can do better in some settings. Real-life cooperation also depends on communication, power differences, mistakes, and whether people can leave the relationship or system.
+
+*Source note for facilitators: Treat Tit for Tat as a historically influential teaching model, not as a universal best strategy.*
 
 ---
 
@@ -293,6 +307,28 @@ Play a simplified version with a family member at least 5 times this week (can u
 - Is it ever right to defect? When?
 - Think about your closest friendship. Is it mostly zero-sum or positive-sum? What makes it that way?
 - What would the world look like if everyone played Tit-for-Tat?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "In your setting, when does cooperation build trust, and when do fairness, safety, or power differences make the game more complicated than a simple classroom model?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You explained the cooperation problem clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the short-term incentive. Now explain the long-term relationship effect."
+- "Try again and say whether this case is really zero-sum or if the pie can grow."
 
 ---
 

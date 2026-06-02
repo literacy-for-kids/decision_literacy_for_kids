@@ -10,7 +10,7 @@ description: "Why 'I've already started' is a dangerous reason to keep going, an
 
 Last week we felt the pull of loss aversion. This week we meet its close cousin — sunk cost thinking, the voice that says "but I've already started!"
 
-Money, time, or energy you have already spent is **gone forever**. It should NOT affect what you do next. But our brains hate the feeling of "wasting" a past investment, so we keep going even when stopping would be smarter. This is the **sunk cost fallacy**, and it trips up everyone — kids, parents, coaches, and even big companies.
+Money, time, or energy you have already spent is **gone forever**. By itself, it should not determine what you do next. But our brains hate the feeling of "wasting" a past investment, so we keep going even when stopping would be smarter. This is the **sunk cost fallacy**, and it trips up everyone — kids, parents, coaches, and even big companies.
 
 This week we feel the pull of sunk costs, learn to name the trap, and practice asking the only question that matters: **"What is the best use of my time and resources FROM THIS POINT FORWARD?"**
 
@@ -43,6 +43,20 @@ The sunk cost trap is fast brain whispering "don't waste what you spent" before 
 - **Key Vocabulary:** sunk cost, sunk cost fallacy, walk-away point, escalation
 - **Difficulty:** Moderate
 - **Prep Time:** ~10 minutes
+
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same lesson, then add stronger examples involving identity, embarrassment, team loyalty, and social pressure.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- explain the sunk cost trap using the forward-looking question
+- identify one example where social pressure, identity, or embarrassment makes quitting harder
+- record or discuss one reflection using the Decision Journal at their level
 
 ## Facilitator Preparation
 
@@ -128,7 +142,7 @@ Read each scenario and ask: "Is this person falling into the sunk cost trap? Wha
 
 1. **The LEGO Set:** "I've been building this LEGO set for 3 hours but I realized I don't like how it looks. Should I finish it just because I started?"
 2. **The Book:** "I'm 100 pages into a 300-page book and it's boring. But I've already read 100 pages…"
-3. **The Sport:** "I've played soccer for 2 years but I really want to try swimming. Mom says I should stick with soccer because of the 2 years of practice."
+3. **The Sport:** "I've played soccer for 2 years, my friends expect me to stay, but I really want to try swimming. Mom says I should stick with soccer because of the 2 years of practice."
 4. **The Video Game:** "I've been trying to beat this level for an hour. I'm not having fun but I don't want to 'waste' the hour I already spent."
 5. **The Food:** "I ordered a huge meal and I'm full. Should I keep eating because I paid for it?"
 
@@ -259,8 +273,31 @@ For three things you're starting or continuing this week, set a specific walk-aw
 ### Reflection Questions
 
 - Why does "I've already invested so much" feel like such a strong argument, even when it shouldn't be?
-- Is there a difference between "not giving up" and "falling for sunk costs"? How do you tell which is which?
-- Can you think of an adult in your life who might be stuck in a sunk cost trap?
+- Have you ever kept doing something because quitting would feel embarrassing or might change how other people see you?
+- When does identity ("I'm the kind of person who always finishes") help you, and when can it trap you?
+- What social pressure makes sunk costs harder to escape?
+
+---
+
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "In your setting, what makes it hardest to walk away: money, loyalty, embarrassment, reputation, or pressure from other people?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You named the sunk cost clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the pressure. Now say what matters from this point forward."
+- "Try again and separate perseverance from protecting a past investment."
 
 ---
 

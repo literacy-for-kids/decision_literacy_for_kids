@@ -10,6 +10,22 @@ slug: /license
 
 The Decision Literacy for Kids curriculum is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
 
+## Age Fit
+
+- **Ages 8–9:** Adults should explain only the plain-language summary if learners ask.
+- **Ages 10–12:** Share the plain-language summary when students are curious about copying or credit.
+- **Ages 12–15:** Use this page to discuss attribution, remixing, and non-commercial use if that is relevant to the project.
+
+## Plain-Language Note for Educators
+
+In most classrooms, homeschools, clubs, tutoring settings, and other non-commercial learning spaces, you can use this curriculum, print it, and adapt it for your learners as long as you:
+
+- credit the original source
+- do not sell the curriculum itself or package it as a commercial product
+- keep your adapted version under the same CC BY-NC-SA 4.0 license
+
+If you plan to use the material inside a paid product, service, or other clearly commercial offering, pause and review the official Creative Commons guidance before reusing it.
+
 ## What This Means
 
 You are free to:

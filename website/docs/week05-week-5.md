@@ -40,6 +40,20 @@ Scientists call these shortcuts **heuristics**. We will just call them "brain sh
 | **Key vocabulary** | heuristic, anchoring, availability bias, representativeness |
 | **Difficulty** | Moderate |
 
+## Age Fit
+
+- **Ages 8–9:** Use the simplified path with shorter sessions, lighter writing, and oral or drawn responses.
+- **Ages 10–12:** Use the core path with the full lesson sequence.
+- **Ages 12–15:** Keep the same activities, then add deeper peer, digital, and identity-based examples when discussing shortcuts.
+
+## Success Criteria
+
+By the end of this week, the learner can:
+
+- explain fast brain vs. slow brain and name at least two common shortcuts
+- apply one shortcut to a real or realistic example from school, peer life, media, or online spaces
+- record or discuss one reflection using the Decision Journal at their level
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -172,14 +186,16 @@ Real-life examples:
 > "We think things are more common if we can easily picture them."
 
 Demo:
-- Ask: "What's more dangerous — shark attacks or falling coconuts?" (Studies suggest coconuts cause more deaths annually than shark attacks in some regions, but shark attacks dominate the news.)
+- Ask: "Which feels more likely right now: a rare danger you just saw in the news, or an ordinary risk you usually ignore?"
 - Ask: "Are there more words that START with the letter R, or words that have R as the THIRD letter?" (More R-as-third-letter words, but starting letters are easier to think of.)
 
-The easier something is to recall, the more common or likely it FEELS — even if the numbers say otherwise.
+The easier something is to recall or imagine, the more common or likely it FEELS — even when you do not have much evidence.
 
 Real-life examples:
-- After seeing a news story about a plane crash, flying feels scarier (even though it's safer than driving)
-- If two friends had a bad time at a restaurant, you avoid it — even if 100 other people loved it
+- After seeing several videos about phone theft, losing your phone can feel more likely than it did yesterday.
+- After hearing one dramatic story about a group-chat mistake, posting anything can feel riskier than it usually is.
+
+*Source note for facilitators: Availability judgments are shaped by salience, vividness, and recency. Treat them as common patterns, not fixed rules.*
 
 ---
 
@@ -255,13 +271,35 @@ This activity works great for a single learner. You can also turn it into a fami
 
 ---
 
+## Culture and Context Extension
+
+Invite learners to test this idea in a context that matters in their own life:
+
+- home or family rules
+- friend-group decisions
+- community or religious settings
+- sports, clubs, arts, or online spaces
+
+Ask: "Which shortcuts show up most in your school, team, feed, or community, and would they look different somewhere else?"
+
+## Feedback Moves for Facilitators
+
+Use short descriptive feedback such as:
+
+- "You named the shortcut clearly."
+- "Your example fits, but tell me what evidence you used."
+- "You noticed the feeling. Now connect it to the decision."
+- "Try again and separate what was vivid from what was actually likely."
+
+---
+
 ## Check for Understanding
 
 After this week, check whether the learner can:
 
 1. **Name the two modes:** "What's the difference between fast brain and slow brain?" (Looking for: fast brain is automatic and quick; slow brain is careful and takes effort.)
 2. **Spot anchoring:** "A jacket says 'Was $80, now $30.' Why does that feel like a deal?" (Looking for: "Because the $80 sticks in your head" or "the first number changes what feels normal.")
-3. **Spot availability:** "After watching a movie about sharks, do you think shark attacks are more common or less common than they actually are?" (Looking for: "More common — because you just saw it" or "because it's easy to picture.")
+3. **Spot availability:** "After watching several videos about phone theft, do you think losing your phone will feel more common or less common than it actually is?" (Looking for: "More common — because you just saw it" or "because it's easy to picture.")
 
 If the learner can explain fast brain vs. slow brain and identify one shortcut, they're ready for Week 6.
 
