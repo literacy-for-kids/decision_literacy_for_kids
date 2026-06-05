@@ -30,13 +30,12 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --root-dir ./website/static
-            --exclude 'https://shields.io'
-            --exclude 'https://camo.githubusercontent.com'
             --timeout 30
             --max-retries 3
             --retry-wait-time 5
-            --exclude 'https://literacy-for-kids.github.io/literacy_for_kids/docs/'
+            --exclude 'https://shields.io'
+            --exclude 'https://camo.githubusercontent.com'
+            --exclude 'https://literacy-for-kids.github.io'
             './README.md'
             './website/docs/**/*.md'
           fail: true
