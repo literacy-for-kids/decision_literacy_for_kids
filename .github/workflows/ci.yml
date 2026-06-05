@@ -35,6 +35,7 @@ jobs:
             --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
+            --exclude '^/'
             --exclude 'https://literacy-for-kids.github.io'
             './README.md'
             './website/docs/**/*.md'
