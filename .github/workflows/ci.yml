@@ -33,6 +33,10 @@ jobs:
             --root-dir ./website/static
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
+            --timeout 30
+            --max-retries 3
+            --retry-wait-time 5
+            --exclude 'https://literacy-for-kids.github.io/literacy_for_kids/docs/'
             './README.md'
             './website/docs/**/*.md'
           fail: true

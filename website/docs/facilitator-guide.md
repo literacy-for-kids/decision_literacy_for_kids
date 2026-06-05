@@ -158,4 +158,4 @@ If students can put the core concept in their own words, they understood it. If 
 
 ## Privacy and Student Data
 
-No student information needs to be collected. The Decision Journal stays with the student. Discussion responses stay in the room. Nothing is submitted to the website or stored anywhere. See [Privacy and Student Data](https://literacy-for-kids.github.io/literacy_for_kids/docs/privacy-and-student-data) for details.
+No student information needs to be collected. The Decision Journal stays with the student. Discussion responses stay in the room. Nothing is submitted to the website or stored anywhere. See [Privacy and Student Data](https://literacy-for-kids.github.io/literacy_for_kids/docs/privacy-and-student-data/) for details.
