@@ -22,6 +22,16 @@ A feeling is a **signal, not a command.** It tells you something matters; it doe
 
 Coping skills do not make the decision *for* you. They help you get calm enough to think clearly so that the decision tools — probability, expected value, reversible vs. irreversible — actually get used. The pause is the bridge between a reaction and a real choice.
 
+## When this shows up
+
+These tools come in handy in everyday decision moments:
+
+- When a choice feels urgent and you want it over with
+- When you are afraid of picking wrong
+- When you are disappointed by how a choice turned out
+- When luck makes a good choice turn out badly
+- When peer pressure makes a choice feel faster than it really is
+
 ## Tools that help before a choice
 
 - **The Pause Button** — stop, one slow breath out, name the feeling, then choose.
