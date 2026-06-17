@@ -16,6 +16,8 @@ The goal is not to turn kids into robots who calculate everything. It is to give
 
 By the end of the course, students will maintain a **Decision Journal** documenting their growth from reactive thinkers into intentional decision-makers.
 
+Big feelings are part of almost every real decision — they can make a choice feel urgent when it isn't. The short [Coping Skills for Better Decisions](./coping-skills.md) page introduces simple tools for pausing and getting calm enough to actually use the thinking skills in this curriculum.
+
 ## Age Fit
 
 - **Ages 8–9:** Use the simplified path with shorter sessions, more oral or drawn responses, and lighter math.

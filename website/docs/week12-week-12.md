@@ -28,6 +28,10 @@ This week we discover **ripple effects** — how a single decision can cascade o
 - [Independent Practice](#independent-practice)
 :::
 
+:::tip Coping Skill Moment
+Decisions inside a web of other people can spark quick reactions. Before responding to what someone else did, try feet-on-the-floor grounding and one breath, then choose your move on purpose. (More on the [Coping Skills for Decisions](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | Component | Details |

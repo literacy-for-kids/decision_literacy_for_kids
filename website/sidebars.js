@@ -13,6 +13,7 @@ const sidebars = {
     'intro',
     'curriculum-overview',
     'glossary',
+    'coping-skills',
     {
       type: 'category',
       label: 'Probability & The Physics of Choice',

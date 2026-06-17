@@ -31,6 +31,10 @@ This week we experience loss aversion first-hand and learn to spot it in the wil
 - [Independent Practice](#independent-practice)
 :::
 
+:::tip Coping Skill Moment
+Because losing hurts more than winning feels good, fear of loss can push a fast "no" or a desperate "yes." Notice the feeling, then run a story check: *What do I know for sure, and what is my brain just guessing?* (More on the [Coping Skills for Decisions](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |

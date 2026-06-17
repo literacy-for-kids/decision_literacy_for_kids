@@ -33,6 +33,10 @@ This week we brainstorm, pick a target, and dig down to the real root cause.
 - [Independent Practice](#independent-practice)
 :::
 
+:::tip Coping Skill Moment
+Looking honestly at a recurring frustration can bring up embarrassment or self-criticism. That is a feeling to ride out, not a verdict on you. Name it, take a breath, and remember you are studying a *process* — not grading yourself. (More on the [Coping Skills for Decisions](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | Component | Details |

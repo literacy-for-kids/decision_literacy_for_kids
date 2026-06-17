@@ -29,6 +29,10 @@ The payoff: spend less time on decisions that don't matter, and more time on the
 - [Independent Practice](#independent-practice)
 :::
 
+:::tip Coping Skill Moment
+When a choice feels urgent, use a 10-second pause. Ask: *"Is this truly urgent, or does it just feel urgent?"* If the decision is reversible, you have more room than the feeling suggests. (More on the [Coping Skills for Decisions](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | Component | Key Concept | Duration |

@@ -33,6 +33,10 @@ Just like flipping a coin, many real-life outcomes involve luck — and understa
 - [Independent Practice](#independent-practice)
 :::
 
+:::tip Coping Skill Moment
+When an outcome feels unfair or random, that sting is a signal — not proof you decided badly. Take one slow breath and separate the *choice you made* from the *luck that followed*. A good process can still meet a bad result. (More on the [Coping Skills for Decisions](./coping-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |
