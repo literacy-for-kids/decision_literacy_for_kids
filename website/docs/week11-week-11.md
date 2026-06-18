@@ -16,6 +16,10 @@ Choosing what to have for lunch and choosing to post something hurtful or privat
 When a decision carries real stakes, say the risk clearly so everyone understands it: "If this goes wrong, ___ happens, and we can't undo it." Naming a one-way door out loud helps a group take the right amount of care before walking through it. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+When the stakes feel high, slow down and name the decision: "The choice I actually have to make is ___." A clear problem statement keeps high-pressure moments from spiraling into guessing. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 The payoff: spend less time on decisions that don't matter, and more time on the ones that do.
 
 ---

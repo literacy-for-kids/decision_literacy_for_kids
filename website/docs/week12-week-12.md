@@ -16,6 +16,10 @@ This week we discover **ripple effects** — how a single decision can cascade o
 To predict what others will do, you have to understand what they want. Ask instead of assuming: "What matters most to you here?" Listening for someone else's reasons reveals the incentives behind their choices — and makes your own decision smarter. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+When a decision involves other people, brainstorm more than one option before locking in. The first move you see is rarely the only one — list an easy option, a brave option, and a cooperative option, then compare. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ---
 
 :::info Facilitator Snapshot

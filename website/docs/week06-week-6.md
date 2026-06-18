@@ -16,6 +16,10 @@ Many people feel losses more strongly than equal gains, although the size of tha
 Biases hide inside our reasons. When you or a friend feels sure about a choice, ask one clarifying question: "What assumption is hiding here?" Asking it out loud — kindly — can surface a shortcut the brain slipped in without anyone noticing. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+When a choice feels obvious, sort it: which parts are facts you can check, and which are guesses your brain filled in? A bias often hides in a guess that feels like a fact. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 *Source note for facilitators: Research often finds that losses loom larger than gains, but the exact size of the effect varies across studies, tasks, and people.*
 
 This week we experience loss aversion first-hand and learn to spot it in the wild. Loss aversion is another place where fast brain overrides slow brain — your quick emotional "no!" fires before your reasoning brain can do the math.

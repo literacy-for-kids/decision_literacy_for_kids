@@ -15,6 +15,7 @@ const sidebars = {
     'glossary',
     'coping-skills',
     'communication-skills',
+    'problem-solving-skills',
     {
       type: 'category',
       label: 'Probability & The Physics of Choice',

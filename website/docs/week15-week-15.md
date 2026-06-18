@@ -20,6 +20,10 @@ This week we brainstorm, pick a target, and dig down to the real root cause.
 A project starts well when the problem is stated clearly. Try: "The problem is ___, and it keeps happening when ___." Defining the problem in plain words — before jumping to solutions — keeps you and anyone helping you working on the *same* problem. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Before you optimize a decision protocol, define the problem it solves: "The part that isn't working is ___." Optimizing the wrong step just makes the wrong thing faster. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ---
 
 :::info Facilitator Snapshot
