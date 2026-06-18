@@ -41,10 +41,6 @@ When an outcome feels unfair or random, that sting is a signal — not proof you
 When you explain a choice that turned out badly, separate the process from the luck out loud: "I decided ___ because ___ — the result was just unlucky." Explaining your reasoning helps people judge the *process*, not only the outcome. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Before solving, name the actual problem: "Are we trying to improve the choice, the result, or the way we judged it?" A bad outcome does not always mean the original decision was the problem. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Week at a Glance
 
 | | |
@@ -277,6 +273,10 @@ We'll come back to this entry next week to see what actually happened.
 - Was there anything this week where you got a result you didn't expect?
 - Can you think of a time someone got lucky and people called it "skill"?
 - Can you think of a time someone was skillful but got unlucky?
+
+:::tip Problem Solving Moment
+After an unlucky result, ask: "What problem are we solving — the choice, the result, or the way we judged it?" A bad outcome does not always mean the original decision was the problem. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 ---
 
