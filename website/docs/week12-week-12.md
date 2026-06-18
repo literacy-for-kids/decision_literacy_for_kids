@@ -12,6 +12,10 @@ Phase 4 begins. Until now, we've focused on YOU as a solo decision-maker. But re
 
 This week we discover **ripple effects** — how a single decision can cascade outward in ways you didn't expect — and begin thinking about decisions as interactions, not just individual acts.
 
+:::tip Communication Moment
+To predict what others will do, you have to understand what they want. Ask instead of assuming: "What matters most to you here?" Listening for someone else's reasons reveals the incentives behind their choices — and makes your own decision smarter. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ---
 
 :::info Facilitator Snapshot

@@ -16,6 +16,10 @@ Phase 5 begins: the Optimization Project. Everything you've learned — probabil
 
 This week we brainstorm, pick a target, and dig down to the real root cause.
 
+:::tip Communication Moment
+A project starts well when the problem is stated clearly. Try: "The problem is ___, and it keeps happening when ___." Defining the problem in plain words — before jumping to solutions — keeps you and anyone helping you working on the *same* problem. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ---
 
 :::info Facilitator Snapshot

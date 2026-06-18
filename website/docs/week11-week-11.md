@@ -12,6 +12,10 @@ You now know how to calculate expected value and filter signal from noise. But t
 
 Choosing what to have for lunch and choosing to post something hurtful or private online are very different kinds of decisions. One you can undo in an hour; the other may echo for years. This week we build a framework for **matching decision effort to decision stakes**, using the metaphor of **Two-Way Doors** (walk through, walk back if you don't like it) and **One-Way Doors** (once you're through, you can't go back).
 
+:::tip Communication Moment
+When a decision carries real stakes, say the risk clearly so everyone understands it: "If this goes wrong, ___ happens, and we can't undo it." Naming a one-way door out loud helps a group take the right amount of care before walking through it. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 The payoff: spend less time on decisions that don't matter, and more time on the ones that do.
 
 ---

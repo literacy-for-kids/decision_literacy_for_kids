@@ -37,6 +37,10 @@ Just like flipping a coin, many real-life outcomes involve luck — and understa
 When an outcome feels unfair or random, that sting is a signal — not proof you decided badly. Take one slow breath and separate the *choice you made* from the *luck that followed*. A good process can still meet a bad result. (More on the [Coping Skills for Decisions](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+When you explain a choice that turned out badly, separate the process from the luck out loud: "I decided ___ because ___ — the result was just unlucky." Explaining your reasoning helps people judge the *process*, not only the outcome. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Week at a Glance
 
 | | |
