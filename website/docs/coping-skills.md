@@ -10,7 +10,7 @@ slug: /coping-skills
 
 This curriculum is about making good choices — weighing probabilities, spotting biases, and judging a decision by the process, not just the outcome. But there's a part of every real decision the math doesn't capture: **how you feel while you're deciding.**
 
-This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills), connected to the kind of clear thinking this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://www.literacy-for-kids.com/docs/toolkits/coping-skills), connected to the kind of clear thinking this curriculum builds.
 
 ## Big feelings push fast choices
 
@@ -52,4 +52,4 @@ These are everyday coping and self-management tools, not therapy or medical advi
 
 The full toolkit has short lessons on noticing signals, pausing, grounding, breathing, body resets, checking your thoughts, asking for help, and building a personal coping menu:
 
-- [Coping Skills Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills)
+- [Coping Skills Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/coping-skills)

@@ -44,7 +44,7 @@
     "node": ">=20.0"
   },
   "description": "Decision literacy curriculum for ages 8–12 — probability, biases, trade-offs, and better judgment",
-  "homepage": "https://literacy-for-kids.github.io/decision_literacy_for_kids/",
+  "homepage": "https://decision.literacy-for-kids.com/",
   "keywords": [
     "education",
     "k-12",

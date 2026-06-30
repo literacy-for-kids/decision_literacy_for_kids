@@ -10,7 +10,7 @@ slug: /problem-solving-skills
 
 This curriculum teaches how to make good choices under uncertainty — weighing options, spotting bias, and judging a decision by its process, not just its outcome. But before you can compare options, you have to know what problem you are actually trying to solve. That is where problem solving comes in.
 
-This page is the local doorway into the Literacy for Kids [Problem Solving Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving), connected to the clear thinking this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Problem Solving Toolkit](https://www.literacy-for-kids.com/docs/toolkits/problem-solving), connected to the clear thinking this curriculum builds.
 
 ## A few core ideas
 
@@ -46,6 +46,6 @@ These are everyday problem-solving tools, not therapy, legal advice, or medical 
 
 The full toolkit has short lessons on naming the problem, sorting facts from guesses, breaking problems into parts, brainstorming options, trying one safe step, observing results, and adjusting:
 
-- [Problem Solving Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving)
+- [Problem Solving Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/problem-solving)
 
-For quick-reference cards, see the hub [Printable Problem Solving Cards](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving/problem-solving-printables).
+For quick-reference cards, see the hub [Printable Problem Solving Cards](https://www.literacy-for-kids.com/docs/toolkits/problem-solving/problem-solving-printables).

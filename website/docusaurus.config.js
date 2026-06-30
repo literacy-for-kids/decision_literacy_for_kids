@@ -17,10 +17,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://literacy-for-kids.github.io',
+  url: 'https://decision.literacy-for-kids.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it should match your repo name
-  baseUrl: '/decision_literacy_for_kids/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'literacy-for-kids',

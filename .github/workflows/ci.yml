@@ -52,6 +52,6 @@ jobs:
             --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
-            --exclude 'https://literacy-for-kids.github.io'
+            --exclude 'literacy-for-kids\.com'
             './.lychee-root/decision_literacy_for_kids/**/*.html'
           fail: true

@@ -8,7 +8,7 @@
 An **18-week decision literacy curriculum** for ages 8–12. Teaches kids to think clearly about probability, cognitive biases, trade-offs, and strategy — replacing gut reactions with structured reasoning.
 
 🌐 **View the curriculum website:**  
-https://literacy-for-kids.github.io/decision_literacy_for_kids/
+https://decision.literacy-for-kids.com/
 
 ---
 
