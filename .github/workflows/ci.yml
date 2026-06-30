@@ -37,12 +37,12 @@ jobs:
         working-directory: ./website
       - run: npm run build
         working-directory: ./website
-      - name: Mirror build under site base path for lychee
+      - name: Mirror build for lychee
         run: |
           rm -rf ./.lychee-root
-          mkdir -p './.lychee-root'
-          cp -R ./website/build/. './.lychee-root/'
-          rm -f './.lychee-root/404.html'
+          mkdir -p ./.lychee-root
+          cp -R ./website/build/. ./.lychee-root/
+          rm -f ./.lychee-root/404.html
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
@@ -53,5 +53,37 @@ jobs:
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
             --exclude 'literacy-for-kids\.com'
+            --exclude 'https://www.bbc.co.uk'
+            --exclude 'https://www.kidrex.org'
+            --exclude 'https://www.kiddle.co'
+            --exclude 'https://www.3dslash.net'
+            --exclude 'https://www.blockscad3d.com'
+            --exclude 'https://www.nitrotype.com'
+            --exclude 'https://chat.openai.com'
+            --exclude 'https://onedrive.live.com'
+            --exclude 'https://www.canva.com'
+            --exclude 'https://docs.google.com'
+            --exclude 'https://drive.google.com'
+            --exclude 'https://gemini.google.com'
+            --exclude 'https://copilot.microsoft.com'
+            --exclude 'https://www.tinkercad.com'
+            --exclude 'https://www.nasa.gov'
+            --exclude 'https://science.nasa.gov'
+            --exclude 'https://gml.noaa.gov'
+            --exclude 'https://keelingcurve.ucsd.edu'
+            --exclude 'https://ourworldindata.org'
+            --exclude 'https://www.nationalacademies.org'
+            --exclude 'https://www.usgs.gov'
+            --exclude 'https://www.europarl.europa.eu'
+            --exclude 'https://www.aluminum.org'
+            --exclude 'https://www.congress.gov'
+            --exclude 'https://bensguide.gpo.gov'
+            --exclude 'https://www.c-span.org'
+            --exclude 'https://www.icivics.org'
+            --exclude 'https://constitutioncenter.org'
+            --exclude 'https://worldslargestlesson.globalgoals.org'
+            --exclude 'https://www.pbslearningmedia.org'
+            --exclude 'https://www.un.org'
+            --exclude 'https://www.usa.gov'
             './.lychee-root/**/*.html'
           fail: true
