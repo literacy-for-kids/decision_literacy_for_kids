@@ -329,6 +329,12 @@ Use short descriptive feedback such as:
 
 ## Check for Understanding
 
+:::tip Learning Moment
+Terms like expected value and probability stick better when you practice remembering them, not just rereading. Cover the definition, say it in your own words, then check — and practice the fuzzy ones again.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **Sort signal from noise:** "You're deciding whether to try out for a team sport. Which of these matters: (a) the practice schedule, (b) the team's mascot is a tiger, (c) your friend is on the team." (Looking for: a and c are signal, b is noise.)

@@ -20,10 +20,6 @@ This week we brainstorm, pick a target, and dig down to the real root cause.
 A project starts well when the problem is stated clearly. Try: "The problem is ___, and it keeps happening when ___." Defining the problem in plain words — before jumping to solutions — keeps you and anyone helping you working on the *same* problem. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Before you optimize a decision protocol, define the problem it solves: "The part that isn't working is ___." Optimizing the wrong step just makes the wrong thing faster. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ---
 
 :::info Facilitator Snapshot
@@ -113,6 +109,10 @@ This is where the curriculum goes from theory to practice. Your role shifts from
 ---
 
 ## Guided Session 1
+
+:::tip Problem Solving Moment
+Before you optimize a decision protocol, define the problem it solves: "The part that isn't working is ___." Optimizing the wrong step just makes the wrong thing faster. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 ### The Friction Finder
 #### Learning Goal
 By the end of this session, the student can:
@@ -288,6 +288,12 @@ Write down which tools might help:
 ---
 
 ## Independent Practice
+
+:::tip Learning Moment
+Reviewing your decision journal is how you learn across many choices. Look for patterns, then build a Version 2 of your protocol: "Version 1 taught me ___, so Version 2 will change ___."
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 ### Goal
 

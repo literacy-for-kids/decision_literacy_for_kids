@@ -13,9 +13,20 @@ const sidebars = {
     'intro',
     'curriculum-overview',
     'glossary',
-    'coping-skills',
-    'communication-skills',
-    'problem-solving-skills',
+    {
+      type: 'category',
+      label: 'Shared Skills',
+      collapsed: true,
+      items: [
+        'coping-skills',
+        'communication-skills',
+        'problem-solving-skills',
+        'learning-how-to-learn',
+        'executive-function',
+        'collaboration-skills',
+        'information-organization',
+      ],
+    },
     {
       type: 'category',
       label: 'Probability & The Physics of Choice',

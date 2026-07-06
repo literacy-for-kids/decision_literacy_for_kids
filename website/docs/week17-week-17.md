@@ -173,6 +173,12 @@ Discuss: "Is this system easy enough that you'll actually do it every day? If no
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+When a project involves other people, review it together at the end: "What worked, who helped, and what should change next time?" A group that reflects without blame learns faster than one that argues about fault.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Mid-Experiment Check-In
 #### Learning Goal
 By the end of this session, the student can:

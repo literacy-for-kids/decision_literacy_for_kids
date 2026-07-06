@@ -16,10 +16,6 @@ Choosing what to have for lunch and choosing to post something hurtful or privat
 When a decision carries real stakes, say the risk clearly so everyone understands it: "If this goes wrong, ___ happens, and we can't undo it." Naming a one-way door out loud helps a group take the right amount of care before walking through it. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-When the stakes feel high, slow down and name the decision: "The choice I actually have to make is ___." A clear problem statement keeps high-pressure moments from spiraling into guessing. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 The payoff: spend less time on decisions that don't matter, and more time on the ones that do.
 
 ---
@@ -110,6 +106,10 @@ The message is NOT "some decisions don't matter." Everything affects your life e
 ---
 
 ## Guided Session 1
+
+:::tip Problem Solving Moment
+When the stakes feel high, slow down and name the decision: "The choice I actually have to make is ___." A clear problem statement keeps high-pressure moments from spiraling into guessing. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 ### The Door Types
 #### Learning Goal
 By the end of this session, the student can:
@@ -353,6 +353,12 @@ Use short descriptive feedback such as:
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+A multi-step calculation is easier with a checklist. Write the steps in order and check each one off — that way a missed step is easy to spot.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

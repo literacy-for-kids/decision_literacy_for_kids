@@ -153,6 +153,12 @@ Key takeaway: **Use fast brain for routine, low-stakes actions. Engage slow brai
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+When thinking about a choice, sort your notes into three piles: what I observed, what I am guessing, and how I feel about it. Mixing the piles is how biases sneak in unnoticed.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### The Shortcut Tour
 #### Learning Goal
 By the end of this session, the student can:

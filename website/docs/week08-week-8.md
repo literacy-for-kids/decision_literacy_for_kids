@@ -329,6 +329,12 @@ Use short descriptive feedback such as:
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+So a bias check does not get forgotten, turn it into a short checklist. A visible list means your brain does not have to hold every bias in mind at once.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **Name at least 3 biases:** "Can you name three brain shortcuts we've learned?" (Looking for any three from the toolkit.)

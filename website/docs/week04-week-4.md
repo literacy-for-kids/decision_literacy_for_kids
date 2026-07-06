@@ -304,6 +304,12 @@ Use short descriptive feedback such as:
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+A decision journal is easier to start when the first step is tiny. Write only the title first: "The choice I'm tracking is ___." Once the page exists, the rest of the entry is easier to begin.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **Explain the journal's purpose:** "Why do we write down what we think BEFORE we see what happens?" (Looking for: "So we can't trick ourselves" / "So we remember what we really thought" / "Because our brain changes the memory.")

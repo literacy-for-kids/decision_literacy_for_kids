@@ -200,6 +200,12 @@ Later research found that slight variations — like occasionally forgiving an e
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+A group decision works better when everyone knows the shared goal. Before comparing options, ask: "What are we trying to decide together?" That keeps the group from arguing about different problems.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Fixed Pie vs. Growing Pie
 #### Learning Goal
 By the end of this session, the student can:

@@ -364,6 +364,12 @@ Use short descriptive feedback such as:
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Before starting the project, clear the job: "What am I making, and what does done look like?" A clear target makes the first step easier to choose.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **Name the three parts:** "What are the parts of your protocol?" (Looking for: a trigger, an action, and ideally a check — or at minimum "When ___ happens, I will ___.")

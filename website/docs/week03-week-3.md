@@ -96,6 +96,12 @@ The magic moment is when a student voluntarily says something like "I think so, 
 ---
 
 ## Guided Session 1
+
+:::tip Collaboration Moment
+Games run smoother with visible roles. One person can roll or flip, one can record results, and one can watch for surprises. Rotating roles keeps the data honest and the game shared.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### The Frequency Game
 #### Learning Goal
 By the end of this session, the student can:

@@ -182,6 +182,12 @@ Share age-appropriate examples:
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Shared resources need shared decisions. When people disagree about what the group should do, ask: "What part of our shared goal do we agree on?" Disagreement can shape a better plan if it stays aimed at the goal.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Solving the Commons
 #### Learning Goal
 By the end of this session, the student can:

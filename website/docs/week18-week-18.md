@@ -101,6 +101,12 @@ Focus on the process, not whether the protocol worked perfectly. The student ide
 ---
 
 ## Guided Session 1
+
+:::tip Information Organization Moment
+A final review is easier when the evidence has homes. Sort what you collected into decisions made, what happened, what was luck, and what was process. Organized evidence makes the reflection honest.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### The Patch
 #### Learning Goal
 By the end of this session, the student can:
@@ -362,6 +368,12 @@ Use short descriptive feedback such as:
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+Before calling a project finished, run a done-enough check: "What was the purpose, what parts matter most, and what can wait?" Done enough for the purpose beats endless polishing.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 This is the final check for the entire curriculum. After the presentation and reflections, confirm:
 

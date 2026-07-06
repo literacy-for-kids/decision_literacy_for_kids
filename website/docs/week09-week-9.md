@@ -168,6 +168,12 @@ Connect to real life: "When someone offers you a deal that seems amazing — a g
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+When a group weighs information together, check that every voice has a way in. The loudest opinion is not automatically the strongest evidence. Try: "Has everyone said what they noticed?"
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### The Real Decision Calculator
 #### Learning Goal
 By the end of this session, the student can:

@@ -37,10 +37,6 @@ Just like flipping a coin, many real-life outcomes involve luck — and understa
 When an outcome feels unfair or random, that sting is a signal — not proof you decided badly. Take one slow breath and separate the *choice you made* from the *luck that followed*. A good process can still meet a bad result. (More on the [Coping Skills for Decisions](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-When you explain a choice that turned out badly, separate the process from the luck out loud: "I decided ___ because ___ — the result was just unlucky." Explaining your reasoning helps people judge the *process*, not only the outcome. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 ## Week at a Glance
 
 | | |
@@ -169,6 +165,10 @@ Key takeaway: **Some things in life are genuinely unpredictable. And that's okay
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+When you explain a choice that turned out badly, separate the process from the luck out loud: "I decided ___ because ___ — the result was just unlucky." Explaining your reasoning helps people judge the *process*, not only the outcome. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### The Lucky Game
 #### Learning Goal
 By the end of this session, the student can:
@@ -303,6 +303,12 @@ Use short descriptive feedback such as:
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+A random result is not a final grade on your decision skill. After a coin flip, dice roll, or lucky game, ask: "Was this about skill, luck, or both?" Learning from decisions starts with knowing what the result can actually teach you.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

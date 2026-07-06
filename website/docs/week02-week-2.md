@@ -98,6 +98,12 @@ Be patient. Use lots of examples. The goal is not instant mastery — it's plant
 ---
 
 ## Guided Session 1
+
+:::tip Information Organization Moment
+A decision journal entry works better with a label: the choice, the date, and one word for the topic. "Journal page" is hard to find later; "bike-choice — March" brings the entry back when you want to review it.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### The Weather Forecaster
 #### Learning Goal
 By the end of this session, the student can:
@@ -281,6 +287,12 @@ Use short descriptive feedback such as:
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+A decision result is feedback, not a report-card grade. A careful process can still get an unlucky result. Treat the outcome as information about what to keep or change next time.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

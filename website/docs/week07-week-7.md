@@ -170,6 +170,12 @@ Discuss: "The difference is whether your reason looks FORWARD (toward the goal) 
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+Decision words are easier to keep straight with an example table: term on one side, a real example and a non-example on the other. The boundary of an idea shows up when you can see what does not fit.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### The Escalation Game
 #### Learning Goal
 By the end of this session, the student can:
