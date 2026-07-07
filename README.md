@@ -7,7 +7,7 @@
 
 An **18-week decision literacy curriculum** for ages 8–12. Teaches kids to think clearly about probability, cognitive biases, trade-offs, and strategy — replacing gut reactions with structured reasoning.
 
-🌐 **View the curriculum website:**  
+🌐 **Use the curriculum here:**
 https://decision.literacy-for-kids.com/
 
 ---
@@ -63,56 +63,44 @@ The curriculum progresses through five phases, plus optional extension material:
 | The Optimisation Project | 15–18 | Identify a real problem, design a protocol, test it, iterate |
 | Advanced Topics (Optional) | Extension | Bayesian updating, decision trees & multi-step strategy |
 
-### Weekly Format
-
-Each week includes three sessions:
-
-- **Two guided sessions** — adult-led, ~30 minutes each
-- **One independent practice** — student-led activity and Decision Journal entry
-
-The curriculum emphasises exploration, reasoning, hands-on activities, and real-world application throughout.
+Each week includes **two guided sessions** (adult-led, ~30 minutes each) and **one independent practice** session with a Decision Journal entry.
 
 ---
 
-## Repository Structure
+## How to Use It
 
-The curriculum is a documentation website built with **Docusaurus**.
+You do not need to run all 18 weeks. Every lesson stands alone as a 10–20 minute discussion or activity — use one lesson, one phase, or the full sequence.
 
-Most educational content lives in `website/docs/`.
+- **New to Literacy for Kids?** The hub's [Start Here guide](https://www.literacy-for-kids.com/docs/start-here/) has dedicated pages [for parents](https://www.literacy-for-kids.com/docs/start-here/parents/) and [for teachers and facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/).
+- **Only have 20 minutes?** Pick any week on the [curriculum site](https://decision.literacy-for-kids.com/), read the big idea, run one activity, and ask one discussion question.
+- **Want grab-and-go materials?** The [Shared Toolkit Printables](https://www.literacy-for-kids.com/docs/toolkits/printables/) are one-page cards kids can keep nearby.
 
-```
-website/
-  docs/
-    intro.md
-    curriculum-overview.md
-    week01-week-1.md
-    week02-week-2.md
-    ...
-    week18-week-18.md
-    week-extension-1.md
-    week-extension-2.md
-```
+---
 
-Each lesson is written in **Markdown** for easy editing and maintenance. The website automatically generates navigation from these files.
+## Shared Skills
+
+This curriculum connects to the seven cross-curriculum [Shared Toolkits](https://www.literacy-for-kids.com/docs/toolkits/) — short life-skill modules that support every literacy: **Coping Skills, Communication, Problem Solving, Learning How to Learn, Executive Function, Collaboration, and Information Organization.**
+
+The curriculum site includes a local doorway page for each toolkit (connecting the skill to decision-making specifically), and weekly lessons contain "Moment" callouts that surface the right skill at the right time — like pausing before a big choice, or sorting evidence from feelings.
+
+---
+
+## Part of Literacy for Kids
+
+This is one of **nine domain literacies** in the [Literacy for Kids](https://www.literacy-for-kids.com/) ecosystem — free, open-source curricula covering decisions, computers, media, money, civic life, law, emotions and relationships, the environment, and health. Browse them all from the [hub site](https://www.literacy-for-kids.com/) or the [GitHub organization](https://github.com/literacy-for-kids).
 
 ---
 
 ## Contributing
 
-Contributions that improve the curriculum are welcome — fixing typos, sharpening explanations, adding examples or activities, suggesting teaching improvements, or expanding documentation.
-
-**Workflow:**
-
-1. Fork the repository
-2. Create a new branch
-3. Edit the Markdown files in `website/docs/`
-4. Submit a pull request
+Contributions that improve the curriculum are welcome — fixing typos, sharpening explanations, adding examples or activities, or suggesting teaching improvements. Lesson content is plain Markdown under `website/docs/`; fork, edit, and open a pull request. Every page on the live site also has an "Edit this page" link that takes you straight to the file.
 
 ---
 
 ## License
 
 This project uses dual licensing:
+
 - Code (JavaScript, CSS, configuration, build scripts): <a href="./LICENSE-CODE">MIT License</a>
 - Curriculum content (Markdown documents under `website/docs/`): <a href="./LICENSE-CONTENT">CC BY-NC-SA 4.0</a>
 
