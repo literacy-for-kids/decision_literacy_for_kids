@@ -231,6 +231,8 @@ This signal-vs-noise insight connects to a bigger pattern about effort and payof
 
 The bars shrink, right? The first re-read catches the big mistakes. The fifth re-read finds almost nothing new.
 
+![Diminishing returns curve: the first re-read of an essay improves it a lot, the second helps some, and by the fifth each extra pass barely helps at all](/img/diagrams/diminishing-returns.svg)
+
 This pattern has a name: **diminishing returns**. The first bit of effort gives you the most improvement. Each additional bit helps less and less. It applies everywhere:
 
 - The first 30 minutes of studying helps a lot. The fourth hour helps much less.

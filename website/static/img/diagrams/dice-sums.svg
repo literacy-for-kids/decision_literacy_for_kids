@@ -1,0 +1,35 @@
+<svg viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="dsTitle">
+  <title id="dsTitle">Bar chart of the number of ways to roll each total with two dice: totals of 2 and 12 have one way each, while 7 has six ways — the middle totals come up more often</title>
+  <rect x="1" y="1" width="858" height="458" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Two Dice: How Many Ways to Roll Each Total?</text>
+  <text x="430" y="66" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">7 is the most common total &#8212; there are six different ways to make it.</text>
+
+  <!-- baseline -->
+  <line x1="80" y1="380" x2="790" y2="380" stroke="#94a3b8" stroke-width="2"/>
+
+  <!-- bars: ways = 1..6..1, bar height = ways*42, width 48, gap 16, start x=95 -->
+  <g fill="#ea580c">
+    <rect x="95"  y="338" width="48" height="42"/>
+    <rect x="159" y="296" width="48" height="84"/>
+    <rect x="223" y="254" width="48" height="126"/>
+    <rect x="287" y="212" width="48" height="168"/>
+    <rect x="351" y="170" width="48" height="210"/>
+    <rect x="415" y="128" width="48" height="252" fill="#c2410c"/>
+    <rect x="479" y="170" width="48" height="210"/>
+    <rect x="543" y="212" width="48" height="168"/>
+    <rect x="607" y="254" width="48" height="126"/>
+    <rect x="671" y="296" width="48" height="84"/>
+    <rect x="735" y="338" width="48" height="42"/>
+  </g>
+
+  <!-- ways labels above bars -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" font-weight="700" fill="#c2410c" text-anchor="middle">
+    <text x="119" y="330">1</text><text x="183" y="288">2</text><text x="247" y="246">3</text><text x="311" y="204">4</text><text x="375" y="162">5</text><text x="439" y="120">6</text><text x="503" y="162">5</text><text x="567" y="204">4</text><text x="631" y="246">3</text><text x="695" y="288">2</text><text x="759" y="330">1</text>
+  </g>
+
+  <!-- totals below -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="15" fill="#1e293b" text-anchor="middle">
+    <text x="119" y="404">2</text><text x="183" y="404">3</text><text x="247" y="404">4</text><text x="311" y="404">5</text><text x="375" y="404">6</text><text x="439" y="404" font-weight="800">7</text><text x="503" y="404">8</text><text x="567" y="404">9</text><text x="631" y="404">10</text><text x="695" y="404">11</text><text x="759" y="404">12</text>
+  </g>
+  <text x="430" y="434" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">total rolled &#183; number above each bar = how many dice combinations make it</text>
+</svg>

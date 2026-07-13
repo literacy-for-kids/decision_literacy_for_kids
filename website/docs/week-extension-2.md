@@ -126,6 +126,8 @@ Draw the basic elements:
 ▶ = Outcome (what happens)
 ```
 
+![A decision tree example: the square decision node (bike or walk to the park) branches to round chance nodes (rain or sun), which lead to four possible outcomes](/img/diagrams/decision-tree.svg)
+
 Simple example:
 
 ```

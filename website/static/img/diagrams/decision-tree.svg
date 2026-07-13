@@ -1,0 +1,68 @@
+<svg viewBox="0 0 860 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="dtTitle">
+  <title id="dtTitle">A decision tree: the square decision node (bike or walk to the park) branches to round chance nodes (rain or sun), which lead to outcomes — soaked or arrive fast if biking, umbrella walk or nice stroll if walking</title>
+  <defs>
+    <marker id="dtA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="478" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Reading a Decision Tree</text>
+  <text x="430" y="64" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">&#9632; square = your choice &#183; &#9679; circle = chance decides &#183; &#9654; triangle = how it ends</text>
+
+  <!-- decision node -->
+  <rect x="70" y="215" width="150" height="66" rx="8" fill="#ea580c"/>
+  <text x="145" y="242" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#ffffff">Get to the park:</text>
+  <text x="145" y="262" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#ffedd5">bike or walk?</text>
+
+  <!-- branches to chance nodes -->
+  <g stroke="#94a3b8" stroke-width="2.5" fill="none">
+    <path d="M220,232 C280,200 320,175 372,160" marker-end="url(#dtA)"/>
+    <path d="M220,264 C280,296 320,321 372,336" marker-end="url(#dtA)"/>
+  </g>
+  <text x="290" y="178" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#c2410c">BIKE</text>
+  <text x="290" y="330" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#c2410c">WALK</text>
+
+  <!-- chance nodes -->
+  <circle cx="405" cy="152" r="30" fill="#ffffff" stroke="#ea580c" stroke-width="3"/>
+  <text x="405" y="147" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#1e293b">what&#8217;s the</text>
+  <text x="405" y="163" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#1e293b">weather?</text>
+  <circle cx="405" cy="344" r="30" fill="#ffffff" stroke="#ea580c" stroke-width="3"/>
+  <text x="405" y="339" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#1e293b">what&#8217;s the</text>
+  <text x="405" y="355" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#1e293b">weather?</text>
+
+  <!-- outcome branches -->
+  <g stroke="#94a3b8" stroke-width="2.5" fill="none">
+    <path d="M433,140 C490,120 540,108 600,102" marker-end="url(#dtA)"/>
+    <path d="M433,164 C490,184 540,196 600,202" marker-end="url(#dtA)"/>
+    <path d="M433,332 C490,312 540,300 600,294" marker-end="url(#dtA)"/>
+    <path d="M433,356 C490,376 540,388 600,394" marker-end="url(#dtA)"/>
+  </g>
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#64748b" text-anchor="middle">
+    <text x="515" y="102">rain</text>
+    <text x="515" y="205">sun</text>
+    <text x="515" y="294">rain</text>
+    <text x="515" y="397">sun</text>
+  </g>
+
+  <!-- outcomes -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5">
+    <g>
+      <polygon points="608,88 626,97 608,106" fill="#94a3b8"/>
+      <text x="636" y="102" fill="#1e293b">you get soaked &#128166;</text>
+    </g>
+    <g>
+      <polygon points="608,188 626,197 608,206" fill="#94a3b8"/>
+      <text x="636" y="202" fill="#1e293b">you arrive fast &#127881;</text>
+    </g>
+    <g>
+      <polygon points="608,280 626,289 608,298" fill="#94a3b8"/>
+      <text x="636" y="294" fill="#1e293b">umbrella walk &#9730;</text>
+    </g>
+    <g>
+      <polygon points="608,380 626,389 608,398" fill="#94a3b8"/>
+      <text x="636" y="394" fill="#1e293b">a nice stroll &#127804;</text>
+    </g>
+  </g>
+
+  <text x="430" y="452" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">You control the square. Chance controls the circles. Thinking ahead means seeing all four endings.</text>
+</svg>

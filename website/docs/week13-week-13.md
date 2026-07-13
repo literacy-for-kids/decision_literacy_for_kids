@@ -137,6 +137,8 @@ Turn it into a repeating game with points (positive framing — you're earning r
 | **You Cooperate** | You: 3 pts / Partner: 3 pts | You: 0 pts / Partner: 5 pts |
 | **You Defect** | You: 5 pts / Partner: 0 pts | You: 1 pt / Partner: 1 pt |
 
+![Payoff matrix for the sharing game: both cooperate earns 3 points each, one-sided defection earns the defector 5 and the cooperator 0, and mutual defection earns 1 each](/img/diagrams/payoff-matrix.svg)
+
 Rules:
 - Each round, both players secretly choose "Cooperate" or "Defect" (hold up a card face-down, then flip simultaneously)
 - Record scores for each round

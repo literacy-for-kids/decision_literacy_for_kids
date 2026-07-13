@@ -152,6 +152,10 @@ Record results. Then look at the data:
 
 Draw a simple chart showing how many ways to roll each total. This is the student's first glimpse of the idea that some outcomes are more likely than others — but even "likely" outcomes aren't guaranteed on any single roll.
 
+![Bar chart of the number of ways to roll each total with two dice: 2 and 12 have one way each, while 7 has six ways](/img/diagrams/dice-sums.svg)
+
+![A probability line from zero (impossible) to one (certain), with everyday events placed along it](/img/diagrams/probability-line.svg)
+
 ---
 
 **3. Wrap-Up Discussion**

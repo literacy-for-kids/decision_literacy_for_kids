@@ -1,0 +1,35 @@
+<svg viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="drTitle">
+  <title id="drTitle">Diminishing returns curve: the first re-read of an essay improves it a lot, the second helps some, and by the fifth re-read each extra pass barely helps at all</title>
+  <rect x="1" y="1" width="858" height="458" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Diminishing Returns</text>
+  <text x="430" y="66" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Each extra re-read of your essay helps less than the one before.</text>
+
+  <!-- axes -->
+  <g stroke="#94a3b8" stroke-width="2">
+    <line x1="100" y1="380" x2="800" y2="380"/>
+    <line x1="100" y1="380" x2="100" y2="95"/>
+  </g>
+  <text x="450" y="420" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">how many times you re-read the essay</text>
+  <text x="58" y="240" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b" transform="rotate(-90 58 240)">how good the essay is</text>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b" text-anchor="middle">
+    <text x="100" y="400">0</text><text x="240" y="400">1</text><text x="380" y="400">2</text><text x="520" y="400">3</text><text x="660" y="400">4</text><text x="795" y="400">5</text>
+  </g>
+
+  <!-- curve: big jump then flattening -->
+  <path d="M100,360 L240,190 L380,145 L520,125 L660,117 L795,113" fill="none" stroke="#ea580c" stroke-width="4" stroke-linejoin="round"/>
+  <g fill="#ea580c">
+    <circle cx="100" cy="360" r="7"/><circle cx="240" cy="190" r="7"/><circle cx="380" cy="145" r="7"/><circle cx="520" cy="125" r="7"/><circle cx="660" cy="117" r="7"/><circle cx="795" cy="113" r="7"/>
+  </g>
+
+  <!-- annotations -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" text-anchor="middle">
+    <text x="196" y="272" fill="#c2410c" font-weight="700">huge</text>
+    <text x="196" y="289" fill="#c2410c" font-weight="700">improvement!</text>
+    <text x="315" y="205" fill="#c2410c">helps some</text>
+    <text x="590" y="165" fill="#64748b">barely helps&#8230;</text>
+    <text x="737" y="90" fill="#64748b">almost nothing</text>
+  </g>
+
+  <text x="430" y="445" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">Smart movers notice when the curve flattens &#8212; and spend their next hour on something else.</text>
+</svg>

@@ -175,6 +175,8 @@ Draw this grid on paper:
 | **✅ Good Process** | Deserved success | Bad luck |
 | **❌ Bad Process** | Dumb luck | Deserved failure |
 
+![The 2×2 grid of decision process versus outcome: deserved success, bad luck, dumb luck, and deserved failure — judge the decision, not just the result](/img/diagrams/process-outcome-grid.svg)
+
 Explain each box:
 
 - **Good Process + Good Outcome:** You did the right thing and it worked. Great!
