@@ -24,8 +24,7 @@
 
   <!-- annotations -->
   <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" text-anchor="middle">
-    <text x="196" y="272" fill="#c2410c" font-weight="700">huge</text>
-    <text x="196" y="289" fill="#c2410c" font-weight="700">improvement!</text>
+    <text x="252" y="330" fill="#c2410c" font-weight="700">huge improvement!</text>
     <text x="315" y="205" fill="#c2410c">helps some</text>
     <text x="590" y="165" fill="#64748b">barely helps&#8230;</text>
     <text x="737" y="90" fill="#64748b">almost nothing</text>
