@@ -144,9 +144,7 @@ Ask: "Which type of door should you spend more time thinking about before walkin
 
 Real decisions aren't always purely one-way or two-way. Draw a line:
 
-```
-Easily Undo ←————————————————→ Can't Undo
-```
+![The reversibility spectrum: a line from easily undo on the left to can't undo on the right, with breakfast near the left end, an after-school activity in the middle, spent birthday money middle-right, and posting online near the right end](/img/diagrams/reversibility-spectrum.svg)
 
 Sort these decisions along the spectrum:
 
