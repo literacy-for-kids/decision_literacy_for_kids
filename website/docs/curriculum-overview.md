@@ -320,3 +320,7 @@ The ideas in this course — probability, cognitive bias, expected value, cooper
 By the end of the program, students will have a **Decision Journal** full of real entries, a **tested Decision Protocol** they designed themselves, and — most importantly — a fundamentally different relationship with how they think about choices.
 
 **Students should leave feeling like decisions are something they can get better at — not just something that happens to them.**
+
+## Practical Core Skills
+
+[Week 9 tests expected value across uncertain probability estimates](./week09-week-9.md#core-practice-what-if-our-probability-estimate-is-wrong), so learners can see when a recommendation depends on a fragile assumption. Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.

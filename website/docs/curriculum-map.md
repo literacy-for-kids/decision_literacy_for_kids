@@ -28,3 +28,11 @@ sidebar_label: Curriculum Map
 | 18 | Patch, Present, Reflect | What did I learn about how I make decisions? | Synthesis and communication | iteration, patch, retrospective | Explain one thing you would do differently in your protocol v2.0 | Present your Decision Journal to someone who was not in the class |
 | Ext. 1 | Bayesian Updating | How should new evidence change what I believe? | Probability updating | Bayesian reasoning, prior, posterior, evidence | Update a belief based on one piece of new evidence | Apply Bayesian reasoning to a real news story |
 | Ext. 2 | Decision Trees | How do we map multi-step decisions with branching paths? | Decision tree analysis | decision tree, probability branch, expected value | Draw a decision tree for one real upcoming decision | Find a professional context (medicine, business) where decision trees are used |
+
+## Practical Core Activities
+
+These activities are integrated into the existing weeks. Use the lesson's suggested substitution or add a meeting; they do not add new curriculum weeks.
+
+| Week | Added core skill | Evidence to collect |
+|---|---|---|
+| 9 | Probability sensitivity | Compare EV across estimates and name missing factors |

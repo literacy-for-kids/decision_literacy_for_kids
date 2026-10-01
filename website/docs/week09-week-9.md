@@ -253,6 +253,36 @@ Practice the **100 Times Test** with quick-fire scenarios:
 
 ---
 
+## Core Practice: What If Our Probability Estimate Is Wrong?
+
+**Time:** 15–20 minutes; use as one Real Decision Calculator example. **Goal:** vary an uncertain probability and see whether the preferred option changes. **Materials:** paper; calculator optional. All payoffs are invented enjoyment points, not money or guaranteed outcomes.
+
+A fair coin's chance follows a stated model. A weather estimate is uncertain evidence about a real event. A precise-looking number can still be wrong. **Sensitivity checking** means trying several plausible assumptions before depending on one answer.
+
+The fictional club chooses an outdoor or indoor activity. Use a simplified model with only two outcomes:
+
+| Option | If dry | If rain |
+|---|---:|---:|
+| Outdoor | 10 points | 0 points |
+| Indoor | 6 points | 6 points |
+
+Let `p` mean the chance of rain. Outdoor EV = `(1 − p) × 10 + p × 0`; indoor EV = **6**. Test these estimates:
+
+| Estimated rain chance | Outdoor expected points | Indoor expected points | Higher EV in this model |
+|---|---:|---:|---|
+| 20% | 8 | 6 | Outdoor |
+| 40% | 6 | 6 | Tie |
+| 60% | 4 | 6 | Indoor |
+
+1. Predict the preferred option at each estimate, then calculate. **The recommendation changes**; it is sensitive to the rain estimate.
+2. Suppose the only evidence supports a range from 20% to 60%. Can we honestly say "Outdoor is definitely best"? **No.** Explain how the recommendation depends on the assumption.
+3. Name a useful next step: get a more relevant forecast, ask the group how much a canceled activity matters, or plan an indoor backup. More information may help, but will not guarantee the weather.
+4. Say what the model omits: accessibility, shelter, travel, or different preferences. The largest average enjoyment score does not automatically make the choice appropriate. Unsafe weather is not traded away for points.
+
+**Younger route:** use ten weather cards: 2 rainy/8 dry, then 6 rainy/4 dry. Count outdoor points in each set and compare with 60 total indoor points. These represent assumptions, not forecasts. **Stretch:** solve for the crossover, `10 × (1 − p) = 6`, giving **p = 0.4**. For rain probabilities above 40%, indoor has higher EV under these payoffs.
+
+**Save:** three estimates, calculations, the recommendation at each, and one missing factor. **Check:** "If the same answer holds across the whole range, is that more robust?" Yes, within that range and model; it is still not a guaranteed outcome. Reteach by changing only the probability while keeping payoffs fixed.
+
 ## Independent Practice
 
 ### Goal
@@ -270,7 +300,7 @@ Pick a real decision you're facing this week. Try to build an EV calculation:
 3. Rate how good/bad each outcome would be (1-10 scale)
 4. Multiply and add
 
-The exact numbers don't matter as much as the PROCESS of thinking through probabilities and values.
+The estimates affect the answer. Use a fictional decision if preferred; label estimates as uncertain, give a plausible range, and repeat the calculation at both ends as in the sensitivity activity. Explain whether the recommendation changes and what information could help. Do not treat a precise EV as stronger than its assumptions.
 
 **2. EV Quick-Fire**
 
@@ -278,7 +308,7 @@ For 5 decisions you make this week, do a quick mental EV check: "If I did this 1
 
 ### Decision Journal
 
-> Choose an upcoming decision. Before you decide, write out the options, estimate the probabilities, and calculate the EV. Then make your choice and explain whether you followed the EV or not — and why.
+> Choose an upcoming decision. Before you decide, write out the options, estimate the probabilities, and calculate the EV. Test at least two plausible probability estimates. Then explain your choice, whether the preferred option changes across estimates, and which missing factors matter. A fictional decision is fine.
 
 ### Reflection Questions
 
