@@ -14,7 +14,7 @@ This week's tool is **expected value (EV)** — a surprisingly simple formula th
 
 > **EV = (Probability of Outcome × Value of Outcome) for each possible outcome, added together.**
 
-In plain language: "Imagine doing this a hundred times. On average, how does it turn out?" Put your **Probability Glasses** back on — this week we're turning confidence levels into exact calculations.
+In plain language: "Imagine doing this a hundred times. On average, how does it turn out?" Put your **Probability Glasses** back on — this week we calculate consequences of stated assumptions. The arithmetic can be exact while the probabilities or values remain uncertain.
 
 ---
 
@@ -89,7 +89,7 @@ EV is a tool, not a commandment. It tells you what the math favours, but it does
 
 **Journal alternative:** "The best deal I saw this week was ___ because if I did it 10 times, I'd come out ahead / behind." Spoken is fine.
 
-**What success looks like:** The learner can look at a simple choice and say "that's a good deal" or "that's a bad deal" based on thinking about what would happen over many tries.
+**What success looks like:** The learner can compare expected point changes and say that an average is not a promise; a positive average alone does not require playing.
 :::
 
 This is the most math-heavy week. Adjust depth by age group:
@@ -109,7 +109,7 @@ By the end of this session, the student can:
 
 - calculate the expected value of a simple coin-flip or dice bet
 - explain what "positive EV" and "negative EV" mean
-- determine whether a repeated bet would make or lose points over time
+- calculate the expected average and explain why realized results may differ
 
 ---
 
@@ -117,7 +117,7 @@ By the end of this session, the student can:
 
 **1. The Token Game**
 
-Remember the coin-flip bet from Week 6? You felt the pull of loss aversion — even though the math was in your favor, it *felt* risky. This time, we're going to calculate exactly WHY the math said you should play.
+Remember the coin-flip bet from Week 6? You felt the pull of loss aversion — even though the math was in your favor, it *felt* risky. This time, calculate the expected point change and then check whether the risk, rules, and costs fit the learner. Declining a positive-EV game can be reasonable.
 
 Start with this:
 
@@ -132,36 +132,40 @@ Before flipping, calculate together:
 
 EV = (0.5 × 2) + (0.5 × -1) = 1.0 + (-0.5) = **+0.5 per flip**
 
-> "On average, every time you flip, you gain half a token. Over 20 flips, you'd expect to be up about 10 tokens. This is a GOOD bet."
+> "Under the fair-coin model, the expected change is +0.5 token per flip, or +10 across 20 flips. That is an average across possible results, not a promise about our next session."
 
-Now play 20 rounds for real and tally the results. Do the actual results match the prediction?
+Use pretend points only, with an agreed starting balance and no real money, personal possessions, or treats at risk. Participation is optional. The model assumes a fair coin, independent flips, unchanged rules, and no extra cost or stopping rule.
 
-Discuss: individual flips are unpredictable, but over many flips, the average settles near the EV. If you lost tokens on a positive-EV bet, remember the 2×2 grid from Week 2: this is a good process with a bad outcome. The math was right even though the result stung.
+Optionally simulate 20 rounds and tally every result. Compare the realized total with the expected +10; do not rerun a losing session until it looks favorable. A possible session with 6 heads and 14 tails ends at 6×2 − 14×1 = −2, despite positive EV.
+
+Discuss: with independent repetitions and stable probabilities, larger samples tend to have averages closer to EV, but no finite session is guaranteed to profit. A good process checks the model, affordability, alternatives, and consequences as well as the EV. A positive number alone does not establish a good process.
 
 ---
 
-**2. Spot the Good Bet**
+**2. Compare Expected Point Changes**
 
-Calculate EV for each. Is it positive (good) or negative (bad)?
+Calculate each expected net point change. Positive means gain on average under the model; negative means loss on average. Neither label by itself decides whether to participate.
 
 | Bet | Calculation | EV |
 |---|---|---|
-| Heads +3, Tails -2 | (0.5×3)+(0.5×-2) | +0.5 ✅ |
-| Roll 6 on a die: +10, otherwise -3 | (1/6×10)+(5/6×-3) | -0.83 ❌ |
-| Draw a red card from a deck: +4, black card: -3 | (0.5×4)+(0.5×-3) | +0.5 ✅ |
-| Roll even on a die: +2, odd: -3 | (0.5×2)+(0.5×-3) | -0.5 ❌ |
+| Heads +3, Tails -2 | (0.5×3)+(0.5×-2) | +0.5 |
+| Roll 6 on a die: +10, otherwise -3 | (1/6×10)+(5/6×-3) | −0.83 |
+| Draw a red card from a deck: +4, black card: -3 | (0.5×4)+(0.5×-3) | +0.5 |
+| Roll even on a die: +2, odd: -3 | (0.5×2)+(0.5×-3) | −0.5 |
 
-Key insight: "Your gut might say the +10 bet looks amazing. But because you only win 1 time in 6, and you lose 3 every other time, it's actually a bad bet."
+Key insight: "Your gut might say the +10 bet looks amazing. But because you only win 1 time in 6, and you lose 3 every other time, its expected net point change is negative under these rules. That answers the point-average question, not every question about the choice."
 
 ---
 
-**3. Why the Game Booth Always Profits**
+**3. Why a Booth May Have a Positive Expected Margin**
 
 Brief discussion:
 
-> "Think about the game booths at a school fair or carnival. The prizes look amazing, but the games are set up so that *on average* the booth earns more than it gives away. The booth doesn't need to win every round — it just needs the math to be slightly in its favour. Over hundreds of players, the booth ALWAYS comes out ahead. That's EV in action."
+> "Imagine a fictional booth charges 2 tickets per play and pays 10 tickets when a fair die shows 6. Its expected payout is 10/6, about 1.67 tickets. Its expected margin is 2 − 1.67, about 0.33 tickets per play before other costs. A positive expected margin is not guaranteed profit."
 
-Connect to real life: "When someone offers you a deal that seems amazing — a game, a subscription, a 'free' trial — ask yourself: what's THEIR expected value? If they're making money on average, you're probably spending more than you realize."
+If three players all roll a 6, the booth collects 6 tickets and pays 30: it loses 24. Supplies, staffing, fees, prize costs, dependence between plays, and inaccurate probabilities can also change real profit. Keep revenue, payout, and net result separate.
+
+Connect to real life: "What are the price, all possible outcomes, extra costs, and alternatives?" A provider earning money does not prove a customer loses value; many exchanges can benefit both sides. Check the actual terms.
 
 > **Opportunity cost connection:** "Choosing one bet means choosing NOT to keep your tokens for the next bet. That's opportunity cost — a concept we'll explore fully in Week 11."
 
@@ -199,14 +203,14 @@ Work through these together:
 EV(study) = (0.8×10) + (0.2×6) = 8 + 1.2 = **9.2**
 EV(skip) = (0.3×10) + (0.4×6) + (0.3×2) = 3 + 2.4 + 0.6 = **6.0**
 
-Studying has much higher EV — even though it costs an hour of fun.
+Under these invented probabilities and grade scores, studying has higher EV. The score omits the hour of time, rest, and other priorities, so make those tradeoffs explicit before deciding.
 
 **Scenario B: The Lemonade Stand**
 > It costs $5 to set up. On a sunny day (60% likely), you'll make $15. On a cloudy day (40% likely), you'll make $3.
 
 EV = (0.6×15) + (0.4×3) - 5 = 9 + 1.2 - 5 = **+$5.20**
 
-Good bet!
+The modeled expected monetary profit is +$5.20 before any omitted costs. Check time, supplies, permission, and downside before choosing.
 
 ---
 
@@ -218,7 +222,7 @@ Try this with real tokens:
 
 Calculate the EV: (0.5 × 8) + (0.5 × −10) = 4 + (−5) = **−1** — so the math says no.
 
-Now change the bet: Heads, you win 12. Tails, you lose all 10. EV = (0.5 × 12) + (0.5 × −10) = **+1**. The math now says YES. But ask:
+Now change the bet: Heads, you win 12. Tails, you lose all 10. EV = (0.5 × 12) + (0.5 × −10) = **+1**. The expected point change is now positive. That alone does not say to play. Ask:
 
 > "Even though the EV is positive, would you really bet EVERYTHING you have on a single coin flip?"
 
@@ -242,9 +246,9 @@ The ultimate goal isn't to calculate EV for every choice. It's to develop an INS
 > "When someone offers you a deal, your brain should automatically ask: 'If I did this a hundred times, would I come out ahead or behind?'"
 
 Practice the **100 Times Test** with quick-fire scenarios:
-- "Buy one get one free on something you were going to buy anyway" → Positive EV
+- "Buy one get one free" → Check total price, whether both items are needed, storage, and the alternative; the promotion alone does not establish EV
 - "Spend $5 on lottery tickets" → Negative EV
-- "Study an extra 30 minutes instead of watching TV" → Probably positive EV
+- "Study another 30 minutes" → Compare likely learning benefits, fatigue, available time, and rest; without probabilities and values, this is a qualitative judgment
 - "Skip breakfast to sleep in" → Depends on your values!
 
 ---
@@ -310,11 +314,11 @@ Use short descriptive feedback such as:
 
 After this week, check whether the learner can:
 
-1. **Apply the 100 Times Test:** "I offer you this deal: flip a coin. Heads, you win 3 tokens. Tails, you lose 1 token. Good deal or bad deal?" (Looking for: "Good deal — I'd win more than I'd lose over time.")
-2. **Spot a bad deal:** "A game booth charges you 2 tickets to play. You win 10 tickets if you roll a 6 on a die, otherwise nothing. Good deal or bad deal?" (Looking for: "Bad deal" — EV is about -0.33.)
-3. **Explain the instinct:** "What question should you ask yourself when someone offers you a deal?" (Looking for: "If I did this 100 times, would I come out ahead or behind?" or similar.)
+1. **Calculate and qualify:** "A fair coin gives +3 points for heads and −1 for tails. What is its EV, and does it guarantee a gain?" (Looking for +1 per flip under the stated rules, and no guarantee for a finite session.)
+2. **Include the cost:** "A booth charges 2 tickets. A fair die pays 10 on a 6, otherwise nothing. What is the player's expected net change?" (Looking for 10/6 − 2, about −0.33, including the entry cost.)
+3. **Choose appropriately:** "A positive-EV option can lose your entire supply in one try. What else should you consider?" (Looking for worst case, ability to absorb loss, alternatives, uncertainty, costs, and values; declining is reasonable.)
 
-If the learner can identify a good deal vs. a bad deal, they're ready for Week 10.
+If the learner can distinguish expected value from realized results and name a reason EV alone may not settle the choice, they are ready for Week 10.
 
 ---
 
@@ -337,9 +341,9 @@ Expected value tells you what the math favors. But how you FEEL about the risk m
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
-- **From Week 3:** "EV is your Probability Glasses turned up to full power. You're not just saying 'pretty sure' anymore — you're calculating exactly how sure."
-- **From Week 6:** "Remember loss aversion? The coin-flip bet FELT risky even though the math was in your favor. Now you can CALCULATE why you should have played."
-- **From Week 2:** "A positive-EV choice that doesn't work out is a good process with a bad outcome — it belongs in the top-right box of the 2×2 grid."
+- **From Week 3:** "EV is your Probability Glasses turned up to full power. You're not just saying 'pretty sure' anymore — you are calculating an average from probability assumptions, not making uncertain estimates exact."
+- **From Week 6:** "Remember loss aversion? The coin-flip bet FELT risky even though the math was in your favor. Now you can calculate expected points while also checking whether the downside and alternatives make playing appropriate."
+- **From Week 2:** "A positive-EV choice can have a poor result. Judge process by assumptions, costs, downside, alternatives, and values, rather than by EV or outcome alone."
 :::
 
 ---

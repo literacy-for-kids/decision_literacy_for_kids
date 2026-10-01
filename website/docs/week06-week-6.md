@@ -87,7 +87,7 @@ Let the student feel the pull of loss aversion before naming it. The "aha" momen
 
 **Adapting the activities:**
 - Use real objects the learner cares about slightly (stickers, small toys) for the trading game. The emotional response IS the lesson.
-- For the coin-flip bet, use physical tokens or treats instead of abstract points. Let them hold and see what they might win or lose.
+- For the coin-flip bet, use paper counters representing pretend points, with no real possessions or treats at risk. Trying the game is optional.
 
 **Journal alternative:** "Something I didn't want to give up this week was ___ because ___." Spoken or drawn is fine.
 
@@ -95,7 +95,7 @@ Let the student feel the pull of loss aversion before naming it. The "aha" momen
 :::
 
 :::info For Ages 10–12
-- Dive deeper into the mathematics of loss aversion — explore the roughly 2× multiplier and expected-value calculations.
+- Compare possible gain/loss preferences and expected-value calculations; do not assume a fixed multiplier for every person.
 - Discuss real-world framing in news headlines and advertising campaigns.
 - Challenge learners to find and reframe loss-framed messages they encounter during the week.
 :::
@@ -141,7 +141,7 @@ Explanation:
 
 **2. The Coin-Flip Bet**
 
-Propose this (use points or small treats, not real money):
+Propose this optional simulation with pretend points only:
 
 > "Let's flip a coin. If it's heads, you WIN 3 points. If it's tails, you LOSE 2 points. Want to play?"
 
@@ -149,11 +149,11 @@ Most kids (and adults!) hesitate or refuse, even though the expected value is po
 
 - EV = (0.5 × 3) + (0.5 × −2) = **+0.5 per flip**
 
-Ask: "The math says you should play. So why does it feel risky?"
+Ask: "The expected point change is positive. What might still make declining reasonable?" Consider the starting balance, downside, rules, alternatives, and personal preferences before discussing loss aversion.
 
-> "That uncomfortable feeling is **loss aversion**. Your brain treats the possibility of losing 2 points as roughly equal to winning 4 points. Losses are felt about twice as strongly as gains."
+> "Loss aversion is one possible influence: losses can feel more significant than comparable gains. People and situations vary. A refusal alone does not prove a bias, and there is no fixed two-to-one rule for every person."
 
-If time allows, actually play 20 rounds and tally the total. The student will almost certainly come out ahead — demonstrating that the math was right even though the instinct was to say no.
+If the learner opts in, simulate 20 rounds with pretend points and record every outcome. The expected total is +10 points, but a finite session can lose: 7 heads and 13 tails gives 7×3 − 13×2 = −5. A loss does not refute the fair-coin EV; a gain does not prove the choice suited the learner. Do not use real money, possessions, or treats at risk.
 
 ---
 
@@ -274,7 +274,7 @@ For each, label it as "gain frame" or "loss frame."
 
 ### Reflection Questions
 
-- If losses feel 2x worse than gains feel good, how does that change the way you should think about risky choices?
+- If a possible loss feels especially important, what costs, alternatives, and limits should you check before choosing?
 - Can you think of a time when someone used loss framing to pressure you into something?
 - Is loss aversion ever useful? When might it actually protect you?
 - Can you think of a time a streak, rank, follower count, or social status made a possible loss feel much bigger?
