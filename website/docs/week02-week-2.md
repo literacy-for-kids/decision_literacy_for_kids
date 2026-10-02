@@ -122,20 +122,24 @@ Present this scenario:
 
 > "The weather forecast says there's a 20% chance of rain today. You decide NOT to bring an umbrella. It rains. You get wet. Was not bringing the umbrella a bad decision?"
 
-Let the student think and answer. Then discuss:
+Let the student think and answer. **We cannot judge the process yet.** Getting wet does not prove the choice was poor, and choosing the most likely weather does not prove the choice was good. We need to know the learner's goal, exposure to rain, available shelter, and the costs of carrying an umbrella or getting wet.
 
-- The forecast said 80% chance of NO rain. You went with the most likely outcome.
-- If you made this same choice 100 times, you'd stay dry about 80 times.
-- Getting wet THIS time doesn't mean the choice was wrong — it means the 20% happened.
+Give these two fictional cases. Both learners see the same 20% forecast:
 
-Now flip it:
+| Learner | Facts known before choosing | Reasonable choice and reason |
+|---|---|---|
+| Maya | Walks outdoors with a paper drawing she wants to protect; no shelter; a small umbrella is easy to carry. | Bring it: protecting the drawing matters more than the small carrying cost. |
+| Eli | Plans to stay indoors, with only a covered porch to cross; has no belongings needing rain protection; the umbrella is bulky. | Leave it: the planned exposure is low and carrying it adds a cost. |
 
-> "The forecast says 90% chance of rain. You leave your umbrella at home anyway because you don't feel like carrying it. It turns out to be sunny. Was that a good decision?"
+Either process can be reasonable. If Eli's plans later change, review the new information separately from what Eli knew at the time. Ask: "What would change your choice?"
 
-Discussion:
+Now compare processes:
 
-- It worked out! But was the reasoning good? (No — you ignored strong evidence.)
-- Getting lucky doesn't make a bad process good.
+> "Maya sees a 90% forecast, knows she will walk outside with her drawing, and can easily carry an umbrella. She ignores all those facts and flips a coin to decide. The coin says leave it. It stays sunny."
+
+The sunny outcome does not make that process careful: Maya ignored relevant evidence and her stated goal. A 90% forecast alone still does not make leaving an umbrella wrong in every situation.
+
+**Optional number model:** Suppose rain has probability 0.20, getting wet costs 10 fictional inconvenience points, carrying costs 1 point, and the umbrella fully prevents the modeled wetting loss. Leaving has expected loss 0.20 × 10 = 2 points; carrying has loss 1. If getting wet instead costs only 1 point, leaving has expected loss 0.20 points. The forecast stayed the same; the costs changed the choice. Younger learners can use the story table without calculating. These are invented assumptions, not promises about one day's outcome.
 
 ---
 
@@ -143,8 +147,8 @@ Discussion:
 
 Work through several more quick scenarios together:
 
-- **You study hard for a test and get a B.** Good decision? (Yes — good process, decent result.)
-- **You don't study at all and get an A.** Good decision? (No — bad process, lucky result.)
+- **You want to learn unfamiliar spelling words, practice them with feedback, and get a B.** Was the practice reasonable for that goal? (Yes; the grade alone does not establish how well the process worked.)
+- **You know the words are unfamiliar and practice would help your goal, but skip it and guess every answer correctly.** Was the process careful? (No; ignored relevant preparation, despite the favorable result. No studying alone would not establish weak reasoning if you already knew the material.)
 - **You look both ways before crossing the street and still trip.** Good process? (Yes!)
 - **You run across without looking and nothing happens.** Good process? (No!)
 
@@ -172,17 +176,17 @@ Draw this grid on paper:
 
 |  | ✅ Good Outcome | ❌ Bad Outcome |
 |---|---|---|
-| **✅ Good Process** | Deserved success | Bad luck |
-| **❌ Bad Process** | Dumb luck | Deserved failure |
+| **✅ Good Process** | Careful process, favorable result | Careful process, unfavorable result |
+| **❌ Bad Process** | Weak process, favorable result | Weak process, unfavorable result |
 
-![The 2×2 grid of decision process versus outcome: deserved success, bad luck, dumb luck, and deserved failure — judge the decision, not just the result](/img/diagrams/process-outcome-grid.svg)
+![A grid separates careful or weak processes from favorable or unfavorable outcomes; review the known facts before judging the process](/img/diagrams/process-outcome-grid.svg)
 
 Explain each box:
 
-- **Good Process + Good Outcome:** You did the right thing and it worked. Great!
-- **Good Process + Bad Outcome:** You did the right thing and it didn't work. This happens! Don't change your process because of bad luck.
-- **Bad Process + Good Outcome:** ⚠️ This is the dangerous one. You got away with it, and now you might think the bad process was actually smart.
-- **Bad Process + Bad Outcome:** You made a poor choice and it showed. At least the signal is clear.
+- **Good Process + Good Outcome:** The reasoning was careful and the result was favorable. Explain each judgment separately.
+- **Good Process + Bad Outcome:** Careful reasoning can have an unfavorable result. Review assumptions and new evidence; one result alone does not prove the process needs changing.
+- **Bad Process + Good Outcome:** A favorable result can hide weak reasoning. Ask which relevant facts, goals, or safety considerations were ignored.
+- **Bad Process + Bad Outcome:** Review the weak reasoning and the unfavorable result separately. The result alone does not establish why the process was weak.
 
 ---
 
@@ -193,11 +197,11 @@ Read each scenario aloud and have the student place it in the correct box on the
 1. You practiced your spelling words every day and got 100% on the test. *(Good/Good)*
 2. You wore a seatbelt and the drive was uneventful. *(Good/Good)*
 3. You saved your allowance for something special but the store sold out. *(Good/Bad)*
-4. You didn't wear sunscreen and happened to stay in the shade all day. *(Bad/Good)*
+4. You expected a sunny outdoor day, knew you needed appropriate sun protection, ignored that need, and unexpectedly stayed indoors all day. *(Weak process / favorable result under these stated facts)*
 5. You shared your lunch with a friend who was hungry, and then you were still a little hungry. *(Good/Bad — or is it? Discuss!)*
 6. You rushed through your homework and guessed right on every answer. *(Bad/Good)*
 7. You carefully chose a library book based on the summary and didn't like it. *(Good/Bad)*
-8. You didn't clean your room and nobody noticed. *(Bad/Good)*
+8. You knew a toy in the walkway was a trip hazard, left it there, and nobody tripped. *(Weak process / favorable result: no injury does not make ignoring the known hazard careful)*
 
 Discussion:
 
@@ -305,7 +309,7 @@ A decision result is feedback, not a report-card grade. A careful process can st
 
 After this week, check whether the learner can:
 
-1. **Sort one scenario:** "You didn't study but got an A on the test. Good thinking or bad thinking?" (Looking for: "Bad thinking, lucky result" or equivalent.)
+1. **Compare two choices:** "Maya and Eli saw the same 20% forecast. Why might each make a different reasonable umbrella choice?" (Looking for: goals, exposure, shelter, and carrying or wetting costs; the forecast alone is insufficient.)
 2. **Explain the key idea:** "Can a good decision have a bad result?" (Looking for: "Yes — because of luck or things you can't control.")
 3. **Apply to their own life:** "Can you think of a time you made a good choice but it didn't work out?" (Any reasonable real example shows understanding.)
 

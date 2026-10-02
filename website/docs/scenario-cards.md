@@ -28,9 +28,9 @@ Use these scenarios to start a discussion, illustrate a concept, or give student
 **Scenario:** Alex remembers one time leaving home without an umbrella and getting soaked. Now Alex always carries an umbrella, even on sunny days.
 
 **Discussion:**
-- Which cognitive bias might be affecting Alex's thinking?
-- What would a probabilistic thinker do instead?
-- Is carrying an umbrella every day irrational, or just inefficient?
+- Could the memorable experience be affecting Alex's estimate of rain? What would we need to ask before concluding that?
+- What forecast, goals, shelter, and carrying or wetting costs would help Alex choose?
+- Could a light umbrella be worth carrying even with a low rain probability? Explain a case where it is, and a case where it is not.
 
 **Extension:** What other everyday habits come from one memorable bad experience?
 

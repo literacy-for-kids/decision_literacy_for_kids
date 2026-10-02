@@ -39,9 +39,9 @@ Sample responses illustrate reasoning, not scripts to memorize or the only defen
 ## Week 2
 **Core lesson:** [Week 2: Process vs. Outcome](./week02-week-2.md)
 
-**Supplied scenario and question:** A fictional forecast gives 70% chance of rain. A learner takes an umbrella, but it stays dry. Evaluate the process.
+**Supplied scenario and question:** A fictional forecast gives 70% chance of rain. A learner will walk outdoors carrying a paper drawing, wants to protect it, has no shelter, and can easily carry a small umbrella. The learner takes it, but it stays dry. Evaluate the process.
 
-**Illustrative response:** The learner used relevant information before the outcome. Dry weather was still possible, so one dry day does not prove the process was bad.
+**Illustrative response:** Taking the umbrella was reasonable given the forecast, goal, exposure, and small carrying cost. Dry weather was still possible, so one dry day does not prove the process was bad. The forecast alone would not be enough to judge the choice.
 
 **Optional depth:** Name information known before the choice versus learned afterward; avoid grading a choice only by hindsight.
 
