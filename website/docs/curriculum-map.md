@@ -16,7 +16,7 @@ sidebar_label: Curriculum Map
 | 6 | The Loss Aversion Lab | Why does losing hurt more than winning feels good? | Identifying loss aversion | loss aversion, prospect theory, risk | Describe a choice you made because you were afraid of losing something | Find an ad designed to make you afraid of missing out |
 | 7 | The Sunk Cost Trap | Why is "I already started" a bad reason to continue? | Recognizing sunk cost reasoning | sunk cost fallacy, commitment, investment | Describe a time you kept doing something because you had already invested in it | Find an example of sunk cost in a business or government decision |
 | 8 | Bias Hunters | Where do cognitive biases show up in everyday life? | Bias identification in real contexts | cognitive bias, framing, confirmation bias | Find one example of a bias you studied this week in an ad or social media post | Track one bias per day for a week |
-| 9 | Expected Value | How do we compare uncertain options systematically? | Expected value calculation | expected value, probability, payoff | Calculate the expected value of a simple game | Find a real-world decision that could be analyzed with expected value |
+| 9 | Expected Value | How do we compare uncertain options systematically? | Expected value calculation | expected value, probability, payoff, sensitivity check, probability estimate | Calculate the expected value of a simple game; Compare the modeled choice at 20%, 40%, and 60% rain | Find a real-world decision that could be analyzed with expected value |
 | 10 | Signal vs. Noise | How do we know when we have enough information to decide? | Information filtering | signal, noise, sample size | Identify one situation where you had signal vs. one where you only had noise | Find a news story where the conclusion outran the evidence |
 | 11 | Reversible vs. Irreversible | Should all decisions be made at the same speed? | Decision stakes calibration | reversible, irreversible, stakes | Classify five recent decisions as reversible or irreversible | Design a "decision checklist" for a high-stakes choice |
 | 12 | Your Choices Affect Others | How do individual decisions create collective outcomes? | Systems thinking in decisions | externality, ripple effect, interdependence | Describe one choice you made today that affected someone else | Find a community example where many individual choices created a shared problem |
@@ -36,3 +36,7 @@ These activities are integrated into the existing weeks. Use the lesson's sugges
 | Week | Added core skill | Evidence to collect |
 |---|---|---|
 | 9 | Probability sensitivity | Compare EV across estimates and name missing factors |
+
+## Optional-Work Status Key
+
+The map’s extension column is enrichment, not core assessment. An invitation to locate or construct missing source, current-case, interview, or tool-activity material is an **open research prompt** needing adult selection, verification, and additional preparation. Supplied tool instructions remain supplied teaching, with their stated setup needs. For a **supplied practice** alternative, use the [weekly worked examples](./worked-examples-and-optional-depth.md), which include the fictional scenario, illustrative response, and bounded depth question. Choose one activity after the corresponding core teaching; do not require both routes.

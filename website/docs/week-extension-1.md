@@ -41,6 +41,24 @@ This is one of the most powerful ideas in all of science. And it's simpler than 
 - [Independent Practice](#independent-practice)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Weeks 3 and 10: probabilities and evidence.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Update with an explicit bag model:** Choose Bag A or B with equal probability. A contains 7 red/3 blue paper tokens; B contains 3 red/7 blue. Draw with replacement under the stated model. The supplied observations are red, red, blue. Track belief in A.
+
+**Illustrative response and reasoning:** Start 50%. After red: 70%. After red, red: 49/(49+9) ≈ 84.5%. After red, red, blue: 147/(147+63) = 70%. The blue weakens A without ruling it out. Equal selection probability and replacement are essential assumptions; these are computed model probabilities, not arbitrary confidence guesses.
+
+**Optional depth question:** Start with a 20% prior for A. After one red: (0.2×0.7)/((0.2×0.7)+(0.8×0.3)) ≈ 36.8%. Explain why the same observation gives a different posterior with a different prior.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Age Fit
 
 - **Ages 8–9:** Use the simplified path with shorter sessions, concrete mystery-bag examples, and oral or drawn responses.
@@ -124,7 +142,7 @@ Before any pulls:
 
 > "Right now, what's the probability that I'm holding the mostly-red bag?"
 
-Answer: 50% — you have no information, so both bags are equally likely. Write it down.
+Answer: 50% **because the stated setup chooses either bag with equal probability**. Lack of information alone does not make two possibilities equally likely. Use paper tokens: Bag A has 7 red/3 blue; Bag B has 3 red/7 blue; replace the token after each draw. Write down the assumption.
 
 **Pull 1:** Reach in without looking and pull out one gumball. (Put it back after showing.)
 
@@ -136,11 +154,11 @@ Let's say it's RED.
 
 **Pull 2:** Pull another. Let's say it's RED again.
 
-> "Two reds. The mostly-red bag explanation is getting stronger. Maybe you're now 85% confident."
+> "Two reds. The mostly-red bag explanation is getting stronger. Under the equal-prior, 70/30, replacement model, your probability is 49/(49+9), about **84.5%**."
 
 **Pull 3:** Pull another. This one is BLUE.
 
-> "Interesting — a blue! Does this mean it's the mostly-blue bag? Not necessarily. Even the mostly-red bag has 30% blue. But it does shift your confidence back a bit. Maybe 75% now."
+> "Interesting — a blue! Does this mean it's the mostly-blue bag? Not necessarily. Even the mostly-red bag has 30% blue. But it does shift your confidence back a bit. Under that same model, the red, red, blue sequence gives **70%**, not 75%. The blue weakens the mostly-red explanation without ruling it out."
 
 Continue for 5-7 pulls. Track the confidence level after each pull:
 
@@ -148,8 +166,8 @@ Continue for 5-7 pulls. Track the confidence level after each pull:
 |---|---|---|---|
 | Before | - | 50% | 50% |
 | 1 | Red | 70% | 30% |
-| 2 | Red | 85% | 15% |
-| 3 | Blue | 75% | 25% |
+| 2 | Red | about 84.5% | about 15.5% |
+| 3 | Blue | 70% | 30% |
 | ... | | | |
 
 Reveal the bag at the end. Discuss:
@@ -164,11 +182,11 @@ Reveal the bag at the end. Discuss:
 
 Explain the core idea simply:
 
-> **"Your new belief = your old belief + the new evidence, weighted by how strong the evidence is."**
+> **"Update your belief using both the prior and how likely the evidence is under each explanation."** This is a verbal guide, not an addition formula. The supplied case above provides an explicit numerical model.
 
 - If the evidence is STRONG (very unlikely if your belief is wrong), it shifts your belief a lot.
 - If the evidence is WEAK (could happen either way), it barely shifts your belief.
-- You NEVER go straight to 100% or 0% on a single piece of evidence.
+- In this bag model, neither color rules out either bag, so these draws do not produce certainty. In other cases, genuinely decisive evidence can rule out a specified hypothesis; ordinary uncertain observations should not be treated as decisive.
 
 ---
 

@@ -137,7 +137,7 @@ After 30 rolls, look at the results:
 
 - Did each number appear exactly 5 times? (Almost certainly not!)
 - Were any numbers way over or under?
-- Does this mean the die is unfair? (No — 30 rolls isn't many.)
+- Does this prove the die is unfair? (No. One small uneven sample is not enough by itself to establish fairness or unfairness.)
 
 Key insight: **Probability tells us the pattern over MANY tries. In a small number of tries, anything can happen.** This is the same idea from Week 2 — a good process doesn't guarantee a good short-term result.
 
@@ -173,16 +173,16 @@ Introduce the scale:
 
 ```
 0%          25%         50%         75%         100%
-No idea     Doubt it    Could go    Pretty      Certain
+Won't       Unlikely    Even       Likely      Will
                         either way  sure
 ```
 
 Explain:
 
 - 0% = "I'm sure this WON'T happen"
-- 50% = "I have no idea — total coin flip"
+- 50% = "The event is as likely to happen as not under this estimate." Not knowing enough is different from evidence for 50%.
 - 100% = "I'm absolutely certain this WILL happen"
-- Most things in life fall somewhere between 20% and 80%
+- Many uncertain predictions lie between 0% and 100%; choose a probability from relevant evidence rather than treating 20–80% as a universal range.
 
 From now on, whenever you catch yourself thinking "it will happen" or "it won't happen," switch to **probability mode**: "How likely is this, on a scale from 0% to 100%?" We call this wearing your **Probability Glasses** — looking at the world through percentages instead of yes-or-no.
 
@@ -304,6 +304,13 @@ Use short descriptive feedback such as:
 - "Try again and explain what would change your confidence number."
 
 ---
+
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 3's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-3) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
 
 ## Check for Understanding
 

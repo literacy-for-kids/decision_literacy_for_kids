@@ -324,3 +324,7 @@ By the end of the program, students will have a **Decision Journal** full of rea
 ## Practical Core Skills
 
 [Week 9 tests expected value across uncertain probability estimates](./week09-week-9.md#core-practice-what-if-our-probability-estimate-is-wrong), so learners can see when a recommendation depends on a fragile assumption. Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.
+
+## Worked Examples and Optional Depth
+
+Use the [supplied weekly practice cards](./worked-examples-and-optional-depth.md) for fictional scenarios, illustrative responses, and one bounded depth question for each core week. Allow about 15–20 minutes per selected card after its core teaching. Depth is optional and does not change checkpoint requirements. Suggestions that require the adult to locate or construct missing sources, tool activities, interview records, or real-case materials are **open research prompts**, which need preparation and verification; use a supplied card when that preparation is unavailable. Assess evidence, reasoning, and limits, with oral, drawn, or written responses.

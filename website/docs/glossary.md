@@ -84,3 +84,15 @@ All the key words from our curriculum, explained in plain language. Terms are li
 | **Uncertainty** | Not knowing for sure what will happen. All decisions involve some uncertainty; the skill is making good choices despite it, not waiting for certainty that may never come. | Week 1 |
 | **Walk-away point** | A pre-decided limit — a specific loss, time, or cost — at which you will stop and move on, no matter how tempting it is to keep going. Setting it in advance protects against the sunk cost trap. | Week 7 |
 | **Zero-sum** | A situation where one person's gain exactly equals another person's loss — the total stays the same no matter what. Not every situation is zero-sum; many allow for cooperation and mutual gain. | Week 13 |
+
+## Practical and Optional-Depth Vocabulary
+
+These entries align the worked examples and added practical activities with the core lessons. Optional-module vocabulary is not required for core progression.
+
+| Term | Meaning and limit | Taught in |
+|---|---|---|
+| **Sensitivity check** | Recalculate using plausible different assumptions to see whether a recommendation changes. | Week 9 |
+| **Robust within a model** | A result that holds across the tested assumptions; it is not a guaranteed outcome or proof the model is complete. | Week 9 |
+| **Prior** | A probability assigned before the new evidence being considered. It should reflect the stated setup or relevant information. | Optional Bayesian updating |
+| **Likelihood** | How probable the observed evidence would be if a specified explanation were true. | Optional Bayesian updating |
+| **Posterior** | The updated probability after combining the prior with evidence under the model. | Optional Bayesian updating |

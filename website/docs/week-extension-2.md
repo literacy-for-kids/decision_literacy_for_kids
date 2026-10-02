@@ -41,6 +41,24 @@ This is the tool of choice for strategists, doctors making treatment plans, and 
 - [Independent Practice](#independent-practice)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Weeks 9 and 11: expected value, assumptions, and reversible choices.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Read a supplied tree:** Use the supplied umbrella model: rain 60%, dry 40%. Bringing gives scores 8 in rain and 5 if dry; leaving gives 2 in rain and 9 if dry. Distinguish the decision from the chance event and compare both averages.
+
+**Illustrative response and reasoning:** Bring EV = 0.6×8 + 0.4×5 = 6.8. Leave EV = 0.6×2 + 0.4×9 = 4.8. Bringing has higher EV under these invented scores. It does not guarantee the better realized outcome, and values, access, and safety are not settled by the table.
+
+**Optional depth question:** At 20% rain, bring EV = 5.6 and leave EV = 7.6. Explain why a tree inherits uncertainty from its probability and payoff assumptions.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Age Fit
 
 - **Ages 8–9:** Use the simplified path with shorter sessions, large drawings, and oral or drawn responses.
@@ -178,7 +196,7 @@ Now add a second decision:
 ```
 
 Discuss:
-- "See how one decision leads to another? The tree shows ALL possible futures."
+- "See how one decision leads to another? The tree shows the futures we chose to model; omitted possibilities remain a limitation."
 - "Which overall path gives the best expected outcome?"
 - Calculate the EV of the "Study" branch vs. the "Don't Study" branch.
 
@@ -270,7 +288,7 @@ Play a few rounds. Then:
 - If you say 20, they must say 21. You win!
 - So you want to say 20. To guarantee saying 20, you need to say 16 (they say 17-19, you say 20).
 - To guarantee 16, say 12. Then 8. Then 4.
-- **Winning strategy: say 4, 8, 12, 16, 20. (Multiples of 4!)**
+- **Winning strategy for the second player:** end your turns at 4, 8, 12, 16, and 20, responding with enough numbers to make each pair of turns total 4. The first player can initially say only 1–3 numbers, so the second can reach 4. This is a forced win for the second player under the stated rules; the first player cannot force those milestones against correct play.
 
 > "By working backwards from the end, you can figure out the exact winning strategy. This is backward induction in action!"
 

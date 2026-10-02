@@ -109,6 +109,7 @@ const sidebars = {
       collapsed: true,
       items: [
         'facilitator-guide',
+        'worked-examples-and-optional-depth',
         'curriculum-map',
         'scenario-cards',
         'exit-ticket-bank',
