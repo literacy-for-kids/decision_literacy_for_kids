@@ -160,9 +160,9 @@ Sample responses illustrate reasoning, not scripts to memorize or the only defen
 ## Week 13
 **Core lesson:** [Week 13: The Prisoner's Dilemma](./week13-week-13.md)
 
-**Supplied scenario and question:** In a classroom point game, both cooperate gives 3 each; one defects gets 5 while the other gets 0; both defect gives 1 each. Compare outcomes.
+**Supplied scenario and question:** In a classroom point game, both cooperate gives 3 each; one defects gets 5 while the other gets 0; both defect gives 1 each. Compare pair totals and your own points for each fixed partner action in one round. Does this predict what most people will do across ten rounds?
 
-**Illustrative response:** Mutual cooperation has total 6, while one-sided defection totals 5 and mutual defection totals 2. Individual incentives can conflict with a shared outcome.
+**Illustrative response:** Mutual cooperation has total 6, while one-sided defection totals 5 and mutual defection totals 2. For this round's own points, D earns 5 rather than 3 against C, and 1 rather than 0 against D. Across rounds, later responses and goals matter. These are model calculations, not a prediction about most people; our score sheet records only what happened in our game.
 
 **Optional depth:** Explain why this invented payoff table does not justify cooperating with threats or abuse; safety and power are outside this game model.
 

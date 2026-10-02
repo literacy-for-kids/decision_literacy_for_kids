@@ -10,13 +10,13 @@ description: "Win-win vs. zero-sum thinking — exploring the most famous game i
 
 Last week we saw how choices create ripples. This week we explore the most famous puzzle in game theory: what happens when two people must decide WITHOUT knowing what the other will do?
 
-We play one of the most famous thought experiments in all of decision science: **The Prisoner's Dilemma.** It can reveal a deep truth about human cooperation: **what looks best for each individual, if everyone does it, can leave everyone worse off.** We also learn the crucial distinction between **zero-sum** situations (one person's gain is another's loss) and **positive-sum** situations (everyone can gain if they cooperate). Knowing which kind of situation you're in changes how you should decide.
+We play a thought experiment in decision science: **The Prisoner's Dilemma.** In its one-round point model, each player's incentive can conflict with the pair's total: **maximizing your own points this round can leave both players with fewer points than mutual cooperation.** This arithmetic does not predict what most people will do. Repeated play adds future responses and other goals. We also compare **zero-sum** situations (one person's gain is another's loss) and opportunities for **positive-sum** outcomes (both can gain).
 
 ---
 
 :::info Facilitator Snapshot
 - The Prisoner's Dilemma is best played with 2+ people. If you're one-on-one, you play against the student.
-- Let the game unfold naturally — resist the urge to coach cooperation. The learning comes from experiencing the tension.
+- Let the game unfold naturally — resist the urge to coach cooperation. Record what happened, then separate the point arithmetic, strategy assumptions, and actual observations.
 - The zero-sum / positive-sum distinction is one of the most useful frameworks in the whole course. It applies to sibling conflicts, friendships, classroom dynamics, and eventually to business, politics, and international relations.
 :::
 
@@ -65,7 +65,7 @@ By the end of this week, the learner can:
 :::
 
 :::tip Facilitation Mindset
-The Prisoner's Dilemma feels unfair — that's the point. It demonstrates a real tension in human interaction. Don't resolve the tension too quickly. Let the student sit with the frustrating insight that rational individual behavior can lead to collectively terrible outcomes.
+The Prisoner's Dilemma feels unfair — that's the point. It demonstrates a real tension in human interaction. Don't resolve the tension too quickly. Ask which goal the model assumes: maximizing one's own points in this round. A classroom choice can also reflect fairness, curiosity, or future responses; do not label a learner irrational or selfish from a game move.
 :::
 
 ## For Younger Learners (Ages 8–9)
@@ -76,7 +76,7 @@ The Prisoner's Dilemma feels unfair — that's the point. It demonstrates a real
 **What to shorten or skip:**
 - Focus on the Sharing Game (Prisoner's Dilemma) — it's concrete and playable.
 - Skip the formal payoff matrix notation. Use "What happens" storytelling instead.
-- Keep Nash Equilibrium intuitive: "The spot where nobody wants to change their mind."
+- Keep the one-round Nash Equilibrium intuitive: "Neither player can earn more points by changing just their own action while the other action stays fixed."
 - Don't use the term "Nash Equilibrium" with younger learners — call it "the stuck spot" or "the landing spot."
 - Keep sessions to 20 minutes.
 
@@ -93,7 +93,7 @@ The Prisoner's Dilemma feels unfair — that's the point. It demonstrates a real
 :::info For Ages 10–12
 - Full payoff matrix with numbers. Challenge students to find Nash Equilibrium by elimination.
 - Discuss real-world prisoner's dilemmas: arms races, group projects, environmental cooperation.
-- Explore why the "rational" choice (defect) leads to a worse outcome for everyone.
+- Compare why defection earns more points in a single round, holding the partner's action fixed, while mutual cooperation gives a larger pair total. Then discuss what repeated play changes.
 :::
 
 ---
@@ -105,7 +105,7 @@ By the end of this session, the student can:
 
 - play the Prisoner's Dilemma game and explain the payoff structure
 - explain why it's tempting to defect even though mutual cooperation is better
-- describe what happens when both players think only about themselves
+- distinguish one-round incentives from strategies across rounds and observations about actual players
 
 ---
 
@@ -170,15 +170,22 @@ Discuss what happened:
 - "When did you cooperate? When did you defect? Why?"
 - "What's the BEST possible outcome for both players together?" (Both cooperate every round = 3+3 = 6 total points per round = 60 total)
 - "What's the WORST?" (Both defect every round = 1+1 = 2 total per round = 20 total)
-- "What usually happened?" (Probably somewhere in between)
+- "What happened in our recorded rounds?" Count each outcome; do not guess or generalize this small game to most people.
 
 Key insights:
 
-> **"The dilemma is that defecting is ALWAYS better for you individually, no matter what your partner does. But if BOTH players follow that logic, you both end up with 1 point instead of 3. Individual rationality leads to collective disaster."**
+**One-round comparison, holding your partner's action fixed:**
+
+- If the partner cooperates, you get 5 by defecting versus 3 by cooperating.
+- If the partner defects, you get 1 by defecting versus 0 by cooperating.
+
+So defection is a **strictly dominant action for this round's points**: it gives more points in either comparison. If both defect, each gets 1, compared with 3 each when both cooperate. That does not establish a universally best strategy for the whole ten-round game or predict what most people do.
+
+**Repeated play:** Your action may change your partner's later actions. Future points, communication rules, the known ending, and goals such as fairness can matter. Keep four things separate: the table's arithmetic; assumptions about strategies and goals; the choices actually recorded in this game; and any wider claim about people, which would need evidence beyond this exercise.
 
 ---
 
-**4. The Winning Strategy**
+**4. One Strategy to Compare: Tit for Tat**
 
 Share a careful historical note: In classic iterated Prisoner's Dilemma tournaments, one influential strategy was **Tit for Tat.** It is important because it starts cooperative, responds clearly, and is easy to understand. It is not the best response in every real-life situation.
 
@@ -187,13 +194,23 @@ Share a careful historical note: In classic iterated Prisoner's Dilemma tourname
 3. If they cooperate, you cooperate. If they defect, you defect next round.
 4. Be willing to forgive — if they go back to cooperating, you do too.
 
-Why it works:
-- It's **nice** (starts cooperative)
-- It's **retaliatory** (doesn't let people exploit you)
-- It's **forgiving** (doesn't hold grudges)
-- It's **clear** (the other person can figure out your pattern and choose cooperation)
+What the rule does:
+- It starts with cooperation.
+- It responds to the partner's last action, so later actions can change.
+- It returns to cooperation after the partner cooperates.
+- Its pattern is simple to explain. These features do not guarantee the highest score or prevent every one-sided loss.
 
-This maps to real life: "Be kind by default. Stand up for yourself if someone takes advantage. But always be willing to rebuild trust."
+**Supplied three-round comparison:** Assume the partner follows Tit for Tat exactly, starts with cooperation, observes actions correctly, and knows the game ends after round 3. Compare these three possible sequences; C means cooperate and D means defect.
+
+| Your actions | Partner's actions under the stated rule | Your round points and total | Partner's round points and total |
+|---|---|---|---|
+| C, C, C | C, C, C | 3 + 3 + 3 = 9 | 3 + 3 + 3 = 9 |
+| D, D, D | C, D, D | 5 + 1 + 1 = 7 | 0 + 1 + 1 = 2 |
+| C, C, D | C, C, C | 3 + 3 + 5 = 11 | 3 + 3 + 0 = 6 |
+
+Ask why always defecting scores less than always cooperating **against this specified partner**, and why the last-round change adds points with no next round for the partner to respond. These are model calculations under a supplied rule, not observations of people or proof that one sequence is best in every game. A different partner rule, ending, or goal can change the comparison. Younger learners can compare the first two rows using counters; the known-ending question is optional depth.
+
+Real relationships also involve needs, agreements, and safety. A game strategy is not a rule to retaliate or an obligation to rebuild trust after harm.
 
 Later research found that slight variations — like occasionally forgiving an extra defection — can do better in some settings. Real-life cooperation also depends on communication, power differences, mistakes, and whether people can leave the relationship or system.
 
@@ -253,7 +270,7 @@ For each scenario, discuss: Is it zero-sum, positive-sum, or could it be either?
 
 Key discussion:
 
-> "Most real-life situations that SEEM zero-sum actually have positive-sum solutions if you look hard enough. Most conflicts aren't really about one pizza. They're about different preferences that can be creatively combined."
+> "Some conflicts offer a way for both people to gain when their preferences differ. Look for options, but do not assume every conflict has a win-win solution; scarce resources, rights, and safety can limit the options."
 
 ---
 
@@ -296,8 +313,8 @@ Think of a recent conflict with a friend, sibling, or classmate. Answer these qu
 
 - What did each person want?
 - Was it truly zero-sum, or was there a way to grow the pie?
-- Did anyone "defect" (act selfishly when cooperation would have been better)?
-- What would the Tit-for-Tat strategy suggest?
+- Which choices helped or hindered each person's stated goal? Do not label a real person's motives from a game action.
+- What might happen next under a clearly stated response rule? How could communication or a different goal change that prediction?
 - What would have been the win-win outcome?
 
 **2. Mini Prisoner's Dilemma**
@@ -351,11 +368,12 @@ Use short descriptive feedback such as:
 
 After this week, check whether the learner can:
 
-1. **Explain interdependence:** "How is choosing what to eat for lunch different from choosing whether to share your toys with a friend?" (Looking for: "What I eat doesn't depend on someone else's choice, but sharing does — it depends on whether they share back.")
-2. **Predict a response:** "If you always cooperate in the Sharing Game, what will most people eventually do?" (Looking for: "Take advantage" or "Defect, because they get the best deal.")
-3. **Find the stuck spot:** "In the Sharing Game, why do both players often end up both hiding — even though both sharing would be better?" (Looking for: "Because each person is scared the other will hide, so they hide too.")
+1. **Explain interdependence:** "Compare choosing between two snacks already set aside for you with choosing C or D in the Sharing Game. Which result depends on the partner's action?" (Looking for: under the stated snack setup, your choice selects your snack; game points depend on both players' actions.)
+2. **Compare the points:** "If your partner cooperates this round, how many points do you get from C and D? What if the partner defects?" (Looking for: 3 versus 5, then 0 versus 1; D earns more in each fixed-action comparison. This does not tell us what most people will choose.)
+3. **Find the one-round stuck spot:** "If both choose D, can either earn more this round by switching alone to C?" (Looking for: no; that player's points fall from 1 to 0. Mutual C still gives 3 each. This is the one-round point model, not a prediction that everyone will choose D.)
+4. **Separate model and observation:** "In the supplied three-round example, what partner rule did we assume? What choices did we actually observe in our classroom game?" (Looking for: the example assumes Tit for Tat; the score sheet records the actual game. On the solo path, identify the calculation as a model rather than an observation of players. Different future responses or goals can change strategy reasoning, and a small classroom game does not establish what most people do.)
 
-If the learner can explain why "both hide" happens even though "both share" is better, they've grasped the core paradox.
+Look for an explanation of the fixed-action point comparisons and one limit on applying them across rounds or to people. Accept speech, counters, or drawings. Do not require a prediction about human behavior or the optional last-round calculation.
 
 ---
 
@@ -366,7 +384,7 @@ After the Sharing Game, ask:
 
 > "When your partner chose to hide while you shared, how did that feel? Did it make you want to hide next time — even though you believe sharing is the right thing to do?"
 
-> "Game theory shows us that doing the 'smart' thing and doing the 'kind' thing sometimes pull in different directions. That tension is real — and there's no shame in feeling it."
+> "Maximizing this round's points can conflict with mutual sharing. Our real goals are not limited to game points. Explain the goal you are comparing rather than calling a player smart, kind, or selfish from one move."
 
 Trust, fairness, and loyalty all live inside these games. When someone cooperates despite the risk, they're choosing to trust — and that takes courage. When someone defects, they might be protecting themselves. Understanding the game helps you choose deliberately instead of just reacting.
 
@@ -378,9 +396,9 @@ Trust, fairness, and loyalty all live inside these games. When someone cooperate
 ## Spiral Review
 
 :::tip Connecting to Earlier Weeks
-- **From Week 12:** "Every round of the Sharing Game creates ripples. Your choice to cooperate or defect doesn't just affect this round — it shapes whether the other person trusts you next round."
-- **From Week 9:** "Expected value still applies. If you cooperate and your partner cooperates 60% of the time, calculate: is cooperation or defection the better bet? Now factor in the relationship cost."
-- **From Week 6:** "Loss aversion shows up here. The sting of being betrayed (you shared, they hid) feels worse than the satisfaction of mutual sharing — which pushes people toward hiding."
+- **From Week 12:** "A Sharing Game action can affect later responses. In the Tit-for-Tat model, your current action determines the partner's next action; an actual player may follow a different rule."
+- **From Week 9:** "If the partner's cooperation probability stays 0.60 regardless of your action, this round's expected points are 0.60 × 3 + 0.40 × 0 = 1.8 for C, and 0.60 × 5 + 0.40 × 1 = 3.4 for D. That assumes a fixed probability and counts only this round's points; it does not model your effect on later choices or other goals."
+- **From Week 6:** "Point outcomes may feel different to different players. If someone reports disappointment, ask what goal or expectation mattered; do not infer a bias or motive from choosing D."
 - **From Week 11:** "Is each round of the Sharing Game a two-way door or a one-way door? In a one-shot game it's closer to one-way. In a repeated game, each round is more two-way — you can rebuild trust."
 :::
 

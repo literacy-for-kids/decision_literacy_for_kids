@@ -158,7 +158,7 @@ If students can put the core concept in their own words, they understood it. If 
 
 ## Privacy and Student Data
 
-No student information needs to be collected. The Decision Journal stays with the student. Discussion responses stay in the room. Nothing is submitted to the website or stored anywhere. See [Privacy and Student Data](https://www.literacy-for-kids.com/docs/privacy-and-student-data/) for details.
+No student names or personal disclosures need to be collected. The Decision Journal stays with the student and need not be shared. Use a fictional example or selected nonpersonal artifact for feedback. Offline responses are not submitted through the curriculum website, but paper notes, photographs, and saved files can still be retained or shared. Explain who may view a collected artifact, how it will be stored, and when it will be returned or disposed of; ask before scanning, photographing, or forwarding work. Follow the setting's privacy rules. See [Offline Use](./offline-use.md#privacy-reminder) and [Privacy and Student Data](https://www.literacy-for-kids.com/docs/privacy-and-student-data/) for guidance.
 
 ## Worked Examples and Optional Depth
 
