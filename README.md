@@ -69,7 +69,7 @@ Each week includes **two guided sessions** (adult-led, ~30 minutes each) and **o
 
 ## How to Use It
 
-You do not need to run all 18 weeks. Every lesson stands alone as a 10–20 minute discussion or activity — use one lesson, one phase, or the full sequence.
+You do not need to run all 18 weeks. Choose one discussion or activity for a 10–20 minute session, one unit, or the full sequence. A complete weekly module usually takes several sessions. Before using a week out of sequence, check its prior concepts and provide any needed introduction. Read the week’s preparation notes for materials, tools, and setup; see [pacing and preparation](https://www.literacy-for-kids.com/docs/using-the-curricula/#pacing-and-preparation).
 
 - **New to Literacy for Kids?** The hub's [Start Here guide](https://www.literacy-for-kids.com/docs/start-here/) has dedicated pages [for parents](https://www.literacy-for-kids.com/docs/start-here/parents/) and [for teachers and facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/).
 - **Only have 20 minutes?** Pick any week on the [curriculum site](https://decision.literacy-for-kids.com/), read the big idea, run one activity, and ask one discussion question.

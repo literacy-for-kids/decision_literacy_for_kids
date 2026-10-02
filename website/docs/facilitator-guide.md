@@ -32,10 +32,14 @@ No background in statistics, psychology, or behavioral economics is required. If
 
 ## How to Run a 10-20 Minute Lesson
 
-**Before the session (5 minutes):**
+This is a short adaptation: select one discussion or manageable activity, rather than compressing a whole weekly module. Full guided sessions, independent practice, and projects need the time stated on the week’s page. Check prior concepts before using a week out of sequence; see [pacing and preparation](https://www.literacy-for-kids.com/docs/using-the-curricula/#pacing-and-preparation).
+
+**Before the session (time varies):**
 Read the lesson yourself. You don't need to memorize it. Notice the core concept and pick 2-3 of the discussion questions you find most interesting.
 
-**During the session:**
+Check the selected activity’s answer notes, safety/access options, materials, and tool setup before learners arrive. A brief read-through may be enough for a discussion; practical activities need additional preparation.
+
+**During the short session:**
 1. **Open with the warm-up question** (1-2 min) -- something like "Have you ever made a really good choice that turned out badly? Or a bad choice that somehow worked out?"
 2. **Explain the main concept** (3-5 min) -- briefly and concretely. Use the lesson's explanation or your own version.
 3. **Work through an example** (2-3 min) -- use the scenario from the lesson or one from your own experience
